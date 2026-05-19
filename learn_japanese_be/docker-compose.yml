@@ -1,0 +1,36 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: learn_japanese_app
+    working_dir: /var/www
+    volumes:
+      - ./:/var/www
+      - ./docker/php/local.ini:/usr/local/etc/php/conf.d/local.ini
+    depends_on:
+      - postgres
+
+  nginx:
+    image: nginx:alpine
+    container_name: learn_japanese_nginx
+    ports:
+      - "8081:80"
+    volumes:
+      - ./:/var/www
+      - ./docker/nginx:/etc/nginx/conf.d
+    depends_on:
+      - app
+
+  postgres:
+    image: postgres:15-alpine
+    container_name: learn_japanese_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: learn_japanese
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5433:5432"
+    volumes:
+      - ./docker/postgres/data:/var/lib/postgresql/data
