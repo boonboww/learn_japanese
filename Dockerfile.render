@@ -37,7 +37,13 @@ RUN composer install --no-dev --optimize-autoloader
 # Phân quyền ghi cho các thư mục lưu trữ và cache của Laravel
 RUN chown -R www-data:www-data /var/www/html/storage /var/www/html/bootstrap/cache
 
-# Mở cổng 80 (Apache mặc định)
+# Set default port to 80 (will be overridden by Render's PORT environment variable)
+ENV PORT=80
+
+# Update Apache to listen on the Render PORT
+RUN sed -i 's/80/${PORT}/g' /etc/apache2/ports.conf /etc/apache2/sites-available/*.conf
+
+# Mở cổng 80 (hoặc cổng Render chỉ định)
 EXPOSE 80
 
 # Chạy Apache ở chế độ foreground
