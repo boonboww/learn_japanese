@@ -18,7 +18,7 @@ return new class extends Migration
             $table->string('furigana', 100)->nullable();
             $table->string('romaji', 100);
             $table->string('meaning', 255);
-            $table->string('audio_url', 255)->nullable();
+            $table->string('type', 50)->nullable();
             $table->timestamps();
         });
     }

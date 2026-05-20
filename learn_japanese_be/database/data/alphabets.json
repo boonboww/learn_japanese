@@ -1,0 +1,354 @@
+[
+  {
+    "name": "Hàng A",
+    "type": "hiragana",
+    "order_index": 1,
+    "alphabets": [
+      { "character": "あ", "romaji": "a" },
+      { "character": "い", "romaji": "i" },
+      { "character": "う", "romaji": "u" },
+      { "character": "え", "romaji": "e" },
+      { "character": "お", "romaji": "o" }
+    ]
+  },
+  {
+    "name": "Hàng Ka",
+    "type": "hiragana",
+    "order_index": 2,
+    "alphabets": [
+      { "character": "か", "romaji": "ka" },
+      { "character": "き", "romaji": "ki" },
+      { "character": "く", "romaji": "ku" },
+      { "character": "け", "romaji": "ke" },
+      { "character": "こ", "romaji": "ko" }
+    ]
+  },
+  {
+    "name": "Hàng Sa",
+    "type": "hiragana",
+    "order_index": 3,
+    "alphabets": [
+      { "character": "さ", "romaji": "sa" },
+      { "character": "し", "romaji": "shi" },
+      { "character": "す", "romaji": "su" },
+      { "character": "せ", "romaji": "se" },
+      { "character": "そ", "romaji": "so" }
+    ]
+  },
+  {
+    "name": "Hàng Ta",
+    "type": "hiragana",
+    "order_index": 4,
+    "alphabets": [
+      { "character": "た", "romaji": "ta" },
+      { "character": "ち", "romaji": "chi" },
+      { "character": "つ", "romaji": "tsu" },
+      { "character": "て", "romaji": "te" },
+      { "character": "と", "romaji": "to" }
+    ]
+  },
+  {
+    "name": "Hàng Na",
+    "type": "hiragana",
+    "order_index": 5,
+    "alphabets": [
+      { "character": "な", "romaji": "na" },
+      { "character": "に", "romaji": "ni" },
+      { "character": "ぬ", "romaji": "nu" },
+      { "character": "ね", "romaji": "ne" },
+      { "character": "の", "romaji": "no" }
+    ]
+  },
+  {
+    "name": "Hàng Ha",
+    "type": "hiragana",
+    "order_index": 6,
+    "alphabets": [
+      { "character": "は", "romaji": "ha" },
+      { "character": "ひ", "romaji": "hi" },
+      { "character": "ふ", "romaji": "fu" },
+      { "character": "へ", "romaji": "he" },
+      { "character": "ほ", "romaji": "ho" }
+    ]
+  },
+  {
+    "name": "Hàng Ma",
+    "type": "hiragana",
+    "order_index": 7,
+    "alphabets": [
+      { "character": "ま", "romaji": "ma" },
+      { "character": "み", "romaji": "mi" },
+      { "character": "む", "romaji": "mu" },
+      { "character": "め", "romaji": "me" },
+      { "character": "も", "romaji": "mo" }
+    ]
+  },
+  {
+    "name": "Hàng Ya",
+    "type": "hiragana",
+    "order_index": 8,
+    "alphabets": [
+      { "character": "や", "romaji": "ya" },
+      { "character": "ゆ", "romaji": "yu" },
+      { "character": "よ", "romaji": "yo" }
+    ]
+  },
+  {
+    "name": "Hàng Ra",
+    "type": "hiragana",
+    "order_index": 9,
+    "alphabets": [
+      { "character": "ら", "romaji": "ra" },
+      { "character": "り", "romaji": "ri" },
+      { "character": "る", "romaji": "ru" },
+      { "character": "れ", "romaji": "re" },
+      { "character": "ろ", "romaji": "ro" }
+    ]
+  },
+  {
+    "name": "Hàng Wa",
+    "type": "hiragana",
+    "order_index": 10,
+    "alphabets": [
+      { "character": "わ", "romaji": "wa" },
+      { "character": "を", "romaji": "wo" },
+      { "character": "ん", "romaji": "n" }
+    ]
+  },
+  {
+    "name": "Hàng Ga (Đục)",
+    "type": "hiragana",
+    "order_index": 11,
+    "alphabets": [
+      { "character": "が", "romaji": "ga" },
+      { "character": "ぎ", "romaji": "gi" },
+      { "character": "ぐ", "romaji": "gu" },
+      { "character": "げ", "romaji": "ge" },
+      { "character": "ご", "romaji": "go" }
+    ]
+  },
+  {
+    "name": "Hàng Za (Đục)",
+    "type": "hiragana",
+    "order_index": 12,
+    "alphabets": [
+      { "character": "ざ", "romaji": "za" },
+      { "character": "じ", "romaji": "ji" },
+      { "character": "ず", "romaji": "zu" },
+      { "character": "ぜ", "romaji": "zo" },
+      { "character": "ぞ", "romaji": "zo" }
+    ]
+  },
+  {
+    "name": "Hàng Da (Đục)",
+    "type": "hiragana",
+    "order_index": 13,
+    "alphabets": [
+      { "character": "だ", "romaji": "da" },
+      { "character": "ぢ", "romaji": "ji" },
+      { "character": "づ", "romaji": "zu" },
+      { "character": "で", "romaji": "de" },
+      { "character": "ど", "romaji": "do" }
+    ]
+  },
+  {
+    "name": "Hàng Ba (Đục)",
+    "type": "hiragana",
+    "order_index": 14,
+    "alphabets": [
+      { "character": "ば", "romaji": "ba" },
+      { "character": "び", "romaji": "bi" },
+      { "character": "ぶ", "romaji": "bu" },
+      { "character": "べ", "romaji": "be" },
+      { "character": "ぼ", "romaji": "bo" }
+    ]
+  },
+  {
+    "name": "Hàng Pa (Bán đục)",
+    "type": "hiragana",
+    "order_index": 15,
+    "alphabets": [
+      { "character": "ぱ", "romaji": "pa" },
+      { "character": "ぴ", "romaji": "pi" },
+      { "character": "ぷ", "romaji": "pu" },
+      { "character": "ぺ", "romaji": "pe" },
+      { "character": "ぽ", "romaji": "po" }
+    ]
+  },
+  {
+    "name": "Hàng A",
+    "type": "katakana",
+    "order_index": 16,
+    "alphabets": [
+      { "character": "ア", "romaji": "a" },
+      { "character": "イ", "romaji": "i" },
+      { "character": "ウ", "romaji": "u" },
+      { "character": "エ", "romaji": "e" },
+      { "character": "オ", "romaji": "o" }
+    ]
+  },
+  {
+    "name": "Hàng Ka",
+    "type": "katakana",
+    "order_index": 17,
+    "alphabets": [
+      { "character": "カ", "romaji": "ka" },
+      { "character": "キ", "romaji": "ki" },
+      { "character": "ク", "romaji": "ku" },
+      { "character": "ケ", "romaji": "ke" },
+      { "character": "コ", "romaji": "ko" }
+    ]
+  },
+  {
+    "name": "Hàng Sa",
+    "type": "katakana",
+    "order_index": 18,
+    "alphabets": [
+      { "character": "サ", "romaji": "sa" },
+      { "character": "シ", "romaji": "shi" },
+      { "character": "ス", "romaji": "su" },
+      { "character": "セ", "romaji": "se" },
+      { "character": "ソ", "romaji": "so" }
+    ]
+  },
+  {
+    "name": "Hàng Ta",
+    "type": "katakana",
+    "order_index": 19,
+    "alphabets": [
+      { "character": "タ", "romaji": "ta" },
+      { "character": "チ", "romaji": "chi" },
+      { "character": "ツ", "romaji": "tsu" },
+      { "character": "テ", "romaji": "te" },
+      { "character": "ト", "romaji": "to" }
+    ]
+  },
+  {
+    "name": "Hàng Na",
+    "type": "katakana",
+    "order_index": 20,
+    "alphabets": [
+      { "character": "ナ", "romaji": "na" },
+      { "character": "ニ", "romaji": "ni" },
+      { "character": "ヌ", "romaji": "nu" },
+      { "character": "ネ", "romaji": "ne" },
+      { "character": "ノ", "romaji": "no" }
+    ]
+  },
+  {
+    "name": "Hàng Ha",
+    "type": "katakana",
+    "order_index": 21,
+    "alphabets": [
+      { "character": "ハ", "romaji": "ha" },
+      { "character": "ヒ", "romaji": "hi" },
+      { "character": "フ", "romaji": "fu" },
+      { "character": "ヘ", "romaji": "he" },
+      { "character": "ホ", "romaji": "ho" }
+    ]
+  },
+  {
+    "name": "Hàng Ma",
+    "type": "katakana",
+    "order_index": 22,
+    "alphabets": [
+      { "character": "マ", "romaji": "ma" },
+      { "character": "ミ", "romaji": "mi" },
+      { "character": "ム", "romaji": "mu" },
+      { "character": "メ", "romaji": "me" },
+      { "character": "モ", "romaji": "mo" }
+    ]
+  },
+  {
+    "name": "Hàng Ya",
+    "type": "katakana",
+    "order_index": 23,
+    "alphabets": [
+      { "character": "ヤ", "romaji": "ya" },
+      { "character": "ユ", "romaji": "yu" },
+      { "character": "ヨ", "romaji": "yo" }
+    ]
+  },
+  {
+    "name": "Hàng Ra",
+    "type": "katakana",
+    "order_index": 24,
+    "alphabets": [
+      { "character": "ラ", "romaji": "ra" },
+      { "character": "リ", "romaji": "ri" },
+      { "character": "ル", "romaji": "ru" },
+      { "character": "レ", "romaji": "re" },
+      { "character": "ロ", "romaji": "ro" }
+    ]
+  },
+  {
+    "name": "Hàng Wa",
+    "type": "katakana",
+    "order_index": 25,
+    "alphabets": [
+      { "character": "ワ", "romaji": "wa" },
+      { "character": "ヲ", "romaji": "wo" },
+      { "character": "ン", "romaji": "n" }
+    ]
+  },
+  {
+    "name": "Hàng Ga (Đục)",
+    "type": "katakana",
+    "order_index": 26,
+    "alphabets": [
+      { "character": "ガ", "romaji": "ga" },
+      { "character": "ギ", "romaji": "gi" },
+      { "character": "グ", "romaji": "gu" },
+      { "character": "ゲ", "romaji": "ge" },
+      { "character": "ゴ", "romaji": "go" }
+    ]
+  },
+  {
+    "name": "Hàng Za (Đục)",
+    "type": "katakana",
+    "order_index": 27,
+    "alphabets": [
+      { "character": "ザ", "romaji": "za" },
+      { "character": "ジ", "romaji": "ji" },
+      { "character": "ズ", "romaji": "zu" },
+      { "character": "ゼ", "romaji": "ze" },
+      { "character": "ゾ", "romaji": "zo" }
+    ]
+  },
+  {
+    "name": "Hàng Da (Đục)",
+    "type": "katakana",
+    "order_index": 28,
+    "alphabets": [
+      { "character": "ダ", "romaji": "da" },
+      { "character": "ヂ", "romaji": "ji" },
+      { "character": "ヅ", "romaji": "zu" },
+      { "character": "デ", "romaji": "de" },
+      { "character": "ド", "romaji": "do" }
+    ]
+  },
+  {
+    "name": "Hàng Ba (Đục)",
+    "type": "katakana",
+    "order_index": 29,
+    "alphabets": [
+      { "character": "バ", "romaji": "ba" },
+      { "character": "ビ", "romaji": "bi" },
+      { "character": "ブ", "romaji": "bu" },
+      { "character": "ベ", "romaji": "be" },
+      { "character": "ボ", "romaji": "bo" }
+    ]
+  },
+  {
+    "name": "Hàng Pa (Bán đục)",
+    "type": "katakana",
+    "order_index": 30,
+    "alphabets": [
+      { "character": "パ", "romaji": "pa" },
+      { "character": "ピ", "romaji": "pi" },
+      { "character": "プ", "romaji": "pu" },
+      { "character": "ペ", "romaji": "pe" },
+      { "character": "ポ", "romaji": "po" }
+    ]
+  }
+]

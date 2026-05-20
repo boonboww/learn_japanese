@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 
-#[Fillable(['group_id', 'word', 'furigana', 'romaji', 'meaning', 'audio_url'])]
+#[Fillable(['group_id', 'word', 'furigana', 'romaji', 'meaning', 'type'])]
 class Vocabulary extends Model
 {
     use HasFactory;

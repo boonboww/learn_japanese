@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
-#[Fillable(['group_id', 'character', 'romaji', 'audio_url', 'stroke_path'])]
+#[Fillable(['group_id', 'character', 'romaji', 'stroke_path'])]
 class Alphabet extends Model
 {
     use HasFactory;

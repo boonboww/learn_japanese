@@ -16,7 +16,6 @@ return new class extends Migration
             $table->foreignId('group_id')->constrained('alphabet_groups')->onDelete('cascade');
             $table->string('character', 10);
             $table->string('romaji', 10);
-            $table->string('audio_url', 255)->nullable();
             $table->text('stroke_path')->nullable();
             $table->timestamps();
         });

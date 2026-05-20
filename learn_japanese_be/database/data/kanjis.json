@@ -1,0 +1,902 @@
+[
+  {
+    "character": "一",
+    "meaning": "Nhất (Một)",
+    "onyomi": "イチ, イツ",
+    "kunyomi": "ひと, ひと-つ"
+  },
+  {
+    "character": "二",
+    "meaning": "Nhị (Hai)",
+    "onyomi": "ニ",
+    "kunyomi": "ふた, ふた-tsu"
+  },
+  {
+    "character": "三",
+    "meaning": "Tam (Ba)",
+    "onyomi": "サン",
+    "kunyomi": "み, み-tsu"
+  },
+  {
+    "character": "四",
+    "meaning": "Tứ (Bốn)",
+    "onyomi": "シ",
+    "kunyomi": "よ, よ-tsu, よん"
+  },
+  {
+    "character": "五",
+    "meaning": "Ngũ (Năm)",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ, いつ-tsu"
+  },
+  {
+    "character": "六",
+    "meaning": "Lục (Sáu)",
+    "onyomi": "ロク",
+    "kunyomi": "む, む-tsu"
+  },
+  {
+    "character": "七",
+    "meaning": "Thất (Bảy)",
+    "onyomi": "シチ",
+    "kunyomi": "なな, なな-tsu"
+  },
+  {
+    "character": "八",
+    "meaning": "Bát (Tám)",
+    "onyomi": "ハチ",
+    "kunyomi": "よう, や, や-tsu"
+  },
+  {
+    "character": "九",
+    "meaning": "Cửu (Chín)",
+    "onyomi": "キュウ, ク",
+    "kunyomi": "ここの, ここの-tsu"
+  },
+  {
+    "character": "十",
+    "meaning": "Thập (Mười)",
+    "onyomi": "ジュウ",
+    "kunyomi": "とお, と"
+  },
+  {
+    "character": "百",
+    "meaning": "Bách (Trăm)",
+    "onyomi": "ヒャク",
+    "kunyomi": ""
+  },
+  {
+    "character": "千",
+    "meaning": "Thiên (Nghìn)",
+    "onyomi": "セン",
+    "kunyomi": "ち"
+  },
+  {
+    "character": "万",
+    "meaning": "Vạn (Mười nghìn)",
+    "onyomi": "マン, バン",
+    "kunyomi": ""
+  },
+  {
+    "character": "円",
+    "meaning": "Yên (Tròn, tiền Yên)",
+    "onyomi": "エン",
+    "kunyomi": "まる-i"
+  },
+  {
+    "character": "日",
+    "meaning": "Nhật (Mặt trời, ngày)",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "ひ, び, か"
+  },
+  {
+    "character": "月",
+    "meaning": "Nguyệt (Mặt trăng, tháng)",
+    "onyomi": "ゲツ, ガツ",
+    "kunyomi": "つき"
+  },
+  {
+    "character": "火",
+    "meaning": "Hỏa (Lửa)",
+    "onyomi": "カ",
+    "kunyomi": "ひ, び"
+  },
+  {
+    "character": "水",
+    "meaning": "Thủy (Nước)",
+    "onyomi": "スイ",
+    "kunyomi": "みず"
+  },
+  {
+    "character": "木",
+    "meaning": "Mộc (Cây)",
+    "onyomi": "モク, ボク",
+    "kunyomi": "き, こ"
+  },
+  {
+    "character": "金",
+    "meaning": "Kim (Vàng, tiền)",
+    "onyomi": "キン, コン",
+    "kunyomi": "かね, かな"
+  },
+  {
+    "character": "土",
+    "meaning": "Thổ (Đất)",
+    "onyomi": "ド, ト",
+    "kunyomi": "つち"
+  },
+  {
+    "character": "曜",
+    "meaning": "Diệu (Ngày trong tuần)",
+    "onyomi": "ヨウ",
+    "kunyomi": ""
+  },
+  {
+    "character": "何",
+    "meaning": "Hà (Cái gì, mấy)",
+    "onyomi": "カ",
+    "kunyomi": "なに, なん"
+  },
+  {
+    "character": "人",
+    "meaning": "Nhân (Người)",
+    "onyomi": "ジン, ニン",
+    "kunyomi": "ひと, り, と"
+  },
+  {
+    "character": "子",
+    "meaning": "Tử (Con)",
+    "onyomi": "シ, ス",
+    "kunyomi": "こ"
+  },
+  {
+    "character": "女",
+    "meaning": "Nữ (Phụ nữ)",
+    "onyomi": "ジョ, ニョ",
+    "kunyomi": "おんな, め"
+  },
+  {
+    "character": "男",
+    "meaning": "Nam (Đàn ông)",
+    "onyomi": "ダン, ナン",
+    "kunyomi": "おtoko"
+  },
+  {
+    "character": "父",
+    "meaning": "Phụ (Bố)",
+    "onyomi": "フ",
+    "kunyomi": "ちち, とう"
+  },
+  {
+    "character": "母",
+    "meaning": "Mẫu (Mẹ)",
+    "onyomi": "ボ",
+    "kunyomi": "はは, かあ"
+  },
+  {
+    "character": "先",
+    "meaning": "Tiên (Trước)",
+    "onyomi": "セン",
+    "kunyomi": "saki, まず"
+  },
+  {
+    "character": "生",
+    "meaning": "Sinh (Sống, sinh ra, học sinh)",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "い-きる, う-まれる, なm"
+  },
+  {
+    "character": "学",
+    "meaning": "Học (Học tập)",
+    "onyomi": "ガク",
+    "kunyomi": "まな-bu"
+  },
+  {
+    "character": "校",
+    "meaning": "Hiệu (Trường học)",
+    "onyomi": "コウ",
+    "kunyomi": ""
+  },
+  {
+    "character": "友",
+    "meaning": "Hữu (Bạn bè)",
+    "onyomi": "ユウ",
+    "kunyomi": "tomo"
+  },
+  {
+    "character": "本",
+    "meaning": "Bản (Sách, gốc, thon dài)",
+    "onyomi": "ホン",
+    "kunyomi": "モト"
+  },
+  {
+    "character": "毎",
+    "meaning": "Mỗi (Mỗi, mọi)",
+    "onyomi": "マイ",
+    "kunyomi": "goto"
+  },
+  {
+    "character": "年",
+    "meaning": "Niên (Năm)",
+    "onyomi": "ネン",
+    "kunyomi": "toshi"
+  },
+  {
+    "character": "今",
+    "meaning": "Kim (Bây giờ)",
+    "onyomi": "コン, キン",
+    "kunyomi": "いま"
+  },
+  {
+    "character": "寺",
+    "meaning": "Tự (Chùa)",
+    "onyomi": "ジ",
+    "kunyomi": "てら"
+  },
+  {
+    "character": "時",
+    "meaning": "Thời (Thời gian, giờ)",
+    "onyomi": "ジ",
+    "kunyomi": "とき, どき"
+  },
+  {
+    "character": "分",
+    "meaning": "Phân (Phút, chia ra)",
+    "onyomi": "フン, ブン, プン",
+    "kunyomi": "わ-かる, わ-ける"
+  },
+  {
+    "character": "半",
+    "meaning": "Bán (Một nửa)",
+    "onyomi": "ハン",
+    "kunyomi": "なか-ば"
+  },
+  {
+    "character": "上",
+    "meaning": "Thượng (Trên)",
+    "onyomi": "ジョウ",
+    "kunyomi": "うえ, あ-がる, のぼ-る"
+  },
+  {
+    "character": "下",
+    "meaning": "Hạ (Dưới)",
+    "onyomi": "カ, ゲ",
+    "kunyomi": "した, くだ-る, さ-げる"
+  },
+  {
+    "character": "中",
+    "meaning": "Trung (Trong, ở giữa)",
+    "onyomi": "チュウ",
+    "kunyomi": "なか"
+  },
+  {
+    "character": "外",
+    "meaning": "Ngoại (Ngoài)",
+    "onyomi": "ガイ, ゲ",
+    "kunyomi": "そと, ほか, はず-す"
+  },
+  {
+    "character": "前",
+    "meaning": "Tiền (Trước)",
+    "onyomi": "ゼン",
+    "kunyomi": "まえ"
+  },
+  {
+    "character": "後",
+    "meaning": "Hậu (Sau, phía sau)",
+    "onyomi": "ゴ, コウ",
+    "kunyomi": "うし-ろ, あと, のち"
+  },
+  {
+    "character": "右",
+    "meaning": "Hữu (Phải)",
+    "onyomi": "ウ, ユウ",
+    "kunyomi": "みぎ"
+  },
+  {
+    "character": "左",
+    "meaning": "Tả (Trái)",
+    "onyomi": "サ",
+    "kunyomi": "ひだり"
+  },
+  {
+    "character": "間",
+    "meaning": "Gian (Ở giữa, khoảng cách)",
+    "onyomi": "カン, ケン",
+    "kunyomi": "あいだ, ま"
+  },
+  {
+    "character": "東",
+    "meaning": "Đông (Phía đông)",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし"
+  },
+  {
+    "character": "西",
+    "meaning": "Tây (Phía tây)",
+    "onyomi": "セイ, サイ",
+    "kunyomi": "にし"
+  },
+  {
+    "character": "南",
+    "meaning": "Nam (Phía nam)",
+    "onyomi": "ナン",
+    "kunyomi": "みなみ"
+  },
+  {
+    "character": "北",
+    "meaning": "Bắc (Phía bắc)",
+    "onyomi": "ホク",
+    "kunyomi": "きた"
+  },
+  {
+    "character": "口",
+    "meaning": "Khẩu (Cái miệng)",
+    "onyomi": "コウ",
+    "kunyomi": "くち, ぐち"
+  },
+  {
+    "character": "目",
+    "meaning": "Mục (Mắt)",
+    "onyomi": "モク",
+    "kunyomi": "め"
+  },
+  {
+    "character": "耳",
+    "meaning": "Nhĩ (Tai)",
+    "onyomi": "ジ",
+    "kunyomi": "みみ"
+  },
+  {
+    "character": "手",
+    "meaning": "Thủ (Tay)",
+    "onyomi": "シュ",
+    "kunyomi": "て"
+  },
+  {
+    "character": "足",
+    "meaning": "Túc (Chân, đầy đủ)",
+    "onyomi": "ソク",
+    "kunyomi": "あし, た-る"
+  },
+  {
+    "character": "見",
+    "meaning": "Kiến (Nhìn, xem)",
+    "onyomi": "ケン",
+    "kunyomi": "み-る, み-せる"
+  },
+  {
+    "character": "行",
+    "meaning": "Hành (Đi, tổ chức)",
+    "onyomi": "コウ, ギョウ",
+    "kunyomi": "い-く, おこな-う"
+  },
+  {
+    "character": "来",
+    "meaning": "Lai (Đến)",
+    "onyomi": "ライ",
+    "kunyomi": "く-る, きた-る"
+  },
+  {
+    "character": "帰",
+    "meaning": "Quy (Trở về)",
+    "onyomi": "キ",
+    "kunyomi": "かえ-る, かえ-す"
+  },
+  {
+    "character": "食",
+    "meaning": "Thực (Ăn)",
+    "onyomi": "ショk",
+    "kunyomi": "た-べる, く-う"
+  },
+  {
+    "character": "飲",
+    "meaning": "Ẩm (Uống)",
+    "onyomi": "イン",
+    "kunyomi": "の-む"
+  },
+  {
+    "character": "買",
+    "meaning": "Mãi (Mua)",
+    "onyomi": "バイ",
+    "kunyomi": "か-う"
+  },
+  {
+    "character": "聞",
+    "meaning": "Văn (Nghe, hỏi)",
+    "onyomi": "ブン, モン",
+    "kunyomi": "き-く, き-こえる"
+  },
+  {
+    "character": "書",
+    "meaning": "Thư (Viết, sách)",
+    "onyomi": "ショ",
+    "kunyomi": "か-く"
+  },
+  {
+    "character": "読",
+    "meaning": "Độc (Đọc)",
+    "onyomi": "ドク",
+    "kunyomi": "よ-む"
+  },
+  {
+    "character": "話",
+    "meaning": "Thoại (Nói chuyện)",
+    "onyomi": "ワ",
+    "kunyomi": "はな-す, はなし"
+  },
+  {
+    "character": "出",
+    "meaning": "Xuất (Ra, đưa ra)",
+    "onyomi": "シュツ",
+    "kunyomi": "de-る, だ-す"
+  },
+  {
+    "character": "入",
+    "meaning": "Nhập (Vào, đưa vào)",
+    "onyomi": "ニュウ",
+    "kunyomi": "はい-る, い-れる"
+  },
+  {
+    "character": "会",
+    "meaning": "Hội (Gặp gỡ, hội nghị)",
+    "onyomi": "カイ, エ",
+    "kunyomi": "あ-う"
+  },
+  {
+    "character": "社",
+    "meaning": "Xã (Xã hội, đền thờ)",
+    "onyomi": "シャ",
+    "kunyomi": "yashiro"
+  },
+  {
+    "character": "大",
+    "meaning": "Đại (To, lớn)",
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "おお-きい"
+  },
+  {
+    "character": "小",
+    "meaning": "Tiểu (Nhỏ, bé)",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい-さい, こ"
+  },
+  {
+    "character": "高",
+    "meaning": "Cao (Cao, đắt)",
+    "onyomi": "コウ",
+    "kunyomi": "たか-い"
+  },
+  {
+    "character": "安",
+    "meaning": "An (An toàn, rẻ)",
+    "onyomi": "アン",
+    "kunyomi": "やす-い"
+  },
+  {
+    "character": "新",
+    "meaning": "Tân (Mới)",
+    "onyomi": "シン",
+    "kunyomi": "あたら-しい"
+  },
+  {
+    "character": "古",
+    "meaning": "Cổ (Cũ)",
+    "onyomi": "コ",
+    "kunyomi": "ふる-い"
+  },
+  {
+    "character": "多",
+    "meaning": "Đa (Nhiều)",
+    "onyomi": "タ",
+    "kunyomi": "おお-い"
+  },
+  {
+    "character": "少",
+    "meaning": "Thiểu (Ít)",
+    "onyomi": "ショウ",
+    "kunyomi": "すく-ない, すこ-し"
+  },
+  {
+    "character": "長",
+    "meaning": "Trường (Dài, trưởng)",
+    "onyomi": "チョウ",
+    "kunyomi": "なが-ui"
+  },
+  {
+    "character": "白",
+    "meaning": "Bạch (Trắng)",
+    "onyomi": "ハク",
+    "kunyomi": "しろ, しろ-い"
+  },
+  {
+    "character": "黒",
+    "meaning": "Hắc (Đen)",
+    "onyomi": "コク",
+    "kunyomi": "くろ, くろ-ui"
+  },
+  {
+    "character": "赤",
+    "meaning": "Xích (Đỏ)",
+    "onyomi": "セキ",
+    "kunyomi": "あka, あか-い"
+  },
+  {
+    "character": "青",
+    "meaning": "Thanh (Xanh dương, xanh lá)",
+    "onyomi": "セイ",
+    "kunyomi": "あお, あお-い"
+  },
+  {
+    "character": "国",
+    "meaning": "Quốc (Đất nước)",
+    "onyomi": "コク",
+    "kunyomi": "くに"
+  },
+  {
+    "character": "語",
+    "meaning": "Ngôn (Ngôn ngữ, kể)",
+    "onyomi": "ゴ",
+    "kunyomi": "かた-る"
+  },
+  {
+    "character": "車",
+    "meaning": "Xa (Xe hơi, bánh xe)",
+    "onyomi": "シャ",
+    "kunyomi": "くるま"
+  },
+  {
+    "character": "駅",
+    "meaning": "Dịch (Nhà ga)",
+    "onyomi": "エキ",
+    "kunyomi": ""
+  },
+  {
+    "character": "道",
+    "meaning": "Đạo (Con đường, đạo đức)",
+    "onyomi": "ドウ",
+    "kunyomi": "みち"
+  },
+  {
+    "character": "川",
+    "meaning": "Xuyên (Sông)",
+    "onyomi": "セン",
+    "kunyomi": "かわ"
+  },
+  {
+    "character": "山",
+    "meaning": "Sơn (Núi)",
+    "onyomi": "サン",
+    "kunyomi": "やま"
+  },
+  {
+    "character": "空",
+    "meaning": "Không (Bầu trời, trống rỗng)",
+    "onyomi": "クウ",
+    "kunyomi": "そら, あ-く, から"
+  },
+  {
+    "character": "天",
+    "meaning": "Thiên (Trời, thời tiết)",
+    "onyomi": "テン",
+    "kunyomi": "あま, あめ"
+  },
+  {
+    "character": "気",
+    "meaning": "Khí (Khí chất, tinh thần)",
+    "onyomi": "キ",
+    "kunyomi": ""
+  },
+  {
+    "character": "雨",
+    "meaning": "Vũ (Mưa)",
+    "onyomi": "ウ",
+    "kunyomi": "あめ, あま"
+  },
+  {
+    "character": "電",
+    "meaning": "Điện (Điện thoại, điện lực)",
+    "onyomi": "デン",
+    "kunyomi": ""
+  },
+  {
+    "character": "家",
+    "meaning": "Gia (Nhà, gia đình)",
+    "onyomi": "カ, ケ",
+    "kunyomi": "いえ, や, うち"
+  },
+  {
+    "character": "室",
+    "meaning": "Thất (Căn phòng)",
+    "onyomi": "シツ",
+    "kunyomi": "むろ"
+  },
+  {
+    "character": "店",
+    "meaning": "Điếm (Cửa hàng)",
+    "onyomi": "テン",
+    "kunyomi": "みせ"
+  },
+  {
+    "character": "場",
+    "meaning": "Trường (Địa điểm, nơi)",
+    "onyomi": "ジョウ",
+    "kunyomi": "ば"
+  },
+  {
+    "character": "花",
+    "meaning": "Hoa (Bông hoa)",
+    "onyomi": "カ",
+    "kunyomi": "はな"
+  },
+  {
+    "character": "茶",
+    "meaning": "Trà (Trà, màu trà)",
+    "onyomi": "チャ, サ",
+    "kunyomi": ""
+  },
+  {
+    "character": "肉",
+    "meaning": "Nhục (Thịt)",
+    "onyomi": "ニク",
+    "kunyomi": ""
+  },
+  {
+    "character": "魚",
+    "meaning": "Ngư (Con cá)",
+    "onyomi": "ギョ",
+    "kunyomi": "さかな, うお"
+  },
+  {
+    "character": "物",
+    "meaning": "Vật (Đồ vật, sự vật)",
+    "onyomi": "ブツ, モツ",
+    "kunyomi": "もの"
+  },
+  {
+    "character": "心",
+    "meaning": "Tâm (Trái tim, tâm hồn)",
+    "onyomi": "シン",
+    "kunyomi": "こころ"
+  },
+  {
+    "character": "思",
+    "meaning": "Tư (Suy nghĩ)",
+    "onyomi": "シ",
+    "kunyomi": "おmo-う"
+  },
+  {
+    "character": "明",
+    "meaning": "Minh (Sáng, ngày mai)",
+    "onyomi": "メイ, ミョウ",
+    "kunyomi": "あか-るい, あき-らか"
+  },
+  {
+    "character": "暗",
+    "meaning": "Ám (Tối)",
+    "onyomi": "アン",
+    "kunyomi": "くら-い"
+  },
+  {
+    "character": "広",
+    "meaning": "Quảng (Rộng rãi)",
+    "onyomi": "コウ",
+    "kunyomi": "ひro-い"
+  },
+  {
+    "character": "早",
+    "meaning": "Tảo (Sớm)",
+    "onyomi": "ソウ",
+    "kunyomi": "はや-い"
+  },
+  {
+    "character": "風",
+    "meaning": "Phong (Gió, phong cách)",
+    "onyomi": "フウ",
+    "kunyomi": "かぜ"
+  },
+  {
+    "character": "海",
+    "meaning": "Hải (Biển)",
+    "onyomi": "カイ",
+    "kunyomi": "うみ"
+  },
+  {
+    "character": "京",
+    "meaning": "Kinh (Kinh đô)",
+    "onyomi": "キョウ, ケイ",
+    "kunyomi": ""
+  },
+  {
+    "character": "都",
+    "meaning": "Đô (Thành đô, thủ đô)",
+    "onyomi": "ト, ツ",
+    "kunyomi": "みやこ"
+  },
+  {
+    "character": "立",
+    "meaning": "Lập (Đứng dậy, thiết lập)",
+    "onyomi": "リツ",
+    "kunyomi": "た-つ, た-てる"
+  },
+  {
+    "character": "使",
+    "meaning": "Sử (Sử dụng, sứ giả)",
+    "onyomi": "シ",
+    "kunyomi": "つか-う"
+  },
+  {
+    "character": "作",
+    "meaning": "Tác (Chế tạo, sáng tác)",
+    "onyomi": "サk, サ",
+    "kunyomi": "つく-る"
+  },
+  {
+    "character": "言",
+    "meaning": "Ngôn (Nói, từ ngữ)",
+    "onyomi": "ゲン, ゴン",
+    "kunyomi": "い-う, こと"
+  },
+  {
+    "character": "知",
+    "meaning": "Tri (Biết, tri thức)",
+    "onyomi": "チ",
+    "kunyomi": "し-る"
+  },
+  {
+    "character": "勉",
+    "meaning": "Miễn (Cố gắng, chăm chỉ)",
+    "onyomi": "ベン",
+    "kunyomi": "つと-める"
+  },
+  {
+    "character": "強",
+    "meaning": "Cường (Mạnh, cưỡng ép)",
+    "onyomi": "キョウ, ゴウ",
+    "kunyomi": "つよ-い, し-いる"
+  },
+  {
+    "character": "楽",
+    "meaning": "Lạc (Vui vẻ, âm nhạc)",
+    "onyomi": "ラク, ガク",
+    "kunyomi": "たの-しい"
+  },
+  {
+    "character": "音",
+    "meaning": "Âm (Âm thanh)",
+    "onyomi": "オン, イン",
+    "kunyomi": "おと, ね"
+  },
+  {
+    "character": "歌",
+    "meaning": "Ca (Bài hát, ca hát)",
+    "onyomi": "カ",
+    "kunyomi": "うた, うた-う"
+  },
+  {
+    "character": "親",
+    "meaning": "Thân (Bố mẹ, thân thiết)",
+    "onyomi": "シン",
+    "kunyomi": "おや, した-しい"
+  },
+  {
+    "character": "切",
+    "meaning": "Thiết (Cắt, sắc bén)",
+    "onyomi": "セツ",
+    "kunyomi": "き-る, k-れる"
+  },
+  {
+    "character": "病",
+    "meaning": "Bệnh (Bệnh tật)",
+    "onyomi": "ビョウ",
+    "kunyomi": "ya-む, やまい"
+  },
+  {
+    "character": "院",
+    "meaning": "Viện (Bệnh viện, học viện)",
+    "onyomi": "イン",
+    "kunyomi": ""
+  },
+  {
+    "character": "医",
+    "meaning": "Y (Y học, bác sĩ)",
+    "onyomi": "イ",
+    "kunyomi": ""
+  },
+  {
+    "character": "者",
+    "meaning": "Giả (Người)",
+    "onyomi": "シャ",
+    "kunyomi": "もの"
+  },
+  {
+    "character": "死",
+    "meaning": "Tử (Chết)",
+    "onyomi": "シ",
+    "kunyomi": "し-ぬ"
+  },
+  {
+    "character": "私",
+    "meaning": "Tư (Tôi, cá nhân)",
+    "onyomi": "シ",
+    "kunyomi": "わたし, わたくし"
+  },
+  {
+    "character": "始",
+    "meaning": "Thủy (Bắt đầu)",
+    "onyomi": "シ",
+    "kunyomi": "はじ-める, はじ-まる"
+  },
+  {
+    "character": "終",
+    "meaning": "Chung (Kết thúc)",
+    "onyomi": "シュウ",
+    "kunyomi": "お-わる, お-える"
+  },
+  {
+    "character": "住",
+    "meaning": "Trú (Sinh sống, cư trú)",
+    "onyomi": "ジュウ",
+    "kunyomi": "す-む"
+  },
+  {
+    "character": "所",
+    "meaning": "Sở (Nơi chốn)",
+    "onyomi": "ショ",
+    "kunyomi": "ところ, どころ"
+  },
+  {
+    "character": "洗",
+    "meaning": "Tẩy (Rửa)",
+    "onyomi": "セン",
+    "kunyomi": "あら-う"
+  },
+  {
+    "character": "同",
+    "meaning": "Đồng (Giống nhau)",
+    "onyomi": "ドウ",
+    "kunyomi": "おな-じ"
+  },
+  {
+    "character": "紙",
+    "meaning": "Chỉ (Giấy)",
+    "onyomi": "シ",
+    "kunyomi": "かみ, がみ"
+  },
+  {
+    "character": "通",
+    "meaning": "Thông (Đi qua, thông suốt)",
+    "onyomi": "ツウ",
+    "kunyomi": "とお-る, かよ-う"
+  },
+  {
+    "character": "洋",
+    "meaning": "Dương (Đại dương, phương Tây)",
+    "onyomi": "ヨウ",
+    "kunyomi": ""
+  },
+  {
+    "character": "服",
+    "meaning": "Phục (Trang phục)",
+    "onyomi": "フク",
+    "kunyomi": ""
+  },
+  {
+    "character": "鳥",
+    "meaning": "Điểu (Con chim)",
+    "onyomi": "チョウ",
+    "kunyomi": "tori"
+  },
+  {
+    "character": "犬",
+    "meaning": "Khuyển (Con chó)",
+    "onyomi": "ケン",
+    "kunyomi": "いぬ"
+  },
+  {
+    "character": "猫",
+    "meaning": "Miêu (Con mèo)",
+    "onyomi": "ビョウ",
+    "kunyomi": "ねこ"
+  }
+]

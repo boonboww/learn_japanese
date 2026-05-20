@@ -1,0 +1,7366 @@
+[
+  {
+    "word": "一つ",
+    "furigana": "ひとつ",
+    "romaji": "hitotsu",
+    "meaning": "Một cái (đồ vật)",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二つ",
+    "furigana": "ふたつ",
+    "romaji": "futatsu",
+    "meaning": "Hai cái",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三つ",
+    "furigana": "みっつ",
+    "romaji": "mittsu",
+    "meaning": "Ba cái",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "四つ",
+    "furigana": "よっつ",
+    "romaji": "yottsu",
+    "meaning": "Bốn cái",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "五つ",
+    "furigana": "いつつ",
+    "romaji": "itsutsu",
+    "meaning": "Năm cái",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "六つ",
+    "furigana": "むっつ",
+    "romaji": "muttsu",
+    "meaning": "Sáu cái",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "七つ",
+    "furigana": "nanatsu",
+    "romaji": "nanatsu",
+    "meaning": "Bảy cái",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "八つ",
+    "furigana": "やっつ",
+    "romaji": "yattsu",
+    "meaning": "Tám cái",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "九つ",
+    "furigana": "ここのつ",
+    "romaji": "kokonotsu",
+    "meaning": "Chín cái",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "十",
+    "furigana": "とお",
+    "romaji": "too",
+    "meaning": "Mười cái / Mười",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "一人",
+    "furigana": "ひとり",
+    "romaji": "hitori",
+    "meaning": "Một người",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二人",
+    "furigana": "ふたり",
+    "romaji": "futari",
+    "meaning": "Hai người",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三人",
+    "furigana": "さんにん",
+    "romaji": "sannin",
+    "meaning": "Ba người",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "四人",
+    "furigana": "よにん",
+    "romaji": "yonin",
+    "meaning": "Bốn người",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "五人",
+    "furigana": "ごにん",
+    "romaji": "gonin",
+    "meaning": "Năm người",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "六人",
+    "furigana": "ろくにん",
+    "romaji": "rokunin",
+    "meaning": "Sáu người",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "七人",
+    "furigana": "しちにん",
+    "romaji": "shichinin",
+    "meaning": "Bảy người",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "八人",
+    "furigana": "はちにん",
+    "romaji": "hachinin",
+    "meaning": "Tám người",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "九人",
+    "furigana": "きゅうにん",
+    "romaji": "kyuunin",
+    "meaning": "Chín người",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "十人",
+    "furigana": "じゅうにん",
+    "romaji": "juunin",
+    "meaning": "Mười người",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "一日",
+    "furigana": "ついたち",
+    "romaji": "tsuitachi",
+    "meaning": "Ngày mùng 1",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二日",
+    "furigana": "ふつか",
+    "romaji": "futsuka",
+    "meaning": "Ngày mùng 2 / Hai ngày",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三日",
+    "furigana": "みっか",
+    "romaji": "mikka",
+    "meaning": "Ngày mùng 3 / Ba ngày",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "四日",
+    "furigana": "よっか",
+    "romaji": "yokka",
+    "meaning": "Ngày mùng 4 / Bốn ngày",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "五日",
+    "furigana": "いつか",
+    "romaji": "itsuka",
+    "meaning": "Ngày mùng 5 / Năm ngày",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "六日",
+    "furigana": "むいか",
+    "romaji": "muika",
+    "meaning": "Ngày mùng 6 / Sáu ngày",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "七日",
+    "furigana": "nanoka",
+    "romaji": "nanoka",
+    "meaning": "Ngày mùng 7 / Bảy ngày",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "八日",
+    "furigana": "ようか",
+    "romaji": "youka",
+    "meaning": "Ngày mùng 8 / Tám ngày",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "九日",
+    "furigana": "ここのか",
+    "romaji": "kokonoka",
+    "meaning": "Ngày mùng 9 / Chín ngày",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "十日",
+    "furigana": "とおか",
+    "romaji": "tooka",
+    "meaning": "Ngày mùng 10 / Mười ngày",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二十日",
+    "furigana": "はつか",
+    "romaji": "hatsuka",
+    "meaning": "Ngày 20 / Hai mươi ngày",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百",
+    "furigana": "ひゃく",
+    "romaji": "hyaku",
+    "meaning": "Trăm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "千",
+    "furigana": "せん",
+    "romaji": "sen",
+    "meaning": "Nghìn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "万",
+    "furigana": "まん",
+    "romaji": "man",
+    "meaning": "Vạn / Mười nghìn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "一万",
+    "furigana": "いちまん",
+    "romaji": "ichiman",
+    "meaning": "Mười nghìn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "円",
+    "furigana": "えん",
+    "romaji": "en",
+    "meaning": "Yên (tiền Nhật) / Hình tròn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "月曜日",
+    "furigana": "げつようび",
+    "romaji": "getsuyoubi",
+    "meaning": "Thứ hai",
+    "type": "time_calendar"
+  },
+  {
+    "word": "火曜日",
+    "furigana": "kayoubi",
+    "romaji": "kayoubi",
+    "meaning": "Thứ ba",
+    "type": "time_calendar"
+  },
+  {
+    "word": "水曜日",
+    "furigana": "すいようび",
+    "romaji": "suiyoubi",
+    "meaning": "Thứ tư",
+    "type": "time_calendar"
+  },
+  {
+    "word": "木曜日",
+    "furigana": "もくようび",
+    "romaji": "mokuyoubi",
+    "meaning": "Thứ năm",
+    "type": "time_calendar"
+  },
+  {
+    "word": "金曜日",
+    "furigana": "きんようび",
+    "romaji": "kinyoubi",
+    "meaning": "Thứ sáu",
+    "type": "time_calendar"
+  },
+  {
+    "word": "土曜日",
+    "furigana": "どようび",
+    "romaji": "doyoubi",
+    "meaning": "Thứ bảy",
+    "type": "time_calendar"
+  },
+  {
+    "word": "日曜日",
+    "furigana": "nichiyoubi",
+    "romaji": "nichiyoubi",
+    "meaning": "Chủ nhật",
+    "type": "time_calendar"
+  },
+  {
+    "word": "一月",
+    "furigana": "いちがつ",
+    "romaji": "ichigatsu",
+    "meaning": "Tháng 1",
+    "type": "time_calendar"
+  },
+  {
+    "word": "二月",
+    "furigana": "にがつ",
+    "romaji": "nigatsu",
+    "meaning": "Tháng 2",
+    "type": "time_calendar"
+  },
+  {
+    "word": "三月",
+    "furigana": "さんがつ",
+    "romaji": "sangatsu",
+    "meaning": "Tháng 3",
+    "type": "time_calendar"
+  },
+  {
+    "word": "四月",
+    "furigana": "しがつ",
+    "romaji": "shigatsu",
+    "meaning": "Tháng 4",
+    "type": "time_calendar"
+  },
+  {
+    "word": "五月",
+    "furigana": "ごがつ",
+    "romaji": "gogatsu",
+    "meaning": "Tháng 5",
+    "type": "time_calendar"
+  },
+  {
+    "word": "六月",
+    "furigana": "ろくがつ",
+    "romaji": "rokugatsu",
+    "meaning": "Tháng 6",
+    "type": "time_calendar"
+  },
+  {
+    "word": "七月",
+    "furigana": "しちがつ",
+    "romaji": "shichigatsu",
+    "meaning": "Tháng 7",
+    "type": "time_calendar"
+  },
+  {
+    "word": "八月",
+    "furigana": "hachigatsu",
+    "romaji": "hachigatsu",
+    "meaning": "Tháng 8",
+    "type": "time_calendar"
+  },
+  {
+    "word": "九月",
+    "furigana": "くがつ",
+    "romaji": "kugatsu",
+    "meaning": "Tháng 9",
+    "type": "time_calendar"
+  },
+  {
+    "word": "十月",
+    "furigana": "じゅうがつ",
+    "romaji": "juugatsu",
+    "meaning": "Tháng 10",
+    "type": "time_calendar"
+  },
+  {
+    "word": "十一月",
+    "furigana": "じゅういちがつ",
+    "romaji": "juuichigatsu",
+    "meaning": "Tháng 11",
+    "type": "time_calendar"
+  },
+  {
+    "word": "十二月",
+    "furigana": "juunigatsu",
+    "romaji": "juunigatsu",
+    "meaning": "Tháng 12",
+    "type": "time_calendar"
+  },
+  {
+    "word": "今日",
+    "furigana": "きょう",
+    "romaji": "kyou",
+    "meaning": "Hôm nay",
+    "type": "time_calendar"
+  },
+  {
+    "word": "明日",
+    "furigana": "あした",
+    "romaji": "ashita",
+    "meaning": "Ngày mai",
+    "type": "time_calendar"
+  },
+  {
+    "word": "昨日",
+    "furigana": "きのう",
+    "romaji": "kinou",
+    "meaning": "Hôm qua",
+    "type": "time_calendar"
+  },
+  {
+    "word": "毎日",
+    "furigana": "まいにち",
+    "romaji": "mainichi",
+    "meaning": "Mỗi ngày / Hàng ngày",
+    "type": "time_calendar"
+  },
+  {
+    "word": "毎週",
+    "furigana": "まいしゅう",
+    "romaji": "maishuu",
+    "meaning": "Mỗi tuần / Hàng tuần",
+    "type": "time_calendar"
+  },
+  {
+    "word": "毎月",
+    "furigana": "まいつき",
+    "romaji": "maitsuki",
+    "meaning": "Mỗi tháng / Hàng tháng",
+    "type": "time_calendar"
+  },
+  {
+    "word": "毎年",
+    "furigana": "まいねん",
+    "romaji": "mainen",
+    "meaning": "Mỗi năm / Hàng năm",
+    "type": "time_calendar"
+  },
+  {
+    "word": "今朝",
+    "furigana": "けさ",
+    "romaji": "kesa",
+    "meaning": "Sáng nay",
+    "type": "time_calendar"
+  },
+  {
+    "word": "今週",
+    "furigana": "こんしゅう",
+    "romaji": "konshuu",
+    "meaning": "Tuần này",
+    "type": "time_calendar"
+  },
+  {
+    "word": "今月",
+    "furigana": "こんげつ",
+    "romaji": "kongetsu",
+    "meaning": "Tháng này",
+    "type": "time_calendar"
+  },
+  {
+    "word": "今年",
+    "furigana": "ことし",
+    "romaji": "kotoshi",
+    "meaning": "Năm nay",
+    "type": "time_calendar"
+  },
+  {
+    "word": "来週",
+    "furigana": "らいしゅう",
+    "romaji": "raishuu",
+    "meaning": "Tuần sau",
+    "type": "time_calendar"
+  },
+  {
+    "word": "来月",
+    "furigana": "らいげつ",
+    "romaji": "raigetsu",
+    "meaning": "Tháng sau",
+    "type": "time_calendar"
+  },
+  {
+    "word": "来年",
+    "furigana": "らいねん",
+    "romaji": "rainen",
+    "meaning": "Năm sau",
+    "type": "time_calendar"
+  },
+  {
+    "word": "先週",
+    "furigana": "せんしゅう",
+    "romaji": "senshuu",
+    "meaning": "Tuần trước",
+    "type": "time_calendar"
+  },
+  {
+    "word": "先月",
+    "furigana": "sengetsu",
+    "romaji": "sengetsu",
+    "meaning": "Tháng trước",
+    "type": "time_calendar"
+  },
+  {
+    "word": "昨年",
+    "furigana": "sakunen",
+    "romaji": "sakunen",
+    "meaning": "Năm ngoái",
+    "type": "time_calendar"
+  },
+  {
+    "word": "一昨年",
+    "furigana": "おととし",
+    "romaji": "ototoshi",
+    "meaning": "Năm kia",
+    "type": "time_calendar"
+  },
+  {
+    "word": "一昨日",
+    "furigana": "おととい",
+    "romaji": "ototoi",
+    "meaning": "Hôm kia",
+    "type": "time_calendar"
+  },
+  {
+    "word": "明後日",
+    "furigana": "あさって",
+    "romaji": "asatte",
+    "meaning": "Ngày kia",
+    "type": "time_calendar"
+  },
+  {
+    "word": "午前",
+    "furigana": "ごぜん",
+    "romaji": "gozen",
+    "meaning": "Buổi sáng (AM)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "午後",
+    "furigana": "ごご",
+    "romaji": "gogo",
+    "meaning": "Buổi chiều (PM)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "時間",
+    "furigana": "じかん",
+    "romaji": "jikan",
+    "meaning": "Thời gian / Tiếng đồng hồ",
+    "type": "time_calendar"
+  },
+  {
+    "word": "一時間",
+    "furigana": "いちじかん",
+    "romaji": "ichijikan",
+    "meaning": "Một tiếng đồng hồ",
+    "type": "time_calendar"
+  },
+  {
+    "word": "半分",
+    "furigana": "はんぶん",
+    "romaji": "hanbun",
+    "meaning": "Một nửa",
+    "type": "time_calendar"
+  },
+  {
+    "word": "一日中",
+    "furigana": "いちにちじゅう",
+    "romaji": "ichinichijuu",
+    "meaning": "Suốt cả ngày",
+    "type": "time_calendar"
+  },
+  {
+    "word": "大人",
+    "furigana": "おとな",
+    "romaji": "otona",
+    "meaning": "Người lớn",
+    "type": "family_people"
+  },
+  {
+    "word": "子供",
+    "furigana": "こども",
+    "romaji": "kodomo",
+    "meaning": "Trẻ con",
+    "type": "family_people"
+  },
+  {
+    "word": "男の子",
+    "furigana": "おとこのこ",
+    "romaji": "otokonoko",
+    "meaning": "Cậu bé",
+    "type": "family_people"
+  },
+  {
+    "word": "女の子",
+    "furigana": "onnanoko",
+    "romaji": "onnanoko",
+    "meaning": "Cô bé",
+    "type": "family_people"
+  },
+  {
+    "word": "主人",
+    "furigana": "しゅじん",
+    "romaji": "shujin",
+    "meaning": "Chồng (của mình)",
+    "type": "family_people"
+  },
+  {
+    "word": "家内",
+    "furigana": "かない",
+    "romaji": "kanai",
+    "meaning": "Vợ (của mình)",
+    "type": "family_people"
+  },
+  {
+    "word": "奥さん",
+    "furigana": "おくさん",
+    "romaji": "okusan",
+    "meaning": "Vợ người khác",
+    "type": "family_people"
+  },
+  {
+    "word": "両親",
+    "furigana": "りょうしん",
+    "romaji": "ryoushin",
+    "meaning": "Bố mẹ / Bố mẹ ruột",
+    "type": "family_people"
+  },
+  {
+    "word": "兄弟",
+    "furigana": "きょうだい",
+    "romaji": "kyoudai",
+    "meaning": "Anh em",
+    "type": "family_people"
+  },
+  {
+    "word": "姉妹",
+    "furigana": "しまい",
+    "romaji": "shimai",
+    "meaning": "Chị em",
+    "type": "family_people"
+  },
+  {
+    "word": "家族",
+    "furigana": "かぞく",
+    "romaji": "kazoku",
+    "meaning": "Gia đình",
+    "type": "family_people"
+  },
+  {
+    "word": "父親",
+    "furigana": "ちちおや",
+    "romaji": "chichioya",
+    "meaning": "Bố (trong gia đình)",
+    "type": "family_people"
+  },
+  {
+    "word": "母親",
+    "furigana": "ははおや",
+    "romaji": "hahaoya",
+    "meaning": "Mẹ (trong gia đình)",
+    "type": "family_people"
+  },
+  {
+    "word": "おじさん",
+    "furigana": "ojisan",
+    "romaji": "ojisan",
+    "meaning": "Chú, bác trai",
+    "type": "family_people"
+  },
+  {
+    "word": "おばさん",
+    "furigana": "obasan",
+    "romaji": "obasan",
+    "meaning": "Cô, dì, bác gái",
+    "type": "family_people"
+  },
+  {
+    "word": "おじいさん",
+    "furigana": "ojiisan",
+    "romaji": "ojiisan",
+    "meaning": "Ông",
+    "type": "family_people"
+  },
+  {
+    "word": "おばあさん",
+    "furigana": "obaasan",
+    "romaji": "obaasan",
+    "meaning": "Bà",
+    "type": "family_people"
+  },
+  {
+    "word": "学生",
+    "furigana": "がくせい",
+    "romaji": "gakusei",
+    "meaning": "Học sinh, sinh viên",
+    "type": "family_people"
+  },
+  {
+    "word": "留学生",
+    "furigana": "りゅうがくせい",
+    "romaji": "ryuugakusei",
+    "meaning": "Du học sinh",
+    "type": "family_people"
+  },
+  {
+    "word": "先生",
+    "furigana": "せんせい",
+    "romaji": "sensei",
+    "meaning": "Thầy cô giáo / Bác sĩ",
+    "type": "family_people"
+  },
+  {
+    "word": "医者",
+    "furigana": "いしゃ",
+    "romaji": "isha",
+    "meaning": "Bác sĩ",
+    "type": "family_people"
+  },
+  {
+    "word": "学者",
+    "furigana": "がくしゃ",
+    "romaji": "gakusha",
+    "meaning": "Nhà khoa học / Học giả",
+    "type": "family_people"
+  },
+  {
+    "word": "友達",
+    "furigana": "ともだち",
+    "romaji": "tomodachi",
+    "meaning": "Bạn bè",
+    "type": "family_people"
+  },
+  {
+    "word": "友人",
+    "furigana": "ゆうじん",
+    "romaji": "yuujin",
+    "meaning": "Bạn thân / Người bạn",
+    "type": "family_people"
+  },
+  {
+    "word": "会社員",
+    "furigana": "かいしゃいん",
+    "romaji": "kaishayin",
+    "meaning": "Nhân viên công ty",
+    "type": "family_people"
+  },
+  {
+    "word": "外国人",
+    "furigana": "がいこくじん",
+    "romaji": "gaikokujin",
+    "meaning": "Người nước ngoài",
+    "type": "family_people"
+  },
+  {
+    "word": "日本人",
+    "furigana": "にほんじん",
+    "romaji": "nihonjin",
+    "meaning": "Người Nhật",
+    "type": "family_people"
+  },
+  {
+    "word": "私",
+    "furigana": "わたし",
+    "romaji": "watashi",
+    "meaning": "Tôi",
+    "type": "family_people"
+  },
+  {
+    "word": "自分",
+    "furigana": "じぶん",
+    "romaji": "jibun",
+    "meaning": "Bản thân",
+    "type": "family_people"
+  },
+  {
+    "word": "口",
+    "furigana": "くち",
+    "romaji": "kuchi",
+    "meaning": "Miệng / Cửa khẩu",
+    "type": "body_parts"
+  },
+  {
+    "word": "入口",
+    "furigana": "いりぐち",
+    "romaji": "iriguchi",
+    "meaning": "Lối vào",
+    "type": "body_parts"
+  },
+  {
+    "word": "出口",
+    "furigana": "でぐち",
+    "romaji": "deguchi",
+    "meaning": "Lối ra",
+    "type": "body_parts"
+  },
+  {
+    "word": "目",
+    "furigana": "め",
+    "romaji": "me",
+    "meaning": "Mắt",
+    "type": "body_parts"
+  },
+  {
+    "word": "耳",
+    "furigana": "みみ",
+    "romaji": "mimi",
+    "meaning": "Tai",
+    "type": "body_parts"
+  },
+  {
+    "word": "手",
+    "furigana": "て",
+    "romaji": "te",
+    "meaning": "Bàn tay",
+    "type": "body_parts"
+  },
+  {
+    "word": "上手",
+    "furigana": "じょうず",
+    "romaji": "jouzu",
+    "meaning": "Giỏi / Thành thạo",
+    "type": "body_parts"
+  },
+  {
+    "word": "下手",
+    "furigana": "へた",
+    "romaji": "heta",
+    "meaning": "Dở / Kém",
+    "type": "body_parts"
+  },
+  {
+    "word": "お手洗い",
+    "furigana": "おてあらい",
+    "romaji": "otearai",
+    "meaning": "Nhà vệ sinh",
+    "type": "body_parts"
+  },
+  {
+    "word": "足",
+    "furigana": "あし",
+    "romaji": "ashi",
+    "meaning": "Chân",
+    "type": "body_parts"
+  },
+  {
+    "word": "頭",
+    "furigana": "あたま",
+    "romaji": "atama",
+    "meaning": "Đầu",
+    "type": "body_parts"
+  },
+  {
+    "word": "心",
+    "furigana": "こころ",
+    "romaji": "kokoro",
+    "meaning": "Trái tim / Tâm hồn",
+    "type": "body_parts"
+  },
+  {
+    "word": "病気",
+    "furigana": "びょうき",
+    "romaji": "byouki",
+    "meaning": "Bệnh tật / Ốm đau",
+    "type": "body_parts"
+  },
+  {
+    "word": "病院",
+    "furigana": "びょういん",
+    "romaji": "byouin",
+    "meaning": "Bệnh viện",
+    "type": "body_parts"
+  },
+  {
+    "word": "入院",
+    "furigana": "にゅういん",
+    "romaji": "nyuuin",
+    "meaning": "Nhập viện",
+    "type": "body_parts"
+  },
+  {
+    "word": "学校",
+    "furigana": "がっこう",
+    "romaji": "gakkou",
+    "meaning": "Trường học",
+    "type": "school_work"
+  },
+  {
+    "word": "小学校",
+    "furigana": "しょうがっこう",
+    "romaji": "shougakkou",
+    "meaning": "Trường tiểu học",
+    "type": "school_work"
+  },
+  {
+    "word": "中学校",
+    "furigana": "ちゅうがっこう",
+    "romaji": "chuugakkou",
+    "meaning": "Trường trung học cơ sở",
+    "type": "school_work"
+  },
+  {
+    "word": "高校",
+    "furigana": "こうこう",
+    "romaji": "koukou",
+    "meaning": "Trường trung học phổ thông",
+    "type": "school_work"
+  },
+  {
+    "word": "大学",
+    "furigana": "だいがく",
+    "romaji": "daigaku",
+    "meaning": "Trường đại học",
+    "type": "school_work"
+  },
+  {
+    "word": "教室",
+    "furigana": "きょうしつ",
+    "romaji": "kyoushitsu",
+    "meaning": "Lớp học",
+    "type": "school_work"
+  },
+  {
+    "word": "勉強",
+    "furigana": "べんきょう",
+    "romaji": "benkyou",
+    "meaning": "Học tập",
+    "type": "school_work"
+  },
+  {
+    "word": "本",
+    "furigana": "ほん",
+    "romaji": "hon",
+    "meaning": "Sách / Nguồn gốc",
+    "type": "school_work"
+  },
+  {
+    "word": "日本語",
+    "furigana": "にほんご",
+    "romaji": "nihongo",
+    "meaning": "Tiếng Nhật",
+    "type": "school_work"
+  },
+  {
+    "word": "英語",
+    "furigana": "えいご",
+    "romaji": "eigo",
+    "meaning": "Tiếng Anh",
+    "type": "school_work"
+  },
+  {
+    "word": "国語",
+    "furigana": "こくご",
+    "romaji": "kokugo",
+    "meaning": "Quốc ngữ",
+    "type": "school_work"
+  },
+  {
+    "word": "辞書",
+    "furigana": "じしょ",
+    "romaji": "jisho",
+    "meaning": "Từ điển",
+    "type": "school_work"
+  },
+  {
+    "word": "図書館",
+    "furigana": "としょかん",
+    "romaji": "toshokan",
+    "meaning": "Thư viện",
+    "type": "school_work"
+  },
+  {
+    "word": "教科書",
+    "furigana": "きょうかしょ",
+    "romaji": "kyoukasho",
+    "meaning": "Sách giáo khoa",
+    "type": "school_work"
+  },
+  {
+    "word": "宿題",
+    "furigana": "しゅくだい",
+    "romaji": "shukudai",
+    "meaning": "Bài tập về nhà",
+    "type": "school_work"
+  },
+  {
+    "word": "作文",
+    "furigana": "さくぶん",
+    "romaji": "sakubun",
+    "meaning": "Bài văn / Đoạn văn",
+    "type": "school_work"
+  },
+  {
+    "word": "会社",
+    "furigana": "かいしゃ",
+    "romaji": "kaisha",
+    "meaning": "Công ty",
+    "type": "school_work"
+  },
+  {
+    "word": "社会",
+    "furigana": "しゃかい",
+    "romaji": "shakai",
+    "meaning": "Xã hội",
+    "type": "school_work"
+  },
+  {
+    "word": "仕事",
+    "furigana": "しごと",
+    "romaji": "shigoto",
+    "meaning": "Công việc",
+    "type": "school_work"
+  },
+  {
+    "word": "事務所",
+    "furigana": "じむしょ",
+    "romaji": "jimusho",
+    "meaning": "Văn phòng làm việc",
+    "type": "school_work"
+  },
+  {
+    "word": "会議",
+    "furigana": "かいぎ",
+    "romaji": "kaigi",
+    "meaning": "Cuộc họp / Hội nghị",
+    "type": "school_work"
+  },
+  {
+    "word": "家",
+    "furigana": "いえ",
+    "romaji": "ie",
+    "meaning": "Nhà ở",
+    "type": "school_work"
+  },
+  {
+    "word": "自宅",
+    "furigana": "じたく",
+    "romaji": "jitaku",
+    "meaning": "Nhà riêng",
+    "type": "school_work"
+  },
+  {
+    "word": "部屋",
+    "furigana": "へや",
+    "romaji": "heya",
+    "meaning": "Căn phòng",
+    "type": "school_work"
+  },
+  {
+    "word": "台所",
+    "furigana": "だいどころ",
+    "romaji": "daidokoro",
+    "meaning": "Nhà bếp",
+    "type": "school_work"
+  },
+  {
+    "word": "近所",
+    "furigana": "きんじょ",
+    "romaji": "kinjo",
+    "meaning": "Hàng xóm / Vùng lân cận",
+    "type": "school_work"
+  },
+  {
+    "word": "場所",
+    "furigana": "ばしょ",
+    "romaji": "basho",
+    "meaning": "Địa điểm / Nơi chốn",
+    "type": "school_work"
+  },
+  {
+    "word": "売店",
+    "furigana": "ばいてん",
+    "romaji": "baiten",
+    "meaning": "Quầy bán hàng",
+    "type": "school_work"
+  },
+  {
+    "word": "店",
+    "furigana": "みせ",
+    "romaji": "mise",
+    "meaning": "Cửa hàng",
+    "type": "school_work"
+  },
+  {
+    "word": "書店",
+    "furigana": "しょてん",
+    "romaji": "shoten",
+    "meaning": "Hiệu sách",
+    "type": "school_work"
+  },
+  {
+    "word": "駅",
+    "furigana": "えki",
+    "romaji": "eki",
+    "meaning": "Nhà ga",
+    "type": "places_directions"
+  },
+  {
+    "word": "東京",
+    "furigana": "とうきょう",
+    "romaji": "toukyou",
+    "meaning": "Tokyo (Đông Kinh)",
+    "type": "places_directions"
+  },
+  {
+    "word": "京都",
+    "furigana": "きょうと",
+    "romaji": "kyouto",
+    "meaning": "Kyoto (Kinh Đô)",
+    "type": "places_directions"
+  },
+  {
+    "word": "都",
+    "furigana": "みやこ",
+    "romaji": "miyako",
+    "meaning": "Thủ đô / Kinh đô",
+    "type": "places_directions"
+  },
+  {
+    "word": "国",
+    "furigana": "くに",
+    "romaji": "kuni",
+    "meaning": "Đất nước / Quốc gia",
+    "type": "places_directions"
+  },
+  {
+    "word": "外国",
+    "furigana": "がいこく",
+    "romaji": "gaikoku",
+    "meaning": "Nước ngoài",
+    "type": "places_directions"
+  },
+  {
+    "word": "中国",
+    "furigana": "ちゅうごく",
+    "romaji": "chuugoku",
+    "meaning": "Trung Quốc",
+    "type": "places_directions"
+  },
+  {
+    "word": "東",
+    "furigana": "ひがし",
+    "romaji": "higashi",
+    "meaning": "Phía đông",
+    "type": "places_directions"
+  },
+  {
+    "word": "西",
+    "furigana": "にし",
+    "romaji": "nishi",
+    "meaning": "Phía tây",
+    "type": "places_directions"
+  },
+  {
+    "word": "南",
+    "furigana": "みなみ",
+    "romaji": "minami",
+    "meaning": "Phía nam",
+    "type": "places_directions"
+  },
+  {
+    "word": "北",
+    "furigana": "きた",
+    "romaji": "kita",
+    "meaning": "Phía bắc",
+    "type": "places_directions"
+  },
+  {
+    "word": "右",
+    "furigana": "みぎ",
+    "romaji": "migi",
+    "meaning": "Phía bên phải",
+    "type": "places_directions"
+  },
+  {
+    "word": "左",
+    "furigana": "ひだり",
+    "romaji": "hidari",
+    "meaning": "Phía bên trái",
+    "type": "places_directions"
+  },
+  {
+    "word": "上",
+    "furigana": "うえ",
+    "romaji": "ue",
+    "meaning": "Phía trên",
+    "type": "places_directions"
+  },
+  {
+    "word": "下",
+    "furigana": "した",
+    "romaji": "shita",
+    "meaning": "Phía dưới",
+    "type": "places_directions"
+  },
+  {
+    "word": "中",
+    "furigana": "なか",
+    "romaji": "naka",
+    "meaning": "Phía trong / Ở giữa",
+    "type": "places_directions"
+  },
+  {
+    "word": "外",
+    "furigana": "そと",
+    "romaji": "soto",
+    "meaning": "Phía bên ngoài",
+    "type": "places_directions"
+  },
+  {
+    "word": "前",
+    "furigana": "まえ",
+    "romaji": "mae",
+    "meaning": "Phía trước",
+    "type": "places_directions"
+  },
+  {
+    "word": "後",
+    "furigana": "うしろ",
+    "romaji": "ushiro",
+    "meaning": "Phía sau",
+    "type": "places_directions"
+  },
+  {
+    "word": "間",
+    "furigana": "あいだ",
+    "romaji": "aida",
+    "meaning": "Ở giữa (khoảng cách 2 vật)",
+    "type": "places_directions"
+  },
+  {
+    "word": "道",
+    "furigana": "みち",
+    "romaji": "michi",
+    "meaning": "Con đường",
+    "type": "places_directions"
+  },
+  {
+    "word": "水道",
+    "furigana": "すいどう",
+    "romaji": "suidou",
+    "meaning": "Nước máy / Đường nước",
+    "type": "places_directions"
+  },
+  {
+    "word": "鉄道",
+    "furigana": "てつどう",
+    "romaji": "tetsudou",
+    "meaning": "Đường sắt",
+    "type": "places_directions"
+  },
+  {
+    "word": "空",
+    "furigana": "そら",
+    "romaji": "sora",
+    "meaning": "Bầu trời",
+    "type": "nature_weather"
+  },
+  {
+    "word": "天気",
+    "furigana": "てんき",
+    "romaji": "tenki",
+    "meaning": "Thời tiết",
+    "type": "nature_weather"
+  },
+  {
+    "word": "雨",
+    "furigana": "あめ",
+    "romaji": "ame",
+    "meaning": "Mưa",
+    "type": "nature_weather"
+  },
+  {
+    "word": "大雨",
+    "furigana": "ooame",
+    "romaji": "ooame",
+    "meaning": "Mưa to",
+    "type": "nature_weather"
+  },
+  {
+    "word": "風",
+    "furigana": "かぜ",
+    "romaji": "kaze",
+    "meaning": "Gió",
+    "type": "nature_weather"
+  },
+  {
+    "word": "台風",
+    "furigana": "たいふう",
+    "romaji": "taifuu",
+    "meaning": "Cơn bão",
+    "type": "nature_weather"
+  },
+  {
+    "word": "山",
+    "furigana": "やま",
+    "romaji": "yama",
+    "meaning": "Núi",
+    "type": "nature_weather"
+  },
+  {
+    "word": "富士山",
+    "furigana": "ふじさん",
+    "romaji": "fujisan",
+    "meaning": "Núi Phú Sĩ",
+    "type": "nature_weather"
+  },
+  {
+    "word": "川",
+    "furigana": "かわ",
+    "romaji": "kawa",
+    "meaning": "Sông",
+    "type": "nature_weather"
+  },
+  {
+    "word": "海",
+    "furigana": "うみ",
+    "romaji": "umi",
+    "meaning": "Biển",
+    "type": "nature_weather"
+  },
+  {
+    "word": "海外",
+    "furigana": "かいがい",
+    "romaji": "kaigai",
+    "meaning": "Nước ngoài / Hải ngoại",
+    "type": "nature_weather"
+  },
+  {
+    "word": "花",
+    "furigana": "はな",
+    "romaji": "hana",
+    "meaning": "Hoa / Bông hoa",
+    "type": "nature_weather"
+  },
+  {
+    "word": "花火",
+    "furigana": "はなび",
+    "romaji": "hanabi",
+    "meaning": "Pháo hoa",
+    "type": "nature_weather"
+  },
+  {
+    "word": "お茶",
+    "furigana": "おちゃ",
+    "romaji": "ocha",
+    "meaning": "Trà / Trà xanh",
+    "type": "nature_weather"
+  },
+  {
+    "word": "紅茶",
+    "furigana": "こうちゃ",
+    "romaji": "koucha",
+    "meaning": "Hồng trà",
+    "type": "nature_weather"
+  },
+  {
+    "word": "木",
+    "furigana": "き",
+    "romaji": "ki",
+    "meaning": "Cây gỗ",
+    "type": "nature_weather"
+  },
+  {
+    "word": "水",
+    "furigana": "みず",
+    "romaji": "mizu",
+    "meaning": "Nước",
+    "type": "nature_weather"
+  },
+  {
+    "word": "火",
+    "furigana": "ひ",
+    "romaji": "hi",
+    "meaning": "Lửa",
+    "type": "nature_weather"
+  },
+  {
+    "word": "鳥",
+    "furigana": "とり",
+    "romaji": "tori",
+    "meaning": "Con chim",
+    "type": "animals"
+  },
+  {
+    "word": "犬",
+    "furigana": "いぬ",
+    "romaji": "inu",
+    "meaning": "Con chó",
+    "type": "animals"
+  },
+  {
+    "word": "猫",
+    "furigana": "ねこ",
+    "romaji": "neco",
+    "meaning": "Con mèo",
+    "type": "animals"
+  },
+  {
+    "word": "小鳥",
+    "furigana": "ことり",
+    "romaji": "kotori",
+    "meaning": "Chim nhỏ",
+    "type": "animals"
+  },
+  {
+    "word": "子犬",
+    "furigana": "こいぬ",
+    "romaji": "koinu",
+    "meaning": "Chó con",
+    "type": "animals"
+  },
+  {
+    "word": "子猫",
+    "furigana": "こねこ",
+    "romaji": "koneko",
+    "meaning": "Mèo con",
+    "type": "animals"
+  },
+  {
+    "word": "魚",
+    "furigana": "さkana",
+    "romaji": "sakana",
+    "meaning": "Cá",
+    "type": "animals"
+  },
+  {
+    "word": "飲み物",
+    "furigana": "のみもの",
+    "romaji": "nomimono",
+    "meaning": "Đồ uống",
+    "type": "food_drinks"
+  },
+  {
+    "word": "食べ物",
+    "furigana": "たべもの",
+    "romaji": "tabemono",
+    "meaning": "Đồ ăn",
+    "type": "food_drinks"
+  },
+  {
+    "word": "買い物",
+    "furigana": "かいもの",
+    "romaji": "kaimono",
+    "meaning": "Mua sắm",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "着物",
+    "furigana": "きもの",
+    "romaji": "kimono",
+    "meaning": "Kimono / Áo truyền thống",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "荷物",
+    "furigana": "にもつ",
+    "romaji": "nimotsu",
+    "meaning": "Hành lý",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "牛肉",
+    "furigana": "ぎゅうにく",
+    "romaji": "gyuuniku",
+    "meaning": "Thịt bò",
+    "type": "food_drinks"
+  },
+  {
+    "word": "豚肉",
+    "furigana": "ぶたにく",
+    "romaji": "butaniku",
+    "meaning": "Thịt lợn",
+    "type": "food_drinks"
+  },
+  {
+    "word": "鳥肉",
+    "furigana": "とりにく",
+    "romaji": "toriniku",
+    "meaning": "Thịt gà",
+    "type": "food_drinks"
+  },
+  {
+    "word": "肉",
+    "furigana": "にく",
+    "romaji": "niku",
+    "meaning": "Thịt",
+    "type": "food_drinks"
+  },
+  {
+    "word": "手紙",
+    "furigana": "てがみ",
+    "romaji": "tegami",
+    "meaning": "Bức thư",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "紙",
+    "furigana": "かみ",
+    "romaji": "kami",
+    "meaning": "Giấy",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "切手",
+    "furigana": "きって",
+    "romaji": "kitte",
+    "meaning": "Tem thư",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "洋服",
+    "furigana": "ようふく",
+    "romaji": "youfuku",
+    "meaning": "Quần áo Tây Âu",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "服",
+    "furigana": "ふく",
+    "romaji": "fuku",
+    "meaning": "Quần áo",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "電車",
+    "furigana": "でんしゃ",
+    "romaji": "densha",
+    "meaning": "Tàu điện",
+    "type": "transportation"
+  },
+  {
+    "word": "自動車",
+    "furigana": "じどうしゃ",
+    "romaji": "jidousha",
+    "meaning": "Xe hơi / Xe ô tô",
+    "type": "transportation"
+  },
+  {
+    "word": "自転車",
+    "furigana": "じてんしゃ",
+    "romaji": "jitensha",
+    "meaning": "Xe đạp",
+    "type": "transportation"
+  },
+  {
+    "word": "車",
+    "furigana": "くるま",
+    "romaji": "kuruma",
+    "meaning": "Xe ô tô",
+    "type": "transportation"
+  },
+  {
+    "word": "電話",
+    "furigana": "denwa",
+    "romaji": "denwa",
+    "meaning": "Điện thoại",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "電気",
+    "furigana": "でんき",
+    "romaji": "denki",
+    "meaning": "Điện lực / Đèn điện",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "見る",
+    "furigana": "みる",
+    "romaji": "miru",
+    "meaning": "Nhìn / Xem",
+    "type": "verbs"
+  },
+  {
+    "word": "見せる",
+    "furigana": "みせる",
+    "romaji": "miseru",
+    "meaning": "Cho xem",
+    "type": "verbs"
+  },
+  {
+    "word": "行く",
+    "furigana": "いく",
+    "romaji": "iku",
+    "meaning": "Đi",
+    "type": "verbs"
+  },
+  {
+    "word": "旅行する",
+    "furigana": "りょこうする",
+    "romaji": "ryokousuru",
+    "meaning": "Đi du lịch",
+    "type": "verbs"
+  },
+  {
+    "word": "来る",
+    "furigana": "くる",
+    "romaji": "kuru",
+    "meaning": "Đến",
+    "type": "verbs"
+  },
+  {
+    "word": "帰る",
+    "furigana": "かえる",
+    "romaji": "kaeru",
+    "meaning": "Trở về",
+    "type": "verbs"
+  },
+  {
+    "word": "食べる",
+    "furigana": "たべる",
+    "romaji": "taberu",
+    "meaning": "Ăn",
+    "type": "verbs"
+  },
+  {
+    "word": "飲む",
+    "furigana": "のむ",
+    "romaji": "nomu",
+    "meaning": "Uống",
+    "type": "verbs"
+  },
+  {
+    "word": "買う",
+    "furigana": "かう",
+    "romaji": "kau",
+    "meaning": "Mua",
+    "type": "verbs"
+  },
+  {
+    "word": "聞く",
+    "furigana": "きく",
+    "romaji": "kiku",
+    "meaning": "Nghe",
+    "type": "verbs"
+  },
+  {
+    "word": "書く",
+    "furigana": "かく",
+    "romaji": "kaku",
+    "meaning": "Viết",
+    "type": "verbs"
+  },
+  {
+    "word": "読む",
+    "furigana": "よむ",
+    "romaji": "yomu",
+    "meaning": "Đọc",
+    "type": "verbs"
+  },
+  {
+    "word": "話す",
+    "furigana": "はなす",
+    "romaji": "hanasu",
+    "meaning": "Nói chuyện / Phát biểu",
+    "type": "verbs"
+  },
+  {
+    "word": "言う",
+    "furigana": "いう",
+    "romaji": "iu",
+    "meaning": "Nói / Kể",
+    "type": "verbs"
+  },
+  {
+    "word": "思う",
+    "furigana": "おもう",
+    "romaji": "omou",
+    "meaning": "Nghĩ / Suy nghĩ",
+    "type": "verbs"
+  },
+  {
+    "word": "会う",
+    "furigana": "あう",
+    "romaji": "au",
+    "meaning": "Gặp gỡ",
+    "type": "verbs"
+  },
+  {
+    "word": "作る",
+    "furigana": "つくる",
+    "romaji": "tsukuru",
+    "meaning": "Làm ra / Chế tạo",
+    "type": "verbs"
+  },
+  {
+    "word": "使う",
+    "furigana": "つかう",
+    "romaji": "tsukau",
+    "meaning": "Sử dụng",
+    "type": "verbs"
+  },
+  {
+    "word": "立つ",
+    "furigana": "たつ",
+    "romaji": "tatsu",
+    "meaning": "Đứng lên",
+    "type": "verbs"
+  },
+  {
+    "word": "知る",
+    "furigana": "しる",
+    "romaji": "shiru",
+    "meaning": "Biết / Hiểu biết",
+    "type": "verbs"
+  },
+  {
+    "word": "歌う",
+    "furigana": "うたう",
+    "romaji": "utau",
+    "meaning": "Hát / Ca hát",
+    "type": "verbs"
+  },
+  {
+    "word": "死ぬ",
+    "furigana": "しぬ",
+    "romaji": "shinu",
+    "meaning": "Chết",
+    "type": "verbs"
+  },
+  {
+    "word": "始まる",
+    "furigana": "はじまる",
+    "romaji": "hajimaru",
+    "meaning": "Bắt đầu",
+    "type": "verbs"
+  },
+  {
+    "word": "始める",
+    "furigana": "はじめる",
+    "romaji": "hajimeru",
+    "meaning": "Mở đầu",
+    "type": "verbs"
+  },
+  {
+    "word": "終わる",
+    "furigana": "おわる",
+    "romaji": "owaru",
+    "meaning": "Kết thúc",
+    "type": "verbs"
+  },
+  {
+    "word": "住む",
+    "furigana": "すむ",
+    "romaji": "sumu",
+    "meaning": "Cư trú / Sinh sống",
+    "type": "verbs"
+  },
+  {
+    "word": "洗う",
+    "furigana": "あらう",
+    "romaji": "arau",
+    "meaning": "Rửa / Tẩy",
+    "type": "verbs"
+  },
+  {
+    "word": "通る",
+    "furigana": "とおる",
+    "romaji": "tooru",
+    "meaning": "Đi qua / Thông qua",
+    "type": "verbs"
+  },
+  {
+    "word": "通う",
+    "furigana": "かよう",
+    "romaji": "kayou",
+    "meaning": "Đi học/đi làm đều đặn",
+    "type": "verbs"
+  },
+  {
+    "word": "入る",
+    "furigana": "はいる",
+    "romaji": "hairu",
+    "meaning": "Vào trong",
+    "type": "verbs"
+  },
+  {
+    "word": "入れる",
+    "furigana": "いれる",
+    "romaji": "ireru",
+    "meaning": "Cho vào / Đút vào",
+    "type": "verbs"
+  },
+  {
+    "word": "出る",
+    "furigana": "でる",
+    "romaji": "deru",
+    "meaning": "Đi ra",
+    "type": "verbs"
+  },
+  {
+    "word": "出す",
+    "furigana": "だす",
+    "romaji": "dasu",
+    "meaning": "Lấy ra / Gửi đi",
+    "type": "verbs"
+  },
+  {
+    "word": "大きい",
+    "furigana": "おおきい",
+    "romaji": "ookii",
+    "meaning": "Lớn / To",
+    "type": "adjectives"
+  },
+  {
+    "word": "小さい",
+    "furigana": "ちいさい",
+    "romaji": "chiisai",
+    "meaning": "Nhỏ / Bé",
+    "type": "adjectives"
+  },
+  {
+    "word": "高い",
+    "furigana": "たかい",
+    "romaji": "takai",
+    "meaning": "Cao / Đắt",
+    "type": "adjectives"
+  },
+  {
+    "word": "安い",
+    "furigana": "やすい",
+    "romaji": "yasui",
+    "meaning": "Rẻ",
+    "type": "adjectives"
+  },
+  {
+    "word": "新しい",
+    "furigana": "あたらしい",
+    "romaji": "atarashii",
+    "meaning": "Mới",
+    "type": "adjectives"
+  },
+  {
+    "word": "古い",
+    "furigana": "ふるい",
+    "romaji": "furui",
+    "meaning": "Cũ",
+    "type": "adjectives"
+  },
+  {
+    "word": "多い",
+    "furigana": "おおい",
+    "romaji": "ooi",
+    "meaning": "Nhiều",
+    "type": "adjectives"
+  },
+  {
+    "word": "少ない",
+    "furigana": "すくない",
+    "romaji": "sukunai",
+    "meaning": "Ít",
+    "type": "adjectives"
+  },
+  {
+    "word": "長い",
+    "furigana": "ながい",
+    "romaji": "nagai",
+    "meaning": "Dài",
+    "type": "adjectives"
+  },
+  {
+    "word": "早い",
+    "furigana": "hayai",
+    "romaji": "hayai",
+    "meaning": "Sớm",
+    "type": "adjectives"
+  },
+  {
+    "word": "明るい",
+    "furigana": "あかるい",
+    "romaji": "akarui",
+    "meaning": "Sáng sủa",
+    "type": "adjectives"
+  },
+  {
+    "word": "暗い",
+    "furigana": "くらい",
+    "romaji": "kurai",
+    "meaning": "Tối tăm",
+    "type": "adjectives"
+  },
+  {
+    "word": "広い",
+    "furigana": "ひろい",
+    "romaji": "hiroi",
+    "meaning": "Rộng rãi",
+    "type": "adjectives"
+  },
+  {
+    "word": "同じ",
+    "furigana": "おなじ",
+    "romaji": "onaji",
+    "meaning": "Giống nhau",
+    "type": "adjectives"
+  },
+  {
+    "word": "親切",
+    "furigana": "しんせつ",
+    "romaji": "shinsetsu",
+    "meaning": "Tốt bụng / Thân thiện",
+    "type": "adjectives"
+  },
+  {
+    "word": "大切",
+    "furigana": "たいせつ",
+    "romaji": "taisetsu",
+    "meaning": "Quan trọng",
+    "type": "adjectives"
+  },
+  {
+    "word": "便利",
+    "furigana": "べんり",
+    "romaji": "benri",
+    "meaning": "Tiện lợi",
+    "type": "adjectives"
+  },
+  {
+    "word": "不便",
+    "furigana": "ふべん",
+    "romaji": "fuben",
+    "meaning": "Bất tiện",
+    "type": "adjectives"
+  },
+  {
+    "word": "綺麗",
+    "furigana": "きれい",
+    "romaji": "kirei",
+    "meaning": "Đẹp / Sạch sẽ",
+    "type": "adjectives"
+  },
+  {
+    "word": "賑やか",
+    "furigana": "にぎやか",
+    "romaji": "nigiyaka",
+    "meaning": "Náo nhiệt",
+    "type": "adjectives"
+  },
+  {
+    "word": "静か",
+    "furigana": "しずか",
+    "romaji": "shizuka",
+    "meaning": "Yên tĩnh",
+    "type": "adjectives"
+  },
+  {
+    "word": "楽しい",
+    "furigana": "たのしい",
+    "romaji": "tanoshii",
+    "meaning": "Vui vẻ",
+    "type": "adjectives"
+  },
+  {
+    "word": "白",
+    "furigana": "しろ",
+    "romaji": "shiro",
+    "meaning": "Màu trắng",
+    "type": "adjectives"
+  },
+  {
+    "word": "黒",
+    "furigana": "くろ",
+    "romaji": "kuro",
+    "meaning": "Màu đen",
+    "type": "adjectives"
+  },
+  {
+    "word": "赤",
+    "furigana": "あか",
+    "romaji": "aka",
+    "meaning": "Màu đỏ",
+    "type": "adjectives"
+  },
+  {
+    "word": "青",
+    "furigana": "あお",
+    "romaji": "ao",
+    "meaning": "Màu xanh dương",
+    "type": "adjectives"
+  },
+  {
+    "word": "白い",
+    "furigana": "しろい",
+    "romaji": "shiroi",
+    "meaning": "Trắng (tính từ)",
+    "type": "adjectives"
+  },
+  {
+    "word": "黒い",
+    "furigana": "くろい",
+    "romaji": "kuroi",
+    "meaning": "Đen (tính từ)",
+    "type": "adjectives"
+  },
+  {
+    "word": "赤い",
+    "furigana": "あかい",
+    "romaji": "akai",
+    "meaning": "Đỏ (tính từ)",
+    "type": "colors"
+  },
+  {
+    "word": "青い",
+    "furigana": "あおい",
+    "romaji": "aoi",
+    "meaning": "Xanh dương (tính từ)",
+    "type": "colors"
+  },
+  {
+    "word": "あなた",
+    "furigana": "あなた",
+    "romaji": "anata",
+    "meaning": "Bạn / Anh / Chị",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "あの",
+    "furigana": "あの",
+    "romaji": "ano",
+    "meaning": "Kia (ở xa cả hai)",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "あれ",
+    "furigana": "あれ",
+    "romaji": "are",
+    "meaning": "Cái kia",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "あそこ",
+    "furigana": "あそこ",
+    "romaji": "asoko",
+    "meaning": "Chỗ kia",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "あっち",
+    "furigana": "あっち",
+    "romaji": "acchi",
+    "meaning": "Hướng kia",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "あちら",
+    "furigana": "あちら",
+    "romaji": "achira",
+    "meaning": "Phía kia (lịch sự)",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "あれこれ",
+    "furigana": "あれこれ",
+    "romaji": "arekore",
+    "meaning": "Này nọ, cái này cái kia",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "いいえ",
+    "furigana": "いいえ",
+    "romaji": "iie",
+    "meaning": "Không",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "いい",
+    "furigana": "いい",
+    "romaji": "ii",
+    "meaning": "Tốt / Được",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "いかが",
+    "furigana": "いかが",
+    "romaji": "ikaga",
+    "meaning": "Như thế nào (lịch sự)",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "いくら",
+    "furigana": "いくら",
+    "romaji": "ikura",
+    "meaning": "Bao nhiêu tiền",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "いくつ",
+    "furigana": "いくつ",
+    "romaji": "ikutsu",
+    "meaning": "Bao nhiêu cái / Mấy tuổi",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "いけ",
+    "furigana": "いけ",
+    "romaji": "ike",
+    "meaning": "Cái ao",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "いちばん",
+    "furigana": "いちばん",
+    "romaji": "ichiban",
+    "meaning": "Nhất / Số một",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "いつも",
+    "furigana": "いつも",
+    "romaji": "itsumo",
+    "meaning": "Luôn luôn",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "いや",
+    "furigana": "いや",
+    "romaji": "iya",
+    "meaning": "Không thích / Đáng ghét",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "いろいろ",
+    "furigana": "いろいろ",
+    "romaji": "iroiro",
+    "meaning": "Nhiều loại / Phong phú",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "うすい",
+    "furigana": "うすい",
+    "romaji": "usui",
+    "meaning": "Mỏng / Nhạt",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "うるさい",
+    "furigana": "うるさい",
+    "romaji": "urusai",
+    "meaning": "Ồn ào / Phiền phức",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ええ",
+    "furigana": "ええ",
+    "romaji": "ee",
+    "meaning": "Vâng / Ừ",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "おいしい",
+    "furigana": "おいしい",
+    "romaji": "oishii",
+    "meaning": "Ngon miệng",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "お菓子",
+    "furigana": "おかし",
+    "romaji": "okashi",
+    "meaning": "Bánh kẹo",
+    "type": "food_drinks"
+  },
+  {
+    "word": "お金",
+    "furigana": "おかね",
+    "romaji": "okane",
+    "meaning": "Tiền bạc",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "お弁当",
+    "furigana": "おべんとう",
+    "romaji": "obentou",
+    "meaning": "Cơm hộp",
+    "type": "food_drinks"
+  },
+  {
+    "word": "お土産",
+    "furigana": "おみやげ",
+    "romaji": "omiyage",
+    "meaning": "Quà lưu niệm",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "おもちゃ",
+    "furigana": "おもちゃ",
+    "romaji": "omocha",
+    "meaning": "Đồ chơi",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "カメラ",
+    "furigana": "かめら",
+    "romaji": "kamera",
+    "meaning": "Máy ảnh",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "カップ",
+    "furigana": "かっぷ",
+    "romaji": "kappu",
+    "meaning": "Cái cúp / Tách",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "カレー",
+    "furigana": "かれー",
+    "romaji": "karee",
+    "meaning": "Món cà ri",
+    "type": "food_drinks"
+  },
+  {
+    "word": "カレンダー",
+    "furigana": "かれんだー",
+    "romaji": "karenda-",
+    "meaning": "Lịch treo tường",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ギター",
+    "furigana": "ぎたー",
+    "romaji": "gita-",
+    "meaning": "Đàn ghi-ta",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "クラス",
+    "furigana": "くらす",
+    "romaji": "kurasu",
+    "meaning": "Lớp học",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "グラム",
+    "furigana": "ぐらむ",
+    "romaji": "guramu",
+    "meaning": "Gam (khối lượng)",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "コーヒー",
+    "furigana": "こーひー",
+    "romaji": "ko-hi-",
+    "meaning": "Cà phê",
+    "type": "food_drinks"
+  },
+  {
+    "word": "コート",
+    "furigana": "こーと",
+    "romaji": "ko-to",
+    "meaning": "Áo khoác choàng",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "コピー",
+    "furigana": "こぴー",
+    "romaji": "kopi-",
+    "meaning": "Sao chép",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "コップ",
+    "furigana": "こっぷ",
+    "romaji": "koppu",
+    "meaning": "Cái cốc",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "サービス",
+    "furigana": "さーびす",
+    "romaji": "sa-bisu",
+    "meaning": "Dịch vụ / Miễn phí",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "シャツ",
+    "furigana": "しゃつ",
+    "romaji": "shatsu",
+    "meaning": "Áo sơ mi",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "シャワー",
+    "furigana": "しゃわー",
+    "romaji": "shawa-",
+    "meaning": "Vòi hoa sen",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "スカート",
+    "furigana": "すかーと",
+    "romaji": "suka-to",
+    "meaning": "Chân váy",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "スポーツ",
+    "furigana": "すぽーつ",
+    "romaji": "supo-tsu",
+    "meaning": "Thể thao",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ズボン",
+    "furigana": "ずぼん",
+    "romaji": "zubon",
+    "meaning": "Quần dài",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "スリッパ",
+    "furigana": "すりっぱ",
+    "romaji": "surippa",
+    "meaning": "Dép đi trong nhà",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "セーター",
+    "furigana": "せーたー",
+    "romaji": "se-ta-",
+    "meaning": "Áo len",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ゼロ",
+    "furigana": "ぜろ",
+    "romaji": "zero",
+    "meaning": "Số không",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ソープ",
+    "furigana": "そーぷ",
+    "romaji": "so-pu",
+    "meaning": "Xà phòng",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "タクシー",
+    "furigana": "たくしー",
+    "romaji": "takushi-",
+    "meaning": "Xe taxi",
+    "type": "transportation"
+  },
+  {
+    "word": "テーブル",
+    "furigana": "てーぶる",
+    "romaji": "te-buru",
+    "meaning": "Cái bàn ăn",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "テープ",
+    "furigana": "てーぷ",
+    "romaji": "te-pu",
+    "meaning": "Băng keo / Băng ghi âm",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "テスト",
+    "furigana": "てすと",
+    "romaji": "tesuto",
+    "meaning": "Bài kiểm tra",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "デパート",
+    "furigana": "đepart",
+    "romaji": "depa-to",
+    "meaning": "Trung tâm thương mại",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "テレビ",
+    "furigana": "てれび",
+    "romaji": "terebi",
+    "meaning": "Tivi",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ドア",
+    "furigana": "どあ",
+    "romaji": "doa",
+    "meaning": "Cửa ra vào",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "トイレ",
+    "furigana": "といれ",
+    "romaji": "toire",
+    "meaning": "Nhà vệ sinh",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "どうも",
+    "furigana": "どうも",
+    "romaji": "doumo",
+    "meaning": "Cảm ơn / Rất",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "どうぞ",
+    "furigana": "どうぞ",
+    "romaji": "douzo",
+    "meaning": "Xin mời",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "どうして",
+    "furigana": "どうして",
+    "romaji": "doushite",
+    "meaning": "Tại sao",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ナイフ",
+    "furigana": "ないふ",
+    "romaji": "naifu",
+    "meaning": "Con dao",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ニュース",
+    "furigana": "にゅーす",
+    "romaji": "nyu-su",
+    "meaning": "Tin tức",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ネクタイ",
+    "furigana": "ねくたい",
+    "romaji": "nekutai",
+    "meaning": "Cà vạt",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ノート",
+    "furigana": "のーと",
+    "romaji": "no-to",
+    "meaning": "Vở ghi chép",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "はい",
+    "furigana": "はい",
+    "romaji": "hai",
+    "meaning": "Vâng / Dạ",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ハサミ",
+    "furigana": "はさみ",
+    "romaji": "hasami",
+    "meaning": "Cái kéo",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "バター",
+    "furigana": "ばたー",
+    "romaji": "bata-",
+    "meaning": "Bơ",
+    "type": "food_drinks"
+  },
+  {
+    "word": "バス",
+    "furigana": "ばす",
+    "romaji": "basu",
+    "meaning": "Xe buýt",
+    "type": "transportation"
+  },
+  {
+    "word": "パトカー",
+    "furigana": "ぱとかー",
+    "romaji": "patoka-",
+    "meaning": "Xe cảnh sát",
+    "type": "transportation"
+  },
+  {
+    "word": "パソコン",
+    "furigana": "ぱそこん",
+    "romaji": "pasokon",
+    "meaning": "Máy tính cá nhân",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "パン",
+    "furigana": "ぱん",
+    "romaji": "pan",
+    "meaning": "Bánh mì",
+    "type": "food_drinks"
+  },
+  {
+    "word": "ハンカチ",
+    "furigana": "はんかち",
+    "romaji": "hankachi",
+    "meaning": "Khăn tay",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ビデオ",
+    "furigana": "びでお",
+    "romaji": "bideo",
+    "meaning": "Đoạn phim / Video",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "フォーク",
+    "furigana": "ふぉーく",
+    "romaji": "fo-ku",
+    "meaning": "Cái dĩa / nĩa",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "プール",
+    "furigana": "ぷーる",
+    "romaji": "pu-ru",
+    "meaning": "Bể bơi",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ベッド",
+    "furigana": "べっど",
+    "romaji": "beddo",
+    "meaning": "Cái giường",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ボールペン",
+    "furigana": "ぼーるぺん",
+    "romaji": "bo-rupen",
+    "meaning": "Bút bi",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ポケット",
+    "furigana": "ぽけっと",
+    "romaji": "poketto",
+    "meaning": "Túi quần / túi áo",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ボタン",
+    "furigana": "ぼたん",
+    "romaji": "botan",
+    "meaning": "Nút bấm / Cúc áo",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ホテル",
+    "furigana": "ほてる",
+    "romaji": "hoteru",
+    "meaning": "Khách sạn",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "マッチ",
+    "furigana": "まっち",
+    "romaji": "macchi",
+    "meaning": "Diêm / Trận đấu",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "マフラー",
+    "furigana": "まふらー",
+    "romaji": "mafura-",
+    "meaning": "Khăn quàng cổ",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ミルク",
+    "furigana": "みるく",
+    "romaji": "miruku",
+    "meaning": "Sữa tươi",
+    "type": "food_drinks"
+  },
+  {
+    "word": "メートル",
+    "furigana": "めーとる",
+    "romaji": "me-toru",
+    "meaning": "Mét (độ dài)",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ラジオ",
+    "furigana": "らじお",
+    "romaji": "rajio",
+    "meaning": "Đài radio",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "レコード",
+    "furigana": "れこーど",
+    "romaji": "reko-do",
+    "meaning": "Đĩa hát / Kỷ lục",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "レストラン",
+    "furigana": "れすとらん",
+    "romaji": "resutoran",
+    "meaning": "Nhà hàng",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ワイシャツ",
+    "furigana": "わいしゃつ",
+    "romaji": "waishatsu",
+    "meaning": "Áo sơ mi trắng",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "運転する",
+    "furigana": "うんてんする",
+    "romaji": "untensuru",
+    "meaning": "Lái xe",
+    "type": "verbs"
+  },
+  {
+    "word": "運動する",
+    "furigana": "うんどうする",
+    "romaji": "undousuru",
+    "meaning": "Vận động / Tập thể dục",
+    "type": "verbs"
+  },
+  {
+    "word": "安心する",
+    "furigana": "あんしんする",
+    "romaji": "anshinsuru",
+    "meaning": "An tâm / Yên tâm",
+    "type": "verbs"
+  },
+  {
+    "word": "案内する",
+    "furigana": "あんないする",
+    "romaji": "annaisuru",
+    "meaning": "Hướng dẫn",
+    "type": "verbs"
+  },
+  {
+    "word": "見学する",
+    "furigana": "けんがくする",
+    "romaji": "kengakusuru",
+    "meaning": "Kiến tập / Tham quan học tập",
+    "type": "verbs"
+  },
+  {
+    "word": "入学する",
+    "furigana": "nyuugakusuru",
+    "romaji": "nyuugakusuru",
+    "meaning": "Nhập học",
+    "type": "verbs"
+  },
+  {
+    "word": "卒業する",
+    "furigana": "そつぎょうする",
+    "romaji": "sotsugyousuru",
+    "meaning": "Tốt nghiệp",
+    "type": "verbs"
+  },
+  {
+    "word": "食事する",
+    "furigana": "しょくじする",
+    "romaji": "shokujisuru",
+    "meaning": "Dùng bữa",
+    "type": "verbs"
+  },
+  {
+    "word": "外出する",
+    "furigana": "がいしゅつする",
+    "romaji": "gaishutsusuru",
+    "meaning": "Đi ra ngoài",
+    "type": "verbs"
+  },
+  {
+    "word": "質問する",
+    "furigana": "しつもんする",
+    "romaji": "shitsumonsuru",
+    "meaning": "Đặt câu hỏi",
+    "type": "verbs"
+  },
+  {
+    "word": "説明する",
+    "furigana": "せつめいする",
+    "romaji": "setsumeisuru",
+    "meaning": "Giải thích",
+    "type": "verbs"
+  },
+  {
+    "word": "紹介する",
+    "furigana": "しょうかいする",
+    "romaji": "shoukayisuru",
+    "meaning": "Giới thiệu",
+    "type": "verbs"
+  },
+  {
+    "word": "準備する",
+    "furigana": "じゅんびする",
+    "romaji": "junbisuru",
+    "meaning": "Chuẩn bị",
+    "type": "verbs"
+  },
+  {
+    "word": "約束する",
+    "furigana": "やくそくする",
+    "romaji": "yakusokusuru",
+    "meaning": "Hứa hẹn / Hẹn",
+    "type": "verbs"
+  },
+  {
+    "word": "相談する",
+    "furigana": "そうだんする",
+    "romaji": "soudansuru",
+    "meaning": "Thảo luận / Bàn bạc",
+    "type": "verbs"
+  },
+  {
+    "word": "注意する",
+    "furigana": "ちゅういする",
+    "romaji": "chuuyisuru",
+    "meaning": "Chú ý",
+    "type": "verbs"
+  },
+  {
+    "word": "注文する",
+    "furigana": "ちゅうもんする",
+    "romaji": "chuumonsuru",
+    "meaning": "Đặt hàng / Gọi món",
+    "type": "verbs"
+  },
+  {
+    "word": "出発する",
+    "furigana": "しゅっぱつする",
+    "romaji": "shuppatsusuru",
+    "meaning": "Xuất phát",
+    "type": "verbs"
+  },
+  {
+    "word": "到着する",
+    "furigana": "とうちゃくする",
+    "romaji": "touchakusuru",
+    "meaning": "Đến nơi",
+    "type": "verbs"
+  },
+  {
+    "word": "連絡する",
+    "furigana": "れんらくする",
+    "romaji": "renrakusuru",
+    "meaning": "Liên lạc",
+    "type": "verbs"
+  },
+  {
+    "word": "計画する",
+    "furigana": "けいかくする",
+    "romaji": "keikakusuru",
+    "meaning": "Lập kế hoạch",
+    "type": "verbs"
+  },
+  {
+    "word": "経験する",
+    "furigana": "けいけんする",
+    "romaji": "keikensuru",
+    "meaning": "Trải nghiệm",
+    "type": "verbs"
+  },
+  {
+    "word": "心配する",
+    "furigana": "しんぱいする",
+    "romaji": "shinpaisuru",
+    "meaning": "Lo lắng",
+    "type": "verbs"
+  },
+  {
+    "word": "遅刻する",
+    "furigana": "ちこくする",
+    "romaji": "chikokusuru",
+    "meaning": "Đến muộn",
+    "type": "verbs"
+  },
+  {
+    "word": "電話する",
+    "furigana": "でんわする",
+    "romaji": "denwasuru",
+    "meaning": "Gọi điện thoại",
+    "type": "verbs"
+  },
+  {
+    "word": "安全",
+    "furigana": "あんぜん",
+    "romaji": "anzen",
+    "meaning": "An toàn",
+    "type": "adjectives"
+  },
+  {
+    "word": "危険",
+    "furigana": "きけん",
+    "romaji": "kiken",
+    "meaning": "Nguy hiểm",
+    "type": "adjectives"
+  },
+  {
+    "word": "反対",
+    "furigana": "はんたい",
+    "romaji": "hantai",
+    "meaning": "Phản đối / Ngược lại",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "賛成",
+    "furigana": "さんせい",
+    "romaji": "sansei",
+    "meaning": "Tán thành",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "関係",
+    "furigana": "かんけい",
+    "romaji": "kankei",
+    "meaning": "Quan hệ / Liên quan",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "興味",
+    "furigana": "きょうみ",
+    "romaji": "kyoumi",
+    "meaning": "Hứng thú",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "趣味",
+    "furigana": "しゅみ",
+    "romaji": "shumi",
+    "meaning": "Sở thích",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "意味",
+    "furigana": "いみ",
+    "romaji": "imi",
+    "meaning": "Ý nghĩa",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "意見",
+    "furigana": "いけん",
+    "romaji": "iken",
+    "meaning": "Ý kiến",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "最近",
+    "furigana": "さいきん",
+    "romaji": "saikin",
+    "meaning": "Gần đây",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "最初",
+    "furigana": "さいしょ",
+    "romaji": "saisho",
+    "meaning": "Đầu tiên",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "最後",
+    "furigana": "さいご",
+    "romaji": "saigo",
+    "meaning": "Cuối cùng",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "最高",
+    "furigana": "さいこう",
+    "romaji": "saikou",
+    "meaning": "Tuyệt nhất / Tốt nhất",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "最低",
+    "furigana": "saitei",
+    "romaji": "saitei",
+    "meaning": "Tồi nhất / Thấp nhất",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "半分",
+    "furigana": "はんぶん",
+    "romaji": "hanbun",
+    "meaning": "Một nửa",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "特別",
+    "furigana": "とくべつ",
+    "romaji": "tokubetsu",
+    "meaning": "Đặc biệt",
+    "type": "adjectives"
+  },
+  {
+    "word": "普通",
+    "furigana": "ふつう",
+    "romaji": "futsuu",
+    "meaning": "Bình thường",
+    "type": "adjectives"
+  },
+  {
+    "word": "親切",
+    "furigana": "しんせつ",
+    "romaji": "shinsetsu",
+    "meaning": "Tốt bụng",
+    "type": "adjectives"
+  },
+  {
+    "word": "丁寧",
+    "furigana": "ていねい",
+    "romaji": "teinei",
+    "meaning": "Lịch sự / Cẩn thận",
+    "type": "adjectives"
+  },
+  {
+    "word": "自由",
+    "furigana": "じゆう",
+    "romaji": "jiyuu",
+    "meaning": "Tự do",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "必要",
+    "furigana": "ひつよう",
+    "romaji": "hitsuyou",
+    "meaning": "Cần thiết",
+    "type": "adjectives"
+  },
+  {
+    "word": "十分",
+    "furigana": "じゅうぶん",
+    "romaji": "juubun",
+    "meaning": "Đầy đủ",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "残念",
+    "furigana": "ざんねん",
+    "romaji": "zannen",
+    "meaning": "Đáng tiếc",
+    "type": "adjectives"
+  },
+  {
+    "word": "無理",
+    "furigana": "むり",
+    "romaji": "muri",
+    "meaning": "Quá sức / Vô lý",
+    "type": "adjectives"
+  },
+  {
+    "word": "一生懸命",
+    "furigana": "いっしょうけんめい",
+    "romaji": "isshoukenmei",
+    "meaning": "Cố gắng hết sức",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "空気",
+    "furigana": "くうき",
+    "romaji": "kuuki",
+    "meaning": "Không khí",
+    "type": "nature_weather"
+  },
+  {
+    "word": "空港",
+    "furigana": "kuukou",
+    "romaji": "kuukou",
+    "meaning": "Sân bay",
+    "type": "places_directions"
+  },
+  {
+    "word": "港",
+    "furigana": "みなと",
+    "romaji": "minato",
+    "meaning": "Bến cảng",
+    "type": "places_directions"
+  },
+  {
+    "word": "天気予報",
+    "furigana": "てんきよほう",
+    "romaji": "tenkiyohou",
+    "meaning": "Dự báo thời tiết",
+    "type": "nature_weather"
+  },
+  {
+    "word": "地震",
+    "furigana": "じしん",
+    "romaji": "jishin",
+    "meaning": "Động đất",
+    "type": "nature_weather"
+  },
+  {
+    "word": "火事",
+    "furigana": "かじ",
+    "romaji": "kaji",
+    "meaning": "Hỏa hoạn",
+    "type": "nature_weather"
+  },
+  {
+    "word": "事故",
+    "furigana": "じこ",
+    "romaji": "jiko",
+    "meaning": "Tai nạn",
+    "type": "nature_weather"
+  },
+  {
+    "word": "台風",
+    "furigana": "たいふう",
+    "romaji": "taifuu",
+    "meaning": "Cơn bão",
+    "type": "nature_weather"
+  },
+  {
+    "word": "海岸",
+    "furigana": "かいがん",
+    "romaji": "kaigan",
+    "meaning": "Bờ biển",
+    "type": "nature_weather"
+  },
+  {
+    "word": "季節",
+    "furigana": "きせつ",
+    "romaji": "kisetsu",
+    "meaning": "Mùa trong năm",
+    "type": "nature_weather"
+  },
+  {
+    "word": "春",
+    "furigana": "はる",
+    "romaji": "haru",
+    "meaning": "Mùa xuân",
+    "type": "nature_weather"
+  },
+  {
+    "word": "夏",
+    "furigana": "なつ",
+    "romaji": "natsu",
+    "meaning": "Mùa hạ",
+    "type": "nature_weather"
+  },
+  {
+    "word": "秋",
+    "furigana": "あき",
+    "romaji": "aki",
+    "meaning": "Mùa thu",
+    "type": "nature_weather"
+  },
+  {
+    "word": "冬",
+    "furigana": "ふゆ",
+    "romaji": "fuyu",
+    "meaning": "Mùa đông",
+    "type": "nature_weather"
+  },
+  {
+    "word": "温かい",
+    "furigana": "あたたかい",
+    "romaji": "atatakai",
+    "meaning": "Ấm áp (đồ vật/không khí)",
+    "type": "adjectives"
+  },
+  {
+    "word": "冷たい",
+    "furigana": "つめたい",
+    "romaji": "tsumetai",
+    "meaning": "Lạnh (cảm giác)",
+    "type": "adjectives"
+  },
+  {
+    "word": "涼しい",
+    "furigana": "すずしい",
+    "romaji": "suzushii",
+    "meaning": "Mát mẻ",
+    "type": "adjectives"
+  },
+  {
+    "word": "暖かい",
+    "furigana": "あたたかい",
+    "romaji": "atatakai",
+    "meaning": "Ấm áp (thời tiết)",
+    "type": "adjectives"
+  },
+  {
+    "word": "暑い",
+    "furigana": "あつい",
+    "romaji": "atsui",
+    "meaning": "Nóng (thời tiết)",
+    "type": "adjectives"
+  },
+  {
+    "word": "寒い",
+    "furigana": "さむい",
+    "romaji": "samui",
+    "meaning": "Lạnh (thời tiết)",
+    "type": "adjectives"
+  },
+  {
+    "word": "熱い",
+    "furigana": "あつい",
+    "romaji": "atsui",
+    "meaning": "Nóng (nhiệt độ đồ vật)",
+    "type": "adjectives"
+  },
+  {
+    "word": "厚い",
+    "furigana": "あつい",
+    "romaji": "atsui",
+    "meaning": "Dày (độ dày)",
+    "type": "adjectives"
+  },
+  {
+    "word": "薄い",
+    "furigana": "うすい",
+    "romaji": "usui",
+    "meaning": "Mỏng / Nhạt",
+    "type": "adjectives"
+  },
+  {
+    "word": "重い",
+    "furigana": "おもい",
+    "romaji": "omoi",
+    "meaning": "Nặng",
+    "type": "adjectives"
+  },
+  {
+    "word": "軽い",
+    "furigana": "かるい",
+    "romaji": "karui",
+    "meaning": "Nhẹ",
+    "type": "adjectives"
+  },
+  {
+    "word": "早い",
+    "furigana": "hayai",
+    "romaji": "hayai",
+    "meaning": "Sớm",
+    "type": "adjectives"
+  },
+  {
+    "word": "速い",
+    "furigana": "hayai",
+    "romaji": "hayai",
+    "meaning": "Nhanh chóng",
+    "type": "adjectives"
+  },
+  {
+    "word": "遅い",
+    "furigana": "osoi",
+    "romaji": "osoi",
+    "meaning": "Muộn / Chậm",
+    "type": "adjectives"
+  },
+  {
+    "word": "遠い",
+    "furigana": "tooi",
+    "romaji": "tooi",
+    "meaning": "Xa xôi",
+    "type": "adjectives"
+  },
+  {
+    "word": "近い",
+    "furigana": "chikai",
+    "romaji": "chikai",
+    "meaning": "Gần gũi",
+    "type": "adjectives"
+  },
+  {
+    "word": "強い",
+    "furigana": "tsuyoi",
+    "romaji": "tsuyoi",
+    "meaning": "Mạnh mẽ",
+    "type": "adjectives"
+  },
+  {
+    "word": "弱い",
+    "furigana": "yowai",
+    "romaji": "yowai",
+    "meaning": "Yếu ớt",
+    "type": "adjectives"
+  },
+  {
+    "word": "暗い",
+    "furigana": "kurai",
+    "romaji": "kurai",
+    "meaning": "Tối tăm",
+    "type": "adjectives"
+  },
+  {
+    "word": "明るい",
+    "furigana": "akarui",
+    "romaji": "akarui",
+    "meaning": "Sáng sủa",
+    "type": "adjectives"
+  },
+  {
+    "word": "広い",
+    "furigana": "hiroi",
+    "romaji": "hiroi",
+    "meaning": "Rộng",
+    "type": "adjectives"
+  },
+  {
+    "word": "狭い",
+    "furigana": "semai",
+    "romaji": "semai",
+    "meaning": "Hẹp",
+    "type": "adjectives"
+  },
+  {
+    "word": "太い",
+    "furigana": "futoi",
+    "romaji": "futoi",
+    "meaning": "Mập / Béo",
+    "type": "adjectives"
+  },
+  {
+    "word": "細い",
+    "furigana": "hosoi",
+    "romaji": "hosoi",
+    "meaning": "Thon thả / Gầy",
+    "type": "adjectives"
+  },
+  {
+    "word": "若い",
+    "furigana": "wakai",
+    "romaji": "wakai",
+    "meaning": "Trẻ trung",
+    "type": "adjectives"
+  },
+  {
+    "word": "忙しい",
+    "furigana": "isogashii",
+    "romaji": "isogashii",
+    "meaning": "Bận rộn",
+    "type": "adjectives"
+  },
+  {
+    "word": "危ない",
+    "furigana": "abunai",
+    "romaji": "abunai",
+    "meaning": "Nguy hiểm",
+    "type": "adjectives"
+  },
+  {
+    "word": "甘い",
+    "furigana": "amai",
+    "romaji": "amai",
+    "meaning": "Ngọt ngào",
+    "type": "adjectives"
+  },
+  {
+    "word": "辛い",
+    "furigana": "karai",
+    "romaji": "karai",
+    "meaning": "Cay",
+    "type": "adjectives"
+  },
+  {
+    "word": "苦い",
+    "furigana": "nigai",
+    "romaji": "nigai",
+    "meaning": "Đắng",
+    "type": "adjectives"
+  },
+  {
+    "word": "酸っぱい",
+    "furigana": "suppai",
+    "romaji": "suppai",
+    "meaning": "Chua",
+    "type": "adjectives"
+  },
+  {
+    "word": "塩辛い",
+    "furigana": "shiokarai",
+    "romaji": "shiokarai",
+    "meaning": "Mặn",
+    "type": "adjectives"
+  },
+  {
+    "word": "十一",
+    "furigana": "じゅういち",
+    "romaji": "juuichi",
+    "meaning": "Mười một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "十二",
+    "furigana": "じゅうに",
+    "romaji": "juuni",
+    "meaning": "Mười hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "十三",
+    "furigana": "じゅうさん",
+    "romaji": "juusan",
+    "meaning": "Mười ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "十四",
+    "furigana": "じゅうよん",
+    "romaji": "juuyon",
+    "meaning": "Mười bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "十五",
+    "furigana": "じゅうご",
+    "romaji": "juugo",
+    "meaning": "Mười năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "十六",
+    "furigana": "じゅうろく",
+    "romaji": "juuroku",
+    "meaning": "Mười sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "十七",
+    "furigana": "じゅうなな",
+    "romaji": "juunana",
+    "meaning": "Mười bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "十八",
+    "furigana": "じゅうはち",
+    "romaji": "juuhachi",
+    "meaning": "Mười tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "十九",
+    "furigana": "じゅうきゅう",
+    "romaji": "juukyuu",
+    "meaning": "Mười chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二十",
+    "furigana": "にじゅう",
+    "romaji": "nijuu",
+    "meaning": "hai mươi",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二十一",
+    "furigana": "にじゅういち",
+    "romaji": "nijuuichi",
+    "meaning": "hai mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二十二",
+    "furigana": "にじゅうに",
+    "romaji": "nijuuni",
+    "meaning": "hai mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二十三",
+    "furigana": "にじゅうさん",
+    "romaji": "nijuusan",
+    "meaning": "hai mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二十四",
+    "furigana": "にじゅうよん",
+    "romaji": "nijuuyon",
+    "meaning": "hai mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二十五",
+    "furigana": "にじゅうご",
+    "romaji": "nijuugo",
+    "meaning": "hai mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二十六",
+    "furigana": "にじゅうろく",
+    "romaji": "nijuuroku",
+    "meaning": "hai mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二十七",
+    "furigana": "にじゅうなな",
+    "romaji": "nijuunana",
+    "meaning": "hai mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二十八",
+    "furigana": "にじゅうはち",
+    "romaji": "nijuuhachi",
+    "meaning": "hai mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二十九",
+    "furigana": "にじゅうきゅう",
+    "romaji": "nijuukyuu",
+    "meaning": "hai mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三十",
+    "furigana": "さんじゅう",
+    "romaji": "sanjuu",
+    "meaning": "ba mươi",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三十一",
+    "furigana": "さんじゅういち",
+    "romaji": "sanjuuichi",
+    "meaning": "ba mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三十二",
+    "furigana": "さんじゅうに",
+    "romaji": "sanjuuni",
+    "meaning": "ba mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三十三",
+    "furigana": "さんじゅうさん",
+    "romaji": "sanjuusan",
+    "meaning": "ba mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三十四",
+    "furigana": "さんじゅうよん",
+    "romaji": "sanjuuyon",
+    "meaning": "ba mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三十五",
+    "furigana": "さんじゅうご",
+    "romaji": "sanjuugo",
+    "meaning": "ba mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三十六",
+    "furigana": "さんじゅうろく",
+    "romaji": "sanjuuroku",
+    "meaning": "ba mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三十七",
+    "furigana": "さんじゅうなな",
+    "romaji": "sanjuunana",
+    "meaning": "ba mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三十八",
+    "furigana": "さんじゅうはち",
+    "romaji": "sanjuuhachi",
+    "meaning": "ba mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三十九",
+    "furigana": "さんじゅうきゅう",
+    "romaji": "sanjuukyuu",
+    "meaning": "ba mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "四十",
+    "furigana": "よんじゅう",
+    "romaji": "yonjuu",
+    "meaning": "bốn mươi",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "四十一",
+    "furigana": "よんじゅういち",
+    "romaji": "yonjuuichi",
+    "meaning": "bốn mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "四十二",
+    "furigana": "よんじゅうに",
+    "romaji": "yonjuuni",
+    "meaning": "bốn mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "四十三",
+    "furigana": "よんじゅうさん",
+    "romaji": "yonjuusan",
+    "meaning": "bốn mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "四十四",
+    "furigana": "よんじゅうよん",
+    "romaji": "yonjuuyon",
+    "meaning": "bốn mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "四十五",
+    "furigana": "よんじゅうご",
+    "romaji": "yonjuugo",
+    "meaning": "bốn mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "四十六",
+    "furigana": "よんじゅうろく",
+    "romaji": "yonjuuroku",
+    "meaning": "bốn mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "四十七",
+    "furigana": "よんじゅうなな",
+    "romaji": "yonjuunana",
+    "meaning": "bốn mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "四十八",
+    "furigana": "よんじゅうはち",
+    "romaji": "yonjuuhachi",
+    "meaning": "bốn mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "四十九",
+    "furigana": "よんじゅうきゅう",
+    "romaji": "yonjuukyuu",
+    "meaning": "bốn mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "五十",
+    "furigana": "ごじゅう",
+    "romaji": "gojuu",
+    "meaning": "năm mươi",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "五十一",
+    "furigana": "ごじゅういち",
+    "romaji": "gojuuichi",
+    "meaning": "năm mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "五十二",
+    "furigana": "ごじゅうに",
+    "romaji": "gojuuni",
+    "meaning": "năm mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "五十三",
+    "furigana": "ごじゅうさん",
+    "romaji": "gojuusan",
+    "meaning": "năm mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "五十四",
+    "furigana": "ごじゅうよん",
+    "romaji": "gojuuyon",
+    "meaning": "năm mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "五十五",
+    "furigana": "ごじゅうご",
+    "romaji": "gojuugo",
+    "meaning": "năm mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "五十六",
+    "furigana": "ごじゅうろく",
+    "romaji": "gojuuroku",
+    "meaning": "năm mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "五十七",
+    "furigana": "ごじゅうなな",
+    "romaji": "gojuunana",
+    "meaning": "năm mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "五十八",
+    "furigana": "ごじゅうはち",
+    "romaji": "gojuuhachi",
+    "meaning": "năm mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "五十九",
+    "furigana": "ごじゅうきゅう",
+    "romaji": "gojuukyuu",
+    "meaning": "năm mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "六十",
+    "furigana": "ろくじゅう",
+    "romaji": "rokujuu",
+    "meaning": "sáu mươi",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "六十一",
+    "furigana": "ろくじゅういち",
+    "romaji": "rokujuuichi",
+    "meaning": "sáu mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "六十二",
+    "furigana": "ろくじゅうに",
+    "romaji": "rokujuuni",
+    "meaning": "sáu mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "六十三",
+    "furigana": "ろくじゅうさん",
+    "romaji": "rokujuusan",
+    "meaning": "sáu mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "六十四",
+    "furigana": "ろくじゅうよん",
+    "romaji": "rokujuuyon",
+    "meaning": "sáu mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "六十五",
+    "furigana": "ろくじゅうご",
+    "romaji": "rokujuugo",
+    "meaning": "sáu mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "六十六",
+    "furigana": "ろくじゅうろく",
+    "romaji": "rokujuuroku",
+    "meaning": "sáu mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "六十七",
+    "furigana": "ろくじゅうなな",
+    "romaji": "rokujuunana",
+    "meaning": "sáu mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "六十八",
+    "furigana": "ろくじゅうはち",
+    "romaji": "rokujuuhachi",
+    "meaning": "sáu mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "六十九",
+    "furigana": "ろくじゅうきゅう",
+    "romaji": "rokujuukyuu",
+    "meaning": "sáu mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "七十",
+    "furigana": "ななじゅう",
+    "romaji": "nanajuu",
+    "meaning": "bảy mươi",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "七十一",
+    "furigana": "ななじゅういち",
+    "romaji": "nanajuuichi",
+    "meaning": "bảy mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "七十二",
+    "furigana": "ななじゅうに",
+    "romaji": "nanajuuni",
+    "meaning": "bảy mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "七十三",
+    "furigana": "ななじゅうさん",
+    "romaji": "nanajuusan",
+    "meaning": "bảy mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "七十四",
+    "furigana": "ななじゅうよん",
+    "romaji": "nanajuuyon",
+    "meaning": "bảy mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "七十五",
+    "furigana": "ななじゅうご",
+    "romaji": "nanajuugo",
+    "meaning": "bảy mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "七十六",
+    "furigana": "ななじゅうろく",
+    "romaji": "nanajuuroku",
+    "meaning": "bảy mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "七十七",
+    "furigana": "ななじゅうなな",
+    "romaji": "nanajuunana",
+    "meaning": "bảy mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "七十八",
+    "furigana": "ななじゅうはち",
+    "romaji": "nanajuuhachi",
+    "meaning": "bảy mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "七十九",
+    "furigana": "ななじゅうきゅう",
+    "romaji": "nanajuukyuu",
+    "meaning": "bảy mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "八十",
+    "furigana": "はちじゅう",
+    "romaji": "hachijuu",
+    "meaning": "tám mươi",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "八十一",
+    "furigana": "はちじゅういち",
+    "romaji": "hachijuuichi",
+    "meaning": "tám mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "八十二",
+    "furigana": "はちじゅうに",
+    "romaji": "hachijuuni",
+    "meaning": "tám mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "八十三",
+    "furigana": "はちじゅうさん",
+    "romaji": "hachijuusan",
+    "meaning": "tám mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "八十四",
+    "furigana": "はちじゅうよん",
+    "romaji": "hachijuuyon",
+    "meaning": "tám mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "八十五",
+    "furigana": "はちじゅうご",
+    "romaji": "hachijuugo",
+    "meaning": "tám mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "八十六",
+    "furigana": "はちじゅうろく",
+    "romaji": "hachijuuroku",
+    "meaning": "tám mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "八十七",
+    "furigana": "はちじゅうなな",
+    "romaji": "hachijuunana",
+    "meaning": "tám mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "八十八",
+    "furigana": "はちじゅうはち",
+    "romaji": "hachijuuhachi",
+    "meaning": "tám mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "八十九",
+    "furigana": "はちじゅうきゅう",
+    "romaji": "hachijuukyuu",
+    "meaning": "tám mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "九十",
+    "furigana": "きゅうじゅう",
+    "romaji": "kyuujuu",
+    "meaning": "chín mươi",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "九十一",
+    "furigana": "きゅうじゅういち",
+    "romaji": "kyuujuuichi",
+    "meaning": "chín mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "九十二",
+    "furigana": "きゅうじゅうに",
+    "romaji": "kyuujuuni",
+    "meaning": "chín mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "九十三",
+    "furigana": "きゅうじゅうさん",
+    "romaji": "kyuujuusan",
+    "meaning": "chín mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "九十四",
+    "furigana": "きゅうじゅうよん",
+    "romaji": "kyuujuuyon",
+    "meaning": "chín mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "九十五",
+    "furigana": "きゅうじゅうご",
+    "romaji": "kyuujuugo",
+    "meaning": "chín mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "九十六",
+    "furigana": "きゅうじゅうろく",
+    "romaji": "kyuujuuroku",
+    "meaning": "chín mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "九十七",
+    "furigana": "きゅうじゅうなな",
+    "romaji": "kyuujuunana",
+    "meaning": "chín mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "九十八",
+    "furigana": "きゅうじゅうはち",
+    "romaji": "kyuujuuhachi",
+    "meaning": "chín mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "九十九",
+    "furigana": "きゅうじゅうきゅう",
+    "romaji": "kyuujuukyuu",
+    "meaning": "chín mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "2020年",
+    "furigana": "2020ねん",
+    "romaji": "2020nen",
+    "meaning": "Năm 2020",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2021年",
+    "furigana": "2021ねん",
+    "romaji": "2021nen",
+    "meaning": "Năm 2021",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2022年",
+    "furigana": "2022ねん",
+    "romaji": "2022nen",
+    "meaning": "Năm 2022",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2023年",
+    "furigana": "2023ねん",
+    "romaji": "2023nen",
+    "meaning": "Năm 2023",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2024年",
+    "furigana": "2024ねん",
+    "romaji": "2024nen",
+    "meaning": "Năm 2024",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2025年",
+    "furigana": "2025ねん",
+    "romaji": "2025nen",
+    "meaning": "Năm 2025",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2026年",
+    "furigana": "2026ねん",
+    "romaji": "2026nen",
+    "meaning": "Năm 2026",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2027年",
+    "furigana": "2027ねん",
+    "romaji": "2027nen",
+    "meaning": "Năm 2027",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2028年",
+    "furigana": "2028ねん",
+    "romaji": "2028nen",
+    "meaning": "Năm 2028",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2029年",
+    "furigana": "2029ねん",
+    "romaji": "2029nen",
+    "meaning": "Năm 2029",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2030年",
+    "furigana": "2030ねん",
+    "romaji": "2030nen",
+    "meaning": "Năm 2030",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2031年",
+    "furigana": "2031ねん",
+    "romaji": "2031nen",
+    "meaning": "Năm 2031",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2032年",
+    "furigana": "2032ねん",
+    "romaji": "2032nen",
+    "meaning": "Năm 2032",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2033年",
+    "furigana": "2033ねん",
+    "romaji": "2033nen",
+    "meaning": "Năm 2033",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2034年",
+    "furigana": "2034ねん",
+    "romaji": "2034nen",
+    "meaning": "Năm 2034",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2035年",
+    "furigana": "2035ねん",
+    "romaji": "2035nen",
+    "meaning": "Năm 2035",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2036年",
+    "furigana": "2036ねん",
+    "romaji": "2036nen",
+    "meaning": "Năm 2036",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2037年",
+    "furigana": "2037ねん",
+    "romaji": "2037nen",
+    "meaning": "Năm 2037",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2038年",
+    "furigana": "2038ねん",
+    "romaji": "2038nen",
+    "meaning": "Năm 2038",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2039年",
+    "furigana": "2039ねん",
+    "romaji": "2039nen",
+    "meaning": "Năm 2039",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2040年",
+    "furigana": "2040ねん",
+    "romaji": "2040nen",
+    "meaning": "Năm 2040",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2041年",
+    "furigana": "2041ねん",
+    "romaji": "2041nen",
+    "meaning": "Năm 2041",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2042年",
+    "furigana": "2042ねん",
+    "romaji": "2042nen",
+    "meaning": "Năm 2042",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2043年",
+    "furigana": "2043ねん",
+    "romaji": "2043nen",
+    "meaning": "Năm 2043",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2044年",
+    "furigana": "2044ねん",
+    "romaji": "2044nen",
+    "meaning": "Năm 2044",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2045年",
+    "furigana": "2045ねん",
+    "romaji": "2045nen",
+    "meaning": "Năm 2045",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2046年",
+    "furigana": "2046ねん",
+    "romaji": "2046nen",
+    "meaning": "Năm 2046",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2047年",
+    "furigana": "2047ねん",
+    "romaji": "2047nen",
+    "meaning": "Năm 2047",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2048年",
+    "furigana": "2048ねん",
+    "romaji": "2048nen",
+    "meaning": "Năm 2048",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2049年",
+    "furigana": "2049ねん",
+    "romaji": "2049nen",
+    "meaning": "Năm 2049",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2050年",
+    "furigana": "2050ねん",
+    "romaji": "2050nen",
+    "meaning": "Năm 2050",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2051年",
+    "furigana": "2051ねん",
+    "romaji": "2051nen",
+    "meaning": "Năm 2051",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2052年",
+    "furigana": "2052ねん",
+    "romaji": "2052nen",
+    "meaning": "Năm 2052",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2053年",
+    "furigana": "2053ねん",
+    "romaji": "2053nen",
+    "meaning": "Năm 2053",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2054年",
+    "furigana": "2054ねん",
+    "romaji": "2054nen",
+    "meaning": "Năm 2054",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2055年",
+    "furigana": "2055ねん",
+    "romaji": "2055nen",
+    "meaning": "Năm 2055",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2056年",
+    "furigana": "2056ねん",
+    "romaji": "2056nen",
+    "meaning": "Năm 2056",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2057年",
+    "furigana": "2057ねん",
+    "romaji": "2057nen",
+    "meaning": "Năm 2057",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2058年",
+    "furigana": "2058ねん",
+    "romaji": "2058nen",
+    "meaning": "Năm 2058",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2059年",
+    "furigana": "2059ねん",
+    "romaji": "2059nen",
+    "meaning": "Năm 2059",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2060年",
+    "furigana": "2060ねん",
+    "romaji": "2060nen",
+    "meaning": "Năm 2060",
+    "type": "time_calendar"
+  },
+  {
+    "word": "11日",
+    "furigana": "じゅういちにch",
+    "romaji": "juuichinichi",
+    "meaning": "Ngày 11 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "12日",
+    "furigana": "じゅうににち",
+    "romaji": "juuninichi",
+    "meaning": "Ngày 12 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "13日",
+    "furigana": "じゅうさんにち",
+    "romaji": "juusannichi",
+    "meaning": "Ngày 13 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "14日",
+    "furigana": "じゅうよっか",
+    "romaji": "juuyokka",
+    "meaning": "Ngày 14 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "15日",
+    "furigana": "じゅうごにち",
+    "romaji": "juugonichi",
+    "meaning": "Ngày 15 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "16日",
+    "furigana": "じゅうろくにち",
+    "romaji": "juurokunichi",
+    "meaning": "Ngày 16 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "17日",
+    "furigana": "じゅうしちにち",
+    "romaji": "juushichinichi",
+    "meaning": "Ngày 17 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "18日",
+    "furigana": "じゅうはちにち",
+    "romaji": "juuhachinichi",
+    "meaning": "Ngày 18 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "19日",
+    "furigana": "じゅうくにち",
+    "romaji": "juukunichi",
+    "meaning": "Ngày 19 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "20日",
+    "furigana": "はつか",
+    "romaji": "hatsuka",
+    "meaning": "Ngày 20 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "21日",
+    "furigana": "にじゅういちにち",
+    "romaji": "nijiuuichinichi",
+    "meaning": "Ngày 21 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "22日",
+    "furigana": "にじゅうににち",
+    "romaji": "nijiuuninichi",
+    "meaning": "Ngày 22 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "23日",
+    "furigana": "にじゅうさんにち",
+    "romaji": "nijiuusannichi",
+    "meaning": "Ngày 23 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "24日",
+    "furigana": "にじゅうよっか",
+    "romaji": "nijiuuyokka",
+    "meaning": "Ngày 24 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "25日",
+    "furigana": "にじゅうごにち",
+    "romaji": "nijiuugonichi",
+    "meaning": "Ngày 25 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "26日",
+    "furigana": "にじゅうろくにch",
+    "romaji": "nijiuurokunichi",
+    "meaning": "Ngày 26 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "27日",
+    "furigana": "にじゅうしちにち",
+    "romaji": "nijiuushichinichi",
+    "meaning": "Ngày 27 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "28日",
+    "furigana": "にじゅうはちにch",
+    "romaji": "nijiuuhachinichi",
+    "meaning": "Ngày 28 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "29日",
+    "furigana": "にじゅうくにち",
+    "romaji": "nijiuukunichi",
+    "meaning": "Ngày 29 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "30日",
+    "furigana": "sanじゅうにち",
+    "romaji": "sanjuunichi",
+    "meaning": "Ngày 30 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "31日",
+    "furigana": "さんじゅういちにち",
+    "romaji": "sanjuuichinichi",
+    "meaning": "Ngày 31 (trong tháng)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "1ヶ月",
+    "furigana": "1かげつ",
+    "romaji": "1kagetsu",
+    "meaning": "1 tháng (lượng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2ヶ月",
+    "furigana": "2かげつ",
+    "romaji": "2kagetsu",
+    "meaning": "2 tháng (lượng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "3ヶ月",
+    "furigana": "3かげつ",
+    "romaji": "3kagetsu",
+    "meaning": "3 tháng (lượng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "4ヶ月",
+    "furigana": "4かげつ",
+    "romaji": "4kagetsu",
+    "meaning": "4 tháng (lượng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "5ヶ月",
+    "furigana": "5かげつ",
+    "romaji": "5kagetsu",
+    "meaning": "5 tháng (lượng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "6ヶ月",
+    "furigana": "6かげつ",
+    "romaji": "6kagetsu",
+    "meaning": "6 tháng (lượng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "7ヶ月",
+    "furigana": "7かげつ",
+    "romaji": "7kagetsu",
+    "meaning": "7 tháng (lượng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "8ヶ月",
+    "furigana": "8かげつ",
+    "romaji": "8kagetsu",
+    "meaning": "8 tháng (lượng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "9ヶ月",
+    "furigana": "9かげつ",
+    "romaji": "9kagetsu",
+    "meaning": "9 tháng (lượng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "10ヶ月",
+    "furigana": "10かげつ",
+    "romaji": "10kagetsu",
+    "meaning": "10 tháng (lượng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "11ヶ月",
+    "furigana": "11かげつ",
+    "romaji": "11kagetsu",
+    "meaning": "11 tháng (lượng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "12ヶ月",
+    "furigana": "12かげつ",
+    "romaji": "12kagetsu",
+    "meaning": "12 tháng (lượng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "1時",
+    "furigana": "いちじ",
+    "romaji": "ichiji",
+    "meaning": "1 giờ",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2時",
+    "furigana": "にじ",
+    "romaji": "niji",
+    "meaning": "2 giờ",
+    "type": "time_calendar"
+  },
+  {
+    "word": "3時",
+    "furigana": "さんじ",
+    "romaji": "sanji",
+    "meaning": "3 giờ",
+    "type": "time_calendar"
+  },
+  {
+    "word": "4時",
+    "furigana": "よじ",
+    "romaji": "yoji",
+    "meaning": "4 giờ",
+    "type": "time_calendar"
+  },
+  {
+    "word": "5時",
+    "furigana": "ごじ",
+    "romaji": "goji",
+    "meaning": "5 giờ",
+    "type": "time_calendar"
+  },
+  {
+    "word": "6時",
+    "furigana": "ろくじ",
+    "romaji": "rokuji",
+    "meaning": "6 giờ",
+    "type": "time_calendar"
+  },
+  {
+    "word": "7時",
+    "furigana": "しちじ",
+    "romaji": "shichiji",
+    "meaning": "7 giờ",
+    "type": "time_calendar"
+  },
+  {
+    "word": "8時",
+    "furigana": "はちじ",
+    "romaji": "hachiji",
+    "meaning": "8 giờ",
+    "type": "time_calendar"
+  },
+  {
+    "word": "9時",
+    "furigana": "くじ",
+    "romaji": "kuji",
+    "meaning": "9 giờ",
+    "type": "time_calendar"
+  },
+  {
+    "word": "10時",
+    "furigana": "じゅうじ",
+    "romaji": "juuji",
+    "meaning": "10 giờ",
+    "type": "time_calendar"
+  },
+  {
+    "word": "11時",
+    "furigana": "じゅういちじ",
+    "romaji": "juuichiji",
+    "meaning": "11 giờ",
+    "type": "time_calendar"
+  },
+  {
+    "word": "12時",
+    "furigana": "じゅうにじ",
+    "romaji": "juuniji",
+    "meaning": "12 giờ",
+    "type": "time_calendar"
+  },
+  {
+    "word": "1分",
+    "furigana": "いっぷん",
+    "romaji": "ippun",
+    "meaning": "1 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2分",
+    "furigana": "にふん",
+    "romaji": "nifun",
+    "meaning": "2 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "3分",
+    "furigana": "さんぷん",
+    "romaji": "sanpun",
+    "meaning": "3 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "4分",
+    "furigana": "よんぷん",
+    "romaji": "yonpun",
+    "meaning": "4 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "5分",
+    "furigana": "ごふん",
+    "romaji": "gofun",
+    "meaning": "5 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "6分",
+    "furigana": "ろっぷん",
+    "romaji": "roppun",
+    "meaning": "6 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "7分",
+    "furigana": "ななふん",
+    "romaji": "nanafun",
+    "meaning": "7 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "8分",
+    "furigana": "はっぷん",
+    "romaji": "happun",
+    "meaning": "8 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "9分",
+    "furigana": "きゅうふん",
+    "romaji": "kyuufun",
+    "meaning": "9 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "10分",
+    "furigana": "じゅっぷん",
+    "romaji": "juppun",
+    "meaning": "10 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "11分",
+    "furigana": "じゅういっぷん",
+    "romaji": "juuippun",
+    "meaning": "11 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "12分",
+    "furigana": "じゅうにふん",
+    "romaji": "juunifun",
+    "meaning": "12 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "13分",
+    "furigana": "じゅうさんぷん",
+    "romaji": "juusanpun",
+    "meaning": "13 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "14分",
+    "furigana": "じゅうよんぷん",
+    "romaji": "juuyonpun",
+    "meaning": "14 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "15分",
+    "furigana": "じゅうごふん",
+    "romaji": "juugofun",
+    "meaning": "15 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "16分",
+    "furigana": "じゅうろっぷん",
+    "romaji": "juuroppun",
+    "meaning": "16 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "17分",
+    "furigana": "じゅうななふん",
+    "romaji": "juunanafun",
+    "meaning": "17 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "18分",
+    "furigana": "じゅうはっぷん",
+    "romaji": "juuhappun",
+    "meaning": "18 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "19分",
+    "furigana": "じゅうきゅうふん",
+    "romaji": "juukyuufun",
+    "meaning": "19 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "20分",
+    "furigana": "にじゅうぷん",
+    "romaji": "nijuupun",
+    "meaning": "20 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "21分",
+    "furigana": "にじゅういっぷん",
+    "romaji": "nijuuippun",
+    "meaning": "21 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "22分",
+    "furigana": "にじゅうにふん",
+    "romaji": "nijuunifun",
+    "meaning": "22 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "23分",
+    "furigana": "にじゅうさんぷん",
+    "romaji": "nijuusanpun",
+    "meaning": "23 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "24分",
+    "furigana": "にじゅうよんぷん",
+    "romaji": "nijuuyonpun",
+    "meaning": "24 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "25分",
+    "furigana": "にじゅうごふん",
+    "romaji": "nijuugofun",
+    "meaning": "25 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "26分",
+    "furigana": "にじゅうろっぷん",
+    "romaji": "nijuuroppun",
+    "meaning": "26 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "27分",
+    "furigana": "にじゅうななふん",
+    "romaji": "nijuunanafun",
+    "meaning": "27 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "28分",
+    "furigana": "にじゅうはっぷん",
+    "romaji": "nijuuhappun",
+    "meaning": "28 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "29分",
+    "furigana": "にじゅうきゅうふん",
+    "romaji": "nijuukyuufun",
+    "meaning": "29 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "30分",
+    "furigana": "さんじゅうぷん",
+    "romaji": "sanjuupun",
+    "meaning": "30 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "31分",
+    "furigana": "さんじゅういっぷん",
+    "romaji": "sanjuuippun",
+    "meaning": "31 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "32分",
+    "furigana": "さんじゅうにふん",
+    "romaji": "sanjuunifun",
+    "meaning": "32 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "33分",
+    "furigana": "さんじゅうさんぷん",
+    "romaji": "sanjuusanpun",
+    "meaning": "33 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "34分",
+    "furigana": "さんじゅうよんぷん",
+    "romaji": "sanjuuyonpun",
+    "meaning": "34 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "35分",
+    "furigana": "さんじゅうごふん",
+    "romaji": "sanjuugofun",
+    "meaning": "35 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "36分",
+    "furigana": "さんじゅうろっぷん",
+    "romaji": "sanjuuroppun",
+    "meaning": "36 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "37分",
+    "furigana": "さんじゅうななふん",
+    "romaji": "sanjuunanafun",
+    "meaning": "37 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "38分",
+    "furigana": "さんじゅうはっぷん",
+    "romaji": "sanjuuhappun",
+    "meaning": "38 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "39分",
+    "furigana": "さんじゅうきゅうふん",
+    "romaji": "sanjuukyuufun",
+    "meaning": "39 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "40分",
+    "furigana": "よんじゅうぷん",
+    "romaji": "yonjuupun",
+    "meaning": "40 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "41分",
+    "furigana": "よんじゅういっぷん",
+    "romaji": "yonjuuippun",
+    "meaning": "41 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "42分",
+    "furigana": "よんじゅうにふん",
+    "romaji": "yonjuunifun",
+    "meaning": "42 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "43分",
+    "furigana": "よんじゅうさんぷん",
+    "romaji": "yonjuusanpun",
+    "meaning": "43 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "44分",
+    "furigana": "よんじゅうよんぷん",
+    "romaji": "yonjuuyonpun",
+    "meaning": "44 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "45分",
+    "furigana": "よんじゅうごふん",
+    "romaji": "yonjuugofun",
+    "meaning": "45 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "46分",
+    "furigana": "よんじゅうろっぷん",
+    "romaji": "yonjuuroppun",
+    "meaning": "46 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "47分",
+    "furigana": "よんじゅうななふん",
+    "romaji": "yonjuunanafun",
+    "meaning": "47 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "48分",
+    "furigana": "よんじゅうはっぷん",
+    "romaji": "yonjuuhappun",
+    "meaning": "48 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "49分",
+    "furigana": "よんじゅうきゅうふん",
+    "romaji": "yonjuukyuufun",
+    "meaning": "49 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "50分",
+    "furigana": "ごじゅうぷん",
+    "romaji": "gojuupun",
+    "meaning": "50 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "51分",
+    "furigana": "ごじゅういっぷん",
+    "romaji": "gojuuippun",
+    "meaning": "51 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "52分",
+    "furigana": "ごじゅうにふん",
+    "romaji": "gojuunifun",
+    "meaning": "52 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "53分",
+    "furigana": "ごじゅうさんぷん",
+    "romaji": "gojuusanpun",
+    "meaning": "53 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "54分",
+    "furigana": "ごじゅうよんぷん",
+    "romaji": "gojuuyonpun",
+    "meaning": "54 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "55分",
+    "furigana": "ごじゅうごふん",
+    "romaji": "gojuugofun",
+    "meaning": "55 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "56分",
+    "furigana": "ごじゅうろっぷん",
+    "romaji": "gojuuroppun",
+    "meaning": "56 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "57分",
+    "furigana": "ごじゅうななふん",
+    "romaji": "gojuunanafun",
+    "meaning": "57 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "58分",
+    "furigana": "ごじゅうはっぷん",
+    "romaji": "gojuuhappun",
+    "meaning": "58 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "59分",
+    "furigana": "ごじゅうきゅうふん",
+    "romaji": "gojuukyuufun",
+    "meaning": "59 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "60分",
+    "furigana": "ろくじゅうぷん",
+    "romaji": "rokujuupun",
+    "meaning": "60 phút",
+    "type": "time_calendar"
+  },
+  {
+    "word": "1時間",
+    "furigana": "いちじかん",
+    "romaji": "ichijikan",
+    "meaning": "1 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2時間",
+    "furigana": "にじかん",
+    "romaji": "nijikan",
+    "meaning": "2 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "3時間",
+    "furigana": "さんじかん",
+    "romaji": "sanjikan",
+    "meaning": "3 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "4時間",
+    "furigana": "よじかん",
+    "romaji": "yojikan",
+    "meaning": "4 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "5時間",
+    "furigana": "ごじかん",
+    "romaji": "gojikan",
+    "meaning": "5 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "6時間",
+    "furigana": "ろくじかん",
+    "romaji": "rokujikan",
+    "meaning": "6 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "7時間",
+    "furigana": "しちじかん",
+    "romaji": "shichijikan",
+    "meaning": "7 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "8時間",
+    "furigana": "はちじかん",
+    "romaji": "hachijikan",
+    "meaning": "8 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "9時間",
+    "furigana": "くじかん",
+    "romaji": "kujikan",
+    "meaning": "9 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "10時間",
+    "furigana": "ゅうじじかん",
+    "romaji": "juujikan",
+    "meaning": "10 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "11時間",
+    "furigana": "ゅういちじじかん",
+    "romaji": "juuichijikan",
+    "meaning": "11 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "12時間",
+    "furigana": "ゅうにじじかん",
+    "romaji": "juunijikan",
+    "meaning": "12 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "13時間",
+    "furigana": "13じかん",
+    "romaji": "13jikan",
+    "meaning": "13 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "14時間",
+    "furigana": "14じかん",
+    "romaji": "14jikan",
+    "meaning": "14 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "15時間",
+    "furigana": "15じかん",
+    "romaji": "15jikan",
+    "meaning": "15 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "16時間",
+    "furigana": "16じかん",
+    "romaji": "16jikan",
+    "meaning": "16 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "17時間",
+    "furigana": "17じかん",
+    "romaji": "17jikan",
+    "meaning": "17 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "18時間",
+    "furigana": "18じかん",
+    "romaji": "18jikan",
+    "meaning": "18 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "19時間",
+    "furigana": "19じかん",
+    "romaji": "19jikan",
+    "meaning": "19 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "20時間",
+    "furigana": "20じかん",
+    "romaji": "20jikan",
+    "meaning": "20 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "21時間",
+    "furigana": "21じかん",
+    "romaji": "21jikan",
+    "meaning": "21 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "22時間",
+    "furigana": "22じかん",
+    "romaji": "22jikan",
+    "meaning": "22 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "23時間",
+    "furigana": "23じかん",
+    "romaji": "23jikan",
+    "meaning": "23 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "24時間",
+    "furigana": "24じかん",
+    "romaji": "24jikan",
+    "meaning": "24 tiếng đồng hồ (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "1週間",
+    "furigana": "いっしゅうかん",
+    "romaji": "isshuukan",
+    "meaning": "1 tuần (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2週間",
+    "furigana": "にしゅうかん",
+    "romaji": "nishuukan",
+    "meaning": "2 tuần (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "3週間",
+    "furigana": "さんしゅうかん",
+    "romaji": "sanshuukan",
+    "meaning": "3 tuần (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "4週間",
+    "furigana": "よんしゅうかん",
+    "romaji": "yonshuukan",
+    "meaning": "4 tuần (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "5週間",
+    "furigana": "ごしゅうかん",
+    "romaji": "goshuukan",
+    "meaning": "5 tuần (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "6週間",
+    "furigana": "ろくしゅうかん",
+    "romaji": "rokushuukan",
+    "meaning": "6 tuần (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "7週間",
+    "furigana": "ななしゅうかん",
+    "romaji": "nanashuukan",
+    "meaning": "7 tuần (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "8週間",
+    "furigana": "はっしゅうかん",
+    "romaji": "hasshuukan",
+    "meaning": "8 tuần (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "9週間",
+    "furigana": "きゅうしゅうかん",
+    "romaji": "kyuushuukan",
+    "meaning": "9 tuần (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "10週間",
+    "furigana": "じゅっしゅうかん",
+    "romaji": "jusshuukan",
+    "meaning": "10 tuần (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "1年間",
+    "furigana": "1ねんかん",
+    "romaji": "1nenkan",
+    "meaning": "1 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "2年間",
+    "furigana": "2ねんかん",
+    "romaji": "2nenkan",
+    "meaning": "2 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "3年間",
+    "furigana": "3ねんかん",
+    "romaji": "3nenkan",
+    "meaning": "3 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "4年間",
+    "furigana": "4ねんかん",
+    "romaji": "4nenkan",
+    "meaning": "4 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "5年間",
+    "furigana": "5ねんかん",
+    "romaji": "5nenkan",
+    "meaning": "5 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "6年間",
+    "furigana": "6ねんかん",
+    "romaji": "6nenkan",
+    "meaning": "6 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "7年間",
+    "furigana": "7ねんかん",
+    "romaji": "7nenkan",
+    "meaning": "7 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "8年間",
+    "furigana": "はちねんかん",
+    "romaji": "8nenkan",
+    "meaning": "8 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "9年間",
+    "furigana": "9ねんかん",
+    "romaji": "9nenkan",
+    "meaning": "9 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "10年間",
+    "furigana": "10ねんかん",
+    "romaji": "10nenkan",
+    "meaning": "10 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "11年間",
+    "furigana": "11ねんかん",
+    "romaji": "11nenkan",
+    "meaning": "11 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "12年間",
+    "furigana": "12ねんかん",
+    "romaji": "12nenkan",
+    "meaning": "12 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "13年間",
+    "furigana": "13ねんかん",
+    "romaji": "13nenkan",
+    "meaning": "13 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "14年間",
+    "furigana": "14ねんかん",
+    "romaji": "14nenkan",
+    "meaning": "14 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "15年間",
+    "furigana": "15ねんかん",
+    "romaji": "15nenkan",
+    "meaning": "15 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "16年間",
+    "furigana": "16ねんかん",
+    "romaji": "16nenkan",
+    "meaning": "16 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "17年間",
+    "furigana": "17ねんかん",
+    "romaji": "17nenkan",
+    "meaning": "17 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "18年間",
+    "furigana": "18ねんかん",
+    "romaji": "18nenkan",
+    "meaning": "18 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "19年間",
+    "furigana": "19ねんかん",
+    "romaji": "19nenkan",
+    "meaning": "19 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "20年間",
+    "furigana": "20ねんかん",
+    "romaji": "20nenkan",
+    "meaning": "20 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "21年間",
+    "furigana": "21ねんかん",
+    "romaji": "21nenkan",
+    "meaning": "21 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "22年間",
+    "furigana": "22ねんかん",
+    "romaji": "22nenkan",
+    "meaning": "22 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "23年間",
+    "furigana": "23ねんかん",
+    "romaji": "23nenkan",
+    "meaning": "23 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "24年間",
+    "furigana": "24ねんかん",
+    "romaji": "24nenkan",
+    "meaning": "24 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "25年間",
+    "furigana": "25ねんかん",
+    "romaji": "25nenkan",
+    "meaning": "25 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "26年間",
+    "furigana": "26ねんかん",
+    "romaji": "26nenkan",
+    "meaning": "26 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "27年間",
+    "furigana": "27ねんかん",
+    "romaji": "27nenkan",
+    "meaning": "27 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "28年間",
+    "furigana": "28ねんかん",
+    "romaji": "28nenkan",
+    "meaning": "28 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "29年間",
+    "furigana": "29ねんかん",
+    "romaji": "29nenkan",
+    "meaning": "29 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "30年間",
+    "furigana": "30ねんかん",
+    "romaji": "30nenkan",
+    "meaning": "30 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "31年間",
+    "furigana": "31ねんかん",
+    "romaji": "31nenkan",
+    "meaning": "31 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "32年間",
+    "furigana": "32ねんかん",
+    "romaji": "32nenkan",
+    "meaning": "32 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "33年間",
+    "furigana": "33ねんかん",
+    "romaji": "33nenkan",
+    "meaning": "33 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "34年間",
+    "furigana": "34ねんかん",
+    "romaji": "34nenkan",
+    "meaning": "34 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "35年間",
+    "furigana": "35ねんかん",
+    "romaji": "35nenkan",
+    "meaning": "35 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "36年間",
+    "furigana": "36ねんかん",
+    "romaji": "36nenkan",
+    "meaning": "36 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "37年間",
+    "furigana": "37ねんかん",
+    "romaji": "37nenkan",
+    "meaning": "37 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "38年間",
+    "furigana": "38ねんかん",
+    "romaji": "38nenkan",
+    "meaning": "38 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "39年間",
+    "furigana": "39ねんかん",
+    "romaji": "39nenkan",
+    "meaning": "39 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "40年間",
+    "furigana": "40ねんかん",
+    "romaji": "40nenkan",
+    "meaning": "40 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "41年間",
+    "furigana": "41ねんかん",
+    "romaji": "41nenkan",
+    "meaning": "41 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "42年間",
+    "furigana": "42ねんかん",
+    "romaji": "42nenkan",
+    "meaning": "42 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "43年間",
+    "furigana": "43ねんかん",
+    "romaji": "43nenkan",
+    "meaning": "43 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "44年間",
+    "furigana": "44ねんかん",
+    "romaji": "44nenkan",
+    "meaning": "44 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "45年間",
+    "furigana": "45ねんかん",
+    "romaji": "45nenkan",
+    "meaning": "45 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "46年間",
+    "furigana": "46ねんかん",
+    "romaji": "46nenkan",
+    "meaning": "46 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "47年間",
+    "furigana": "47ねんかん",
+    "romaji": "47nenkan",
+    "meaning": "47 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "48年間",
+    "furigana": "48ねんかん",
+    "romaji": "48nenkan",
+    "meaning": "48 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "49年間",
+    "furigana": "49ねんかん",
+    "romaji": "49nenkan",
+    "meaning": "49 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "50年間",
+    "furigana": "50ねんかん",
+    "romaji": "50nenkan",
+    "meaning": "50 năm (khoảng thời gian)",
+    "type": "time_calendar"
+  },
+  {
+    "word": "ベトナム",
+    "furigana": "べとなむ",
+    "romaji": "betonamu",
+    "meaning": "Việt Nam",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "アメリカ",
+    "furigana": "あめりか",
+    "romaji": "amerika",
+    "meaning": "Mỹ (Hoa Kỳ)",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "イギリス",
+    "furigana": "いぎりす",
+    "romaji": "igirisu",
+    "meaning": "Anh (Vương quốc Anh)",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "フランス",
+    "furigana": "ふらんす",
+    "romaji": "furansu",
+    "meaning": "Pháp",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ドイツ",
+    "furigana": "どいつ",
+    "romaji": "doitsu",
+    "meaning": "Đức",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "イタリア",
+    "furigana": "いたりあ",
+    "romaji": "itaria",
+    "meaning": "Ý",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "スペイン",
+    "furigana": "すぺいん",
+    "romaji": "supein",
+    "meaning": "Tây Ban Nha",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "ロシア",
+    "furigana": "ろしあ",
+    "romaji": "roshia",
+    "meaning": "Nga",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "インド",
+    "furigana": "いんど",
+    "romaji": "indo",
+    "meaning": "Ấn Độ",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "タイ",
+    "furigana": "たい",
+    "romaji": "tai",
+    "meaning": "Thái Lan",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "シンガポール",
+    "furigana": "しんがぽーる",
+    "romaji": "shingapo-ru",
+    "meaning": "Singapore",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "マレーシア",
+    "furigana": "まれーしあ",
+    "romaji": "mare-shia",
+    "meaning": "Malaysia",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "フィリピン",
+    "furigana": "ふぃりぴん",
+    "romaji": "firipin",
+    "meaning": "Philippines",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "韓国",
+    "furigana": "かんこく",
+    "romaji": "kankoku",
+    "meaning": "Hàn Quốc",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "日本",
+    "furigana": "にほん",
+    "romaji": "nihon",
+    "meaning": "Nhật Bản",
+    "type": "objects_lifestyle"
+  },
+  {
+    "word": "百一",
+    "furigana": "ひゃくいち",
+    "romaji": "hyakuichi",
+    "meaning": "Một trăm lẻ một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百二",
+    "furigana": "ひゃくに",
+    "romaji": "hyakuni",
+    "meaning": "Một trăm lẻ hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百三",
+    "furigana": "ひゃくさん",
+    "romaji": "hyakusan",
+    "meaning": "Một trăm lẻ ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百四",
+    "furigana": "ひゃくよん",
+    "romaji": "hyakuyon",
+    "meaning": "Một trăm lẻ bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百五",
+    "furigana": "ひゃくご",
+    "romaji": "hyakugo",
+    "meaning": "Một trăm lẻ năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百六",
+    "furigana": "ひゃくろく",
+    "romaji": "hyakuroku",
+    "meaning": "Một trăm lẻ sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百七",
+    "furigana": "ひゃくなな",
+    "romaji": "hyakunana",
+    "meaning": "Một trăm lẻ bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百八",
+    "furigana": "ひゃくはち",
+    "romaji": "hyakuhachi",
+    "meaning": "Một trăm lẻ tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百九",
+    "furigana": "ひゃくきゅう",
+    "romaji": "hyakukyuu",
+    "meaning": "Một trăm lẻ chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百十",
+    "furigana": "ひゃくじゅう",
+    "romaji": "hyakujuu",
+    "meaning": "Một trăm mười ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百十一",
+    "furigana": "ひゃくじゅういち",
+    "romaji": "hyakujuuichi",
+    "meaning": "Một trăm mười một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百十二",
+    "furigana": "ひゃくじゅうに",
+    "romaji": "hyakujuuni",
+    "meaning": "Một trăm mười hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百十三",
+    "furigana": "ひゃくじゅうさん",
+    "romaji": "hyakujuusan",
+    "meaning": "Một trăm mười ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百十四",
+    "furigana": "ひゃくじゅうよん",
+    "romaji": "hyakujuuyon",
+    "meaning": "Một trăm mười bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百十五",
+    "furigana": "ひゃくじゅうご",
+    "romaji": "hyakujuugo",
+    "meaning": "Một trăm mười năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百十六",
+    "furigana": "ひゃくじゅうろく",
+    "romaji": "hyakujuuroku",
+    "meaning": "Một trăm mười sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百十七",
+    "furigana": "ひゃくじゅうなな",
+    "romaji": "hyakujuunana",
+    "meaning": "Một trăm mười bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百十八",
+    "furigana": "ひゃくじゅうはち",
+    "romaji": "hyakujuuhachi",
+    "meaning": "Một trăm mười tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百十九",
+    "furigana": "ひゃくじゅうきゅう",
+    "romaji": "hyakujuukyuu",
+    "meaning": "Một trăm mười chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百二十",
+    "furigana": "ひゃくにじゅう",
+    "romaji": "hyakunijuu",
+    "meaning": "Một trăm hai mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百二十一",
+    "furigana": "ひゃくにじゅういち",
+    "romaji": "hyakunijuuichi",
+    "meaning": "Một trăm hai mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百二十二",
+    "furigana": "ひゃくにじゅうに",
+    "romaji": "hyakunijuuni",
+    "meaning": "Một trăm hai mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百二十三",
+    "furigana": "ひゃくにじゅうさん",
+    "romaji": "hyakunijuusan",
+    "meaning": "Một trăm hai mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百二十四",
+    "furigana": "ひゃくにじゅうよん",
+    "romaji": "hyakunijuuyon",
+    "meaning": "Một trăm hai mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百二十五",
+    "furigana": "ひゃくにじゅうご",
+    "romaji": "hyakunijuugo",
+    "meaning": "Một trăm hai mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百二十六",
+    "furigana": "ひゃくにじゅうろく",
+    "romaji": "hyakunijuuroku",
+    "meaning": "Một trăm hai mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百二十七",
+    "furigana": "ひゃくにじゅうなな",
+    "romaji": "hyakunijuunana",
+    "meaning": "Một trăm hai mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百二十八",
+    "furigana": "ひゃくにじゅうはち",
+    "romaji": "hyakunijuuhachi",
+    "meaning": "Một trăm hai mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百二十九",
+    "furigana": "ひゃくにじゅうきゅう",
+    "romaji": "hyakunijuukyuu",
+    "meaning": "Một trăm hai mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百三十",
+    "furigana": "ひゃくさんじゅう",
+    "romaji": "hyakusanjuu",
+    "meaning": "Một trăm ba mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百三十一",
+    "furigana": "ひゃくさんじゅういち",
+    "romaji": "hyakusanjuuichi",
+    "meaning": "Một trăm ba mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百三十二",
+    "furigana": "ひゃくさんじゅうに",
+    "romaji": "hyakusanjuuni",
+    "meaning": "Một trăm ba mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百三十三",
+    "furigana": "ひゃくさんじゅうさん",
+    "romaji": "hyakusanjuusan",
+    "meaning": "Một trăm ba mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百三十四",
+    "furigana": "ひゃくさんじゅうよん",
+    "romaji": "hyakusanjuuyon",
+    "meaning": "Một trăm ba mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百三十五",
+    "furigana": "ひゃくさんじゅうご",
+    "romaji": "hyakusanjuugo",
+    "meaning": "Một trăm ba mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百三十六",
+    "furigana": "ひゃくさんじゅうろく",
+    "romaji": "hyakusanjuuroku",
+    "meaning": "Một trăm ba mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百三十七",
+    "furigana": "ひゃくさんじゅうなな",
+    "romaji": "hyakusanjuunana",
+    "meaning": "Một trăm ba mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百三十八",
+    "furigana": "ひゃくさんじゅうはち",
+    "romaji": "hyakusanjuuhachi",
+    "meaning": "Một trăm ba mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百三十九",
+    "furigana": "ひゃくさんじゅうきゅう",
+    "romaji": "hyakusanjuukyuu",
+    "meaning": "Một trăm ba mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百四十",
+    "furigana": "ひゃくよんじゅう",
+    "romaji": "hyakuyonjuu",
+    "meaning": "Một trăm bốn mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百四十一",
+    "furigana": "ひゃくよんじゅういち",
+    "romaji": "hyakuyonjuuichi",
+    "meaning": "Một trăm bốn mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百四十二",
+    "furigana": "ひゃくよんじゅうに",
+    "romaji": "hyakuyonjuuni",
+    "meaning": "Một trăm bốn mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百四十三",
+    "furigana": "ひゃくよんじゅうさん",
+    "romaji": "hyakuyonjuusan",
+    "meaning": "Một trăm bốn mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百四十四",
+    "furigana": "ひゃくよんじゅうよん",
+    "romaji": "hyakuyonjuuyon",
+    "meaning": "Một trăm bốn mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百四十五",
+    "furigana": "ひゃくよんじゅうご",
+    "romaji": "hyakuyonjuugo",
+    "meaning": "Một trăm bốn mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百四十六",
+    "furigana": "ひゃくよんじゅうろく",
+    "romaji": "hyakuyonjuuroku",
+    "meaning": "Một trăm bốn mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百四十七",
+    "furigana": "ひゃくよんじゅうなな",
+    "romaji": "hyakuyonjuunana",
+    "meaning": "Một trăm bốn mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百四十八",
+    "furigana": "ひゃくよんじゅうはち",
+    "romaji": "hyakuyonjuuhachi",
+    "meaning": "Một trăm bốn mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百四十九",
+    "furigana": "ひゃくよんじゅうきゅう",
+    "romaji": "hyakuyonjuukyuu",
+    "meaning": "Một trăm bốn mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百五十",
+    "furigana": "ひゃくごじゅう",
+    "romaji": "hyakugojuu",
+    "meaning": "Một trăm năm mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百五十一",
+    "furigana": "ひゃくごじゅういち",
+    "romaji": "hyakugojuuichi",
+    "meaning": "Một trăm năm mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百五十二",
+    "furigana": "ひゃくごじゅうに",
+    "romaji": "hyakugojuuni",
+    "meaning": "Một trăm năm mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百五十三",
+    "furigana": "ひゃくごじゅうさん",
+    "romaji": "hyakugojuusan",
+    "meaning": "Một trăm năm mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百五十四",
+    "furigana": "ひゃくごじゅうよん",
+    "romaji": "hyakugojuuyon",
+    "meaning": "Một trăm năm mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百五十五",
+    "furigana": "ひゃくごじゅうご",
+    "romaji": "hyakugojuugo",
+    "meaning": "Một trăm năm mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百五十六",
+    "furigana": "ひゃくごじゅうろく",
+    "romaji": "hyakugojuuroku",
+    "meaning": "Một trăm năm mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百五十七",
+    "furigana": "ひゃくごじゅうなな",
+    "romaji": "hyakugojuunana",
+    "meaning": "Một trăm năm mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百五十八",
+    "furigana": "ひゃくごじゅうはち",
+    "romaji": "hyakugojuuhachi",
+    "meaning": "Một trăm năm mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百五十九",
+    "furigana": "ひゃくごじゅうきゅう",
+    "romaji": "hyakugojuukyuu",
+    "meaning": "Một trăm năm mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百六十",
+    "furigana": "ひゃくろくじゅう",
+    "romaji": "hyakurokujuu",
+    "meaning": "Một trăm sáu mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百六十一",
+    "furigana": "ひゃくろくじゅういち",
+    "romaji": "hyakurokujuuichi",
+    "meaning": "Một trăm sáu mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百六十二",
+    "furigana": "ひゃくろくじゅうに",
+    "romaji": "hyakurokujuuni",
+    "meaning": "Một trăm sáu mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百六十三",
+    "furigana": "ひゃくろくじゅうさん",
+    "romaji": "hyakurokujuusan",
+    "meaning": "Một trăm sáu mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百六十四",
+    "furigana": "ひゃくろくじゅうよん",
+    "romaji": "hyakurokujuuyon",
+    "meaning": "Một trăm sáu mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百六十五",
+    "furigana": "ひゃくろくじゅうご",
+    "romaji": "hyakurokujuugo",
+    "meaning": "Một trăm sáu mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百六十六",
+    "furigana": "ひゃくろくじゅうろく",
+    "romaji": "hyakurokujuuroku",
+    "meaning": "Một trăm sáu mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百六十七",
+    "furigana": "ひゃくろくじゅうなな",
+    "romaji": "hyakurokujuunana",
+    "meaning": "Một trăm sáu mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百六十八",
+    "furigana": "ひゃくろくじゅうはち",
+    "romaji": "hyakurokujuuhachi",
+    "meaning": "Một trăm sáu mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百六十九",
+    "furigana": "ひゃくろくじゅうきゅう",
+    "romaji": "hyakurokujuukyuu",
+    "meaning": "Một trăm sáu mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百七十",
+    "furigana": "ひゃくななじゅう",
+    "romaji": "hyakunanajuu",
+    "meaning": "Một trăm bảy mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百七十一",
+    "furigana": "ひゃくななじゅういち",
+    "romaji": "hyakunanajuuichi",
+    "meaning": "Một trăm bảy mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百七十二",
+    "furigana": "ひゃくななじゅうに",
+    "romaji": "hyakunanajuuni",
+    "meaning": "Một trăm bảy mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百七十三",
+    "furigana": "ひゃくななじゅうさん",
+    "romaji": "hyakunanajuusan",
+    "meaning": "Một trăm bảy mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百七十四",
+    "furigana": "ひゃくななじゅうよん",
+    "romaji": "hyakunanajuuyon",
+    "meaning": "Một trăm bảy mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百七十五",
+    "furigana": "ひゃくななじゅうご",
+    "romaji": "hyakunanajuugo",
+    "meaning": "Một trăm bảy mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百七十六",
+    "furigana": "ひゃくななじゅうろく",
+    "romaji": "hyakunanajuuroku",
+    "meaning": "Một trăm bảy mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百七十七",
+    "furigana": "ひゃくななじゅうなな",
+    "romaji": "hyakunanajuunana",
+    "meaning": "Một trăm bảy mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百七十八",
+    "furigana": "ひゃくななじゅうはち",
+    "romaji": "hyakunanajuuhachi",
+    "meaning": "Một trăm bảy mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百七十九",
+    "furigana": "ひゃくななじゅうきゅう",
+    "romaji": "hyakunanajuukyuu",
+    "meaning": "Một trăm bảy mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百八十",
+    "furigana": "ひゃくはちじゅう",
+    "romaji": "hyakuhachijuu",
+    "meaning": "Một trăm tám mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百八十一",
+    "furigana": "ひゃくはちじゅういち",
+    "romaji": "hyakuhachijuuichi",
+    "meaning": "Một trăm tám mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百八十二",
+    "furigana": "ひゃくはちじゅうに",
+    "romaji": "hyakuhachijuuni",
+    "meaning": "Một trăm tám mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百八十三",
+    "furigana": "ひゃくはちじゅうさん",
+    "romaji": "hyakuhachijuusan",
+    "meaning": "Một trăm tám mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百八十四",
+    "furigana": "ひゃくはちじゅうよん",
+    "romaji": "hyakuhachijuuyon",
+    "meaning": "Một trăm tám mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百八十五",
+    "furigana": "ひゃくはちじゅうご",
+    "romaji": "hyakuhachijuugo",
+    "meaning": "Một trăm tám mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百八十六",
+    "furigana": "ひゃくはちじゅうろく",
+    "romaji": "hyakuhachijuuroku",
+    "meaning": "Một trăm tám mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百八十七",
+    "furigana": "ひゃくはちじゅうなな",
+    "romaji": "hyakuhachijuunana",
+    "meaning": "Một trăm tám mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百八十八",
+    "furigana": "ひゃくはちじゅうはち",
+    "romaji": "hyakuhachijuuhachi",
+    "meaning": "Một trăm tám mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百八十九",
+    "furigana": "ひゃくはちじゅうきゅう",
+    "romaji": "hyakuhachijuukyuu",
+    "meaning": "Một trăm tám mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百九十",
+    "furigana": "ひゃくきゅうじゅう",
+    "romaji": "hyakukyuujuu",
+    "meaning": "Một trăm chín mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百九十一",
+    "furigana": "ひゃくきゅうじゅういち",
+    "romaji": "hyakukyuujuuichi",
+    "meaning": "Một trăm chín mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百九十二",
+    "furigana": "ひゃくきゅうじゅうに",
+    "romaji": "hyakukyuujuuni",
+    "meaning": "Một trăm chín mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百九十三",
+    "furigana": "ひゃくきゅうじゅうさん",
+    "romaji": "hyakukyuujuusan",
+    "meaning": "Một trăm chín mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百九十四",
+    "furigana": "ひゃくきゅうじゅうよん",
+    "romaji": "hyakukyuujuuyon",
+    "meaning": "Một trăm chín mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百九十五",
+    "furigana": "ひゃくきゅうじゅうご",
+    "romaji": "hyakukyuujuugo",
+    "meaning": "Một trăm chín mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百九十六",
+    "furigana": "ひゃくきゅうじゅうろく",
+    "romaji": "hyakukyuujuuroku",
+    "meaning": "Một trăm chín mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百九十七",
+    "furigana": "ひゃくきゅうじゅうなな",
+    "romaji": "hyakukyuujuunana",
+    "meaning": "Một trăm chín mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百九十八",
+    "furigana": "ひゃくきゅうじゅうはち",
+    "romaji": "hyakukyuujuuhachi",
+    "meaning": "Một trăm chín mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "百九十九",
+    "furigana": "ひゃくきゅうじゅうきゅう",
+    "romaji": "hyakukyuujuukyuu",
+    "meaning": "Một trăm chín mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百",
+    "furigana": "にひゃく",
+    "romaji": "nihyaku",
+    "meaning": "Hai trăm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百一",
+    "furigana": "にひゃくいち",
+    "romaji": "nihyakuichi",
+    "meaning": "Hai trăm lẻ một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百二",
+    "furigana": "にひゃくに",
+    "romaji": "nihyakuni",
+    "meaning": "Hai trăm lẻ hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百三",
+    "furigana": "にひゃくさん",
+    "romaji": "nihyakusan",
+    "meaning": "Hai trăm lẻ ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百四",
+    "furigana": "にひゃくよん",
+    "romaji": "nihyakuyon",
+    "meaning": "Hai trăm lẻ bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百五",
+    "furigana": "にひゃくご",
+    "romaji": "nihyakugo",
+    "meaning": "Hai trăm lẻ năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百六",
+    "furigana": "にひゃくろく",
+    "romaji": "nihyakuroku",
+    "meaning": "Hai trăm lẻ sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百七",
+    "furigana": "にひゃくなな",
+    "romaji": "nihyakunana",
+    "meaning": "Hai trăm lẻ bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百八",
+    "furigana": "にひゃくはち",
+    "romaji": "nihyakuhachi",
+    "meaning": "Hai trăm lẻ tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百九",
+    "furigana": "にひゃくきゅう",
+    "romaji": "nihyakukyuu",
+    "meaning": "Hai trăm lẻ chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百十",
+    "furigana": "にひゃくじゅう",
+    "romaji": "nihyakujuu",
+    "meaning": "Hai trăm mười ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百十一",
+    "furigana": "にひゃくじゅういち",
+    "romaji": "nihyakujuuichi",
+    "meaning": "Hai trăm mười một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百十二",
+    "furigana": "にひゃくじゅうに",
+    "romaji": "nihyakujuuni",
+    "meaning": "Hai trăm mười hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百十三",
+    "furigana": "にひゃくじゅうさん",
+    "romaji": "nihyakujuusan",
+    "meaning": "Hai trăm mười ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百十四",
+    "furigana": "にひゃくじゅうよん",
+    "romaji": "nihyakujuuyon",
+    "meaning": "Hai trăm mười bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百十五",
+    "furigana": "にひゃくじゅうご",
+    "romaji": "nihyakujuugo",
+    "meaning": "Hai trăm mười năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百十六",
+    "furigana": "にひゃくじゅうろく",
+    "romaji": "nihyakujuuroku",
+    "meaning": "Hai trăm mười sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百十七",
+    "furigana": "にひゃくじゅうなな",
+    "romaji": "nihyakujuunana",
+    "meaning": "Hai trăm mười bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百十八",
+    "furigana": "にひゃくじゅうはち",
+    "romaji": "nihyakujuuhachi",
+    "meaning": "Hai trăm mười tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百十九",
+    "furigana": "にひゃくじゅうきゅう",
+    "romaji": "nihyakujuukyuu",
+    "meaning": "Hai trăm mười chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百二十",
+    "furigana": "にひゃくにじゅう",
+    "romaji": "nihyakunijuu",
+    "meaning": "Hai trăm hai mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百二十一",
+    "furigana": "にひゃくにじゅういち",
+    "romaji": "nihyakunijuuichi",
+    "meaning": "Hai trăm hai mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百二十二",
+    "furigana": "にひゃくにじゅうに",
+    "romaji": "nihyakunijuuni",
+    "meaning": "Hai trăm hai mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百二十三",
+    "furigana": "にひゃくにじゅうさん",
+    "romaji": "nihyakunijuusan",
+    "meaning": "Hai trăm hai mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百二十四",
+    "furigana": "にひゃくにじゅうよん",
+    "romaji": "nihyakunijuuyon",
+    "meaning": "Hai trăm hai mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百二十五",
+    "furigana": "にひゃくにじゅうご",
+    "romaji": "nihyakunijuugo",
+    "meaning": "Hai trăm hai mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百二十六",
+    "furigana": "にひゃくにじゅうろく",
+    "romaji": "nihyakunijuuroku",
+    "meaning": "Hai trăm hai mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百二十七",
+    "furigana": "にひゃくにじゅうなな",
+    "romaji": "nihyakunijuunana",
+    "meaning": "Hai trăm hai mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百二十八",
+    "furigana": "にひゃくにじゅうはち",
+    "romaji": "nihyakunijuuhachi",
+    "meaning": "Hai trăm hai mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百二十九",
+    "furigana": "にひゃくにじゅうきゅう",
+    "romaji": "nihyakunijuukyuu",
+    "meaning": "Hai trăm hai mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百三十",
+    "furigana": "にひゃくさんじゅう",
+    "romaji": "nihyakusanjuu",
+    "meaning": "Hai trăm ba mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百三十一",
+    "furigana": "にひゃくさんじゅういち",
+    "romaji": "nihyakusanjuuichi",
+    "meaning": "Hai trăm ba mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百三十二",
+    "furigana": "にひゃくさんじゅうに",
+    "romaji": "nihyakusanjuuni",
+    "meaning": "Hai trăm ba mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百三十三",
+    "furigana": "にひゃくさんじゅうさん",
+    "romaji": "nihyakusanjuusan",
+    "meaning": "Hai trăm ba mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百三十四",
+    "furigana": "にひゃくさんじゅうよん",
+    "romaji": "nihyakusanjuuyon",
+    "meaning": "Hai trăm ba mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百三十五",
+    "furigana": "にひゃくさんじゅうご",
+    "romaji": "nihyakusanjuugo",
+    "meaning": "Hai trăm ba mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百三十六",
+    "furigana": "にひゃくさんじゅうろく",
+    "romaji": "nihyakusanjuuroku",
+    "meaning": "Hai trăm ba mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百三十七",
+    "furigana": "にひゃくさんじゅうなな",
+    "romaji": "nihyakusanjuunana",
+    "meaning": "Hai trăm ba mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百三十八",
+    "furigana": "にひゃくさんじゅうはち",
+    "romaji": "nihyakusanjuuhachi",
+    "meaning": "Hai trăm ba mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百三十九",
+    "furigana": "にひゃくさんじゅうきゅう",
+    "romaji": "nihyakusanjuukyuu",
+    "meaning": "Hai trăm ba mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百四十",
+    "furigana": "にひゃくよんじゅう",
+    "romaji": "nihyakuyonjuu",
+    "meaning": "Hai trăm bốn mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百四十一",
+    "furigana": "にひゃくよんじゅういち",
+    "romaji": "nihyakuyonjuuichi",
+    "meaning": "Hai trăm bốn mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百四十二",
+    "furigana": "にひゃくよんじゅうに",
+    "romaji": "nihyakuyonjuuni",
+    "meaning": "Hai trăm bốn mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百四十三",
+    "furigana": "にひゃくよんじゅうさん",
+    "romaji": "nihyakuyonjuusan",
+    "meaning": "Hai trăm bốn mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百四十四",
+    "furigana": "にひゃくよんじゅうよん",
+    "romaji": "nihyakuyonjuuyon",
+    "meaning": "Hai trăm bốn mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百四十五",
+    "furigana": "にひゃくよんじゅうご",
+    "romaji": "nihyakuyonjuugo",
+    "meaning": "Hai trăm bốn mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百四十六",
+    "furigana": "にひゃくよんじゅうろく",
+    "romaji": "nihyakuyonjuuroku",
+    "meaning": "Hai trăm bốn mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百四十七",
+    "furigana": "にひゃくよんじゅうなな",
+    "romaji": "nihyakuyonjuunana",
+    "meaning": "Hai trăm bốn mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百四十八",
+    "furigana": "にひゃくよんじゅうはち",
+    "romaji": "nihyakuyonjuuhachi",
+    "meaning": "Hai trăm bốn mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百四十九",
+    "furigana": "にひゃくよんじゅうきゅう",
+    "romaji": "nihyakuyonjuukyuu",
+    "meaning": "Hai trăm bốn mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百五十",
+    "furigana": "にひゃくごじゅう",
+    "romaji": "nihyakugojuu",
+    "meaning": "Hai trăm năm mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百五十一",
+    "furigana": "にひゃくごじゅういち",
+    "romaji": "nihyakugojuuichi",
+    "meaning": "Hai trăm năm mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百五十二",
+    "furigana": "にひゃくごじゅうに",
+    "romaji": "nihyakugojuuni",
+    "meaning": "Hai trăm năm mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百五十三",
+    "furigana": "にひゃくごじゅうさん",
+    "romaji": "nihyakugojuusan",
+    "meaning": "Hai trăm năm mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百五十四",
+    "furigana": "にひゃくごじゅうよん",
+    "romaji": "nihyakugojuuyon",
+    "meaning": "Hai trăm năm mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百五十五",
+    "furigana": "にひゃくごじゅうご",
+    "romaji": "nihyakugojuugo",
+    "meaning": "Hai trăm năm mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百五十六",
+    "furigana": "にひゃくごじゅうろく",
+    "romaji": "nihyakugojuuroku",
+    "meaning": "Hai trăm năm mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百五十七",
+    "furigana": "にひゃくごじゅうなな",
+    "romaji": "nihyakugojuunana",
+    "meaning": "Hai trăm năm mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百五十八",
+    "furigana": "にひゃくごじゅうはち",
+    "romaji": "nihyakugojuuhachi",
+    "meaning": "Hai trăm năm mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百五十九",
+    "furigana": "にひゃくごじゅうきゅう",
+    "romaji": "nihyakugojuukyuu",
+    "meaning": "Hai trăm năm mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百六十",
+    "furigana": "にひゃくろくじゅう",
+    "romaji": "nihyakurokujuu",
+    "meaning": "Hai trăm sáu mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百六十一",
+    "furigana": "にひゃくろくじゅういち",
+    "romaji": "nihyakurokujuuichi",
+    "meaning": "Hai trăm sáu mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百六十二",
+    "furigana": "にひゃくろくじゅうに",
+    "romaji": "nihyakurokujuuni",
+    "meaning": "Hai trăm sáu mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百六十三",
+    "furigana": "にひゃくろくじゅうさん",
+    "romaji": "nihyakurokujuusan",
+    "meaning": "Hai trăm sáu mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百六十四",
+    "furigana": "にひゃくろくじゅうよん",
+    "romaji": "nihyakurokujuuyon",
+    "meaning": "Hai trăm sáu mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百六十五",
+    "furigana": "にひゃくろくじゅうご",
+    "romaji": "nihyakurokujuugo",
+    "meaning": "Hai trăm sáu mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百六十六",
+    "furigana": "にひゃくろくじゅうろく",
+    "romaji": "nihyakurokujuuroku",
+    "meaning": "Hai trăm sáu mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百六十七",
+    "furigana": "にひゃくろくじゅうなな",
+    "romaji": "nihyakurokujuunana",
+    "meaning": "Hai trăm sáu mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百六十八",
+    "furigana": "にひゃくろくじゅうはち",
+    "romaji": "nihyakurokujuuhachi",
+    "meaning": "Hai trăm sáu mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百六十九",
+    "furigana": "にひゃくろくじゅうきゅう",
+    "romaji": "nihyakurokujuukyuu",
+    "meaning": "Hai trăm sáu mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百七十",
+    "furigana": "にひゃくななじゅう",
+    "romaji": "nihyakunanajuu",
+    "meaning": "Hai trăm bảy mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百七十一",
+    "furigana": "にひゃくななじゅういち",
+    "romaji": "nihyakunanajuuichi",
+    "meaning": "Hai trăm bảy mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百七十二",
+    "furigana": "にひゃくななじゅうに",
+    "romaji": "nihyakunanajuuni",
+    "meaning": "Hai trăm bảy mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百七十三",
+    "furigana": "にひゃくななじゅうさん",
+    "romaji": "nihyakunanajuusan",
+    "meaning": "Hai trăm bảy mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百七十四",
+    "furigana": "にひゃくななじゅうよん",
+    "romaji": "nihyakunanajuuyon",
+    "meaning": "Hai trăm bảy mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百七十五",
+    "furigana": "にひゃくななじゅうご",
+    "romaji": "nihyakunanajuugo",
+    "meaning": "Hai trăm bảy mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百七十六",
+    "furigana": "にひゃくななじゅうろく",
+    "romaji": "nihyakunanajuuroku",
+    "meaning": "Hai trăm bảy mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百七十七",
+    "furigana": "にひゃくななじゅうなな",
+    "romaji": "nihyakunanajuunana",
+    "meaning": "Hai trăm bảy mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百七十八",
+    "furigana": "にひゃくななじゅうはち",
+    "romaji": "nihyakunanajuuhachi",
+    "meaning": "Hai trăm bảy mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百七十九",
+    "furigana": "にひゃくななじゅうきゅう",
+    "romaji": "nihyakunanajuukyuu",
+    "meaning": "Hai trăm bảy mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百八十",
+    "furigana": "にひゃくはちじゅう",
+    "romaji": "nihyakuhachijuu",
+    "meaning": "Hai trăm tám mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百八十一",
+    "furigana": "にひゃくはちじゅういち",
+    "romaji": "nihyakuhachijuuichi",
+    "meaning": "Hai trăm tám mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百八十二",
+    "furigana": "にひゃくはちじゅうに",
+    "romaji": "nihyakuhachijuuni",
+    "meaning": "Hai trăm tám mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百八十三",
+    "furigana": "にひゃくはちじゅうさん",
+    "romaji": "nihyakuhachijuusan",
+    "meaning": "Hai trăm tám mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百八十四",
+    "furigana": "にひゃくはちじゅうよん",
+    "romaji": "nihyakuhachijuuyon",
+    "meaning": "Hai trăm tám mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百八十五",
+    "furigana": "にひゃくはちじゅうご",
+    "romaji": "nihyakuhachijuugo",
+    "meaning": "Hai trăm tám mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百八十六",
+    "furigana": "にひゃくはちじゅうろく",
+    "romaji": "nihyakuhachijuuroku",
+    "meaning": "Hai trăm tám mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百八十七",
+    "furigana": "にひゃくはちじゅうなな",
+    "romaji": "nihyakuhachijuunana",
+    "meaning": "Hai trăm tám mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百八十八",
+    "furigana": "にひゃくはちじゅうはち",
+    "romaji": "nihyakuhachijuuhachi",
+    "meaning": "Hai trăm tám mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百八十九",
+    "furigana": "にひゃくはちじゅうきゅう",
+    "romaji": "nihyakuhachijuukyuu",
+    "meaning": "Hai trăm tám mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百九十",
+    "furigana": "にひゃくきゅうじゅう",
+    "romaji": "nihyakukyuujuu",
+    "meaning": "Hai trăm chín mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百九十一",
+    "furigana": "にひゃくきゅうじゅういち",
+    "romaji": "nihyakukyuujuuichi",
+    "meaning": "Hai trăm chín mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百九十二",
+    "furigana": "にひゃくきゅうじゅうに",
+    "romaji": "nihyakukyuujuuni",
+    "meaning": "Hai trăm chín mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百九十三",
+    "furigana": "にひゃくきゅうじゅうさん",
+    "romaji": "nihyakukyuujuusan",
+    "meaning": "Hai trăm chín mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百九十四",
+    "furigana": "にひゃくきゅうじゅうよん",
+    "romaji": "nihyakukyuujuuyon",
+    "meaning": "Hai trăm chín mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百九十五",
+    "furigana": "にひゃくきゅうじゅうご",
+    "romaji": "nihyakukyuujuugo",
+    "meaning": "Hai trăm chín mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百九十六",
+    "furigana": "にひゃくきゅうじゅうろく",
+    "romaji": "nihyakukyuujuuroku",
+    "meaning": "Hai trăm chín mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百九十七",
+    "furigana": "にひゃくきゅうじゅうなな",
+    "romaji": "nihyakukyuujuunana",
+    "meaning": "Hai trăm chín mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百九十八",
+    "furigana": "にひゃくきゅうじゅうはち",
+    "romaji": "nihyakukyuujuuhachi",
+    "meaning": "Hai trăm chín mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "二百九十九",
+    "furigana": "にひゃくきゅうじゅうきゅう",
+    "romaji": "nihyakukyuujuukyuu",
+    "meaning": "Hai trăm chín mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百",
+    "furigana": "さんびゃく",
+    "romaji": "sanbyaku",
+    "meaning": "Ba trăm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百一",
+    "furigana": "さんびゃくいち",
+    "romaji": "sanbyakuichi",
+    "meaning": "Ba trăm lẻ một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百二",
+    "furigana": "さんびゃくに",
+    "romaji": "sanbyakuni",
+    "meaning": "Ba trăm lẻ hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百三",
+    "furigana": "さんびゃくさん",
+    "romaji": "sanbyakusan",
+    "meaning": "Ba trăm lẻ ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百四",
+    "furigana": "さんびゃくよん",
+    "romaji": "sanbyakuyon",
+    "meaning": "Ba trăm lẻ bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百五",
+    "furigana": "さんびゃくご",
+    "romaji": "sanbyakugo",
+    "meaning": "Ba trăm lẻ năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百六",
+    "furigana": "さんびゃくろく",
+    "romaji": "sanbyakuroku",
+    "meaning": "Ba trăm lẻ sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百七",
+    "furigana": "さんびゃくなな",
+    "romaji": "sanbyakunana",
+    "meaning": "Ba trăm lẻ bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百八",
+    "furigana": "さんびゃくはち",
+    "romaji": "sanbyakuhachi",
+    "meaning": "Ba trăm lẻ tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百九",
+    "furigana": "さんびゃくきゅう",
+    "romaji": "sanbyakukyuu",
+    "meaning": "Ba trăm lẻ chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百十",
+    "furigana": "さんびゃくじゅう",
+    "romaji": "sanbyakujuu",
+    "meaning": "Ba trăm mười ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百十一",
+    "furigana": "さんびゃくじゅういち",
+    "romaji": "sanbyakujuuichi",
+    "meaning": "Ba trăm mười một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百十二",
+    "furigana": "さんびゃくじゅうに",
+    "romaji": "sanbyakujuuni",
+    "meaning": "Ba trăm mười hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百十三",
+    "furigana": "さんびゃくじゅうさん",
+    "romaji": "sanbyakujuusan",
+    "meaning": "Ba trăm mười ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百十四",
+    "furigana": "さんびゃくじゅうよん",
+    "romaji": "sanbyakujuuyon",
+    "meaning": "Ba trăm mười bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百十五",
+    "furigana": "さんびゃくじゅうご",
+    "romaji": "sanbyakujuugo",
+    "meaning": "Ba trăm mười năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百十六",
+    "furigana": "さんびゃくじゅうろく",
+    "romaji": "sanbyakujuuroku",
+    "meaning": "Ba trăm mười sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百十七",
+    "furigana": "さんびゃくじゅうなな",
+    "romaji": "sanbyakujuunana",
+    "meaning": "Ba trăm mười bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百十八",
+    "furigana": "さんびゃくじゅうはち",
+    "romaji": "sanbyakujuuhachi",
+    "meaning": "Ba trăm mười tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百十九",
+    "furigana": "さんびゃくじゅうきゅう",
+    "romaji": "sanbyakujuukyuu",
+    "meaning": "Ba trăm mười chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百二十",
+    "furigana": "さんびゃくにじゅう",
+    "romaji": "sanbyakunijuu",
+    "meaning": "Ba trăm hai mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百二十一",
+    "furigana": "さんびゃくにじゅういち",
+    "romaji": "sanbyakunijuuichi",
+    "meaning": "Ba trăm hai mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百二十二",
+    "furigana": "さんびゃくにじゅうに",
+    "romaji": "sanbyakunijuuni",
+    "meaning": "Ba trăm hai mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百二十三",
+    "furigana": "さんびゃくにじゅうさん",
+    "romaji": "sanbyakunijuusan",
+    "meaning": "Ba trăm hai mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百二十四",
+    "furigana": "さんびゃくにじゅうよん",
+    "romaji": "sanbyakunijuuyon",
+    "meaning": "Ba trăm hai mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百二十五",
+    "furigana": "さんびゃくにじゅうご",
+    "romaji": "sanbyakunijuugo",
+    "meaning": "Ba trăm hai mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百二十六",
+    "furigana": "さんびゃくにじゅうろく",
+    "romaji": "sanbyakunijuuroku",
+    "meaning": "Ba trăm hai mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百二十七",
+    "furigana": "さんびゃくにじゅうなな",
+    "romaji": "sanbyakunijuunana",
+    "meaning": "Ba trăm hai mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百二十八",
+    "furigana": "さんびゃくにじゅうはち",
+    "romaji": "sanbyakunijuuhachi",
+    "meaning": "Ba trăm hai mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百二十九",
+    "furigana": "さんびゃくにじゅうきゅう",
+    "romaji": "sanbyakunijuukyuu",
+    "meaning": "Ba trăm hai mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百三十",
+    "furigana": "さんびゃくさんじゅう",
+    "romaji": "sanbyakusanjuu",
+    "meaning": "Ba trăm ba mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百三十一",
+    "furigana": "さんびゃくさんじゅういち",
+    "romaji": "sanbyakusanjuuichi",
+    "meaning": "Ba trăm ba mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百三十二",
+    "furigana": "さんびゃくさんじゅうに",
+    "romaji": "sanbyakusanjuuni",
+    "meaning": "Ba trăm ba mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百三十三",
+    "furigana": "さんびゃくさんじゅうさん",
+    "romaji": "sanbyakusanjuusan",
+    "meaning": "Ba trăm ba mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百三十四",
+    "furigana": "さんびゃくさんじゅうよん",
+    "romaji": "sanbyakusanjuuyon",
+    "meaning": "Ba trăm ba mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百三十五",
+    "furigana": "さんびゃくさんじゅうご",
+    "romaji": "sanbyakusanjuugo",
+    "meaning": "Ba trăm ba mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百三十六",
+    "furigana": "さんびゃくさんじゅうろく",
+    "romaji": "sanbyakusanjuuroku",
+    "meaning": "Ba trăm ba mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百三十七",
+    "furigana": "さんびゃくさんじゅうなな",
+    "romaji": "sanbyakusanjuunana",
+    "meaning": "Ba trăm ba mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百三十八",
+    "furigana": "さんびゃくさんじゅうはち",
+    "romaji": "sanbyakusanjuuhachi",
+    "meaning": "Ba trăm ba mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百三十九",
+    "furigana": "さんびゃくさんじゅうきゅう",
+    "romaji": "sanbyakusanjuukyuu",
+    "meaning": "Ba trăm ba mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百四十",
+    "furigana": "さんびゃくよんじゅう",
+    "romaji": "sanbyakuyonjuu",
+    "meaning": "Ba trăm bốn mươi ",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百四十一",
+    "furigana": "さんびゃくよんじゅういち",
+    "romaji": "sanbyakuyonjuuichi",
+    "meaning": "Ba trăm bốn mươi một",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百四十二",
+    "furigana": "さんびゃくよんじゅうに",
+    "romaji": "sanbyakuyonjuuni",
+    "meaning": "Ba trăm bốn mươi hai",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百四十三",
+    "furigana": "さんびゃくよんじゅうさん",
+    "romaji": "sanbyakuyonjuusan",
+    "meaning": "Ba trăm bốn mươi ba",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百四十四",
+    "furigana": "さんびゃくよんじゅうよん",
+    "romaji": "sanbyakuyonjuuyon",
+    "meaning": "Ba trăm bốn mươi bốn",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百四十五",
+    "furigana": "さんびゃくよんじゅうご",
+    "romaji": "sanbyakuyonjuugo",
+    "meaning": "Ba trăm bốn mươi năm",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百四十六",
+    "furigana": "さんびゃくよんじゅうろく",
+    "romaji": "sanbyakuyonjuuroku",
+    "meaning": "Ba trăm bốn mươi sáu",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百四十七",
+    "furigana": "さんびゃくよんじゅうなな",
+    "romaji": "sanbyakuyonjuunana",
+    "meaning": "Ba trăm bốn mươi bảy",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百四十八",
+    "furigana": "さんびゃくよんじゅうはち",
+    "romaji": "sanbyakuyonjuuhachi",
+    "meaning": "Ba trăm bốn mươi tám",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百四十九",
+    "furigana": "さんびゃくよんじゅうきゅう",
+    "romaji": "sanbyakuyonjuukyuu",
+    "meaning": "Ba trăm bốn mươi chín",
+    "type": "numbers_counters"
+  },
+  {
+    "word": "三百五十",
+    "furigana": "さんびゃくごじゅう",
+    "romaji": "sanbyakugojuu",
+    "meaning": "Ba trăm năm mươi ",
+    "type": "numbers_counters"
+  }
+]
