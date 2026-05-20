@@ -1,0 +1,27 @@
+# Git files
+.git
+.gitignore
+.gitattributes
+
+# Local dependencies
+/vendor
+/node_modules
+
+# Environment and sensitive files
+.env
+.env.backup
+.env.production
+*.key
+
+# Docker & local compose configurations
+docker-compose.yml
+docker/
+
+# Storage and cache
+/storage/*.key
+/public/hot
+/public/storage
+.phpunit.result.cache
+.editorconfig
+phpunit.xml
+README.md
