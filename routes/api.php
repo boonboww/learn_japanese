@@ -5,6 +5,7 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\AlphabetController;
 use App\Http\Controllers\VocabularyController;
 use App\Http\Controllers\KanjiController;
+use App\Http\Controllers\UserVocabularyController;
 
 Route::post('auth/register', [AuthController::class, 'register']);
 Route::post('auth/login', [AuthController::class, 'login']);
@@ -18,3 +19,7 @@ Route::get('vocabularies/{id}', [VocabularyController::class, 'show']);
 Route::get('kanjis', [KanjiController::class, 'index']);
 Route::get('kanjis/{id}', [KanjiController::class, 'show']);
 
+Route::middleware('auth:api')->group(function () {
+    Route::post('vocabularies/{id}/bookmark', [UserVocabularyController::class, 'toggleBookmark']);
+    Route::post('vocabularies/{id}/status', [UserVocabularyController::class, 'updateStatus']);
+});

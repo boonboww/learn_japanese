@@ -21,9 +21,9 @@ class VocabularyController extends Controller
             if (!empty($search)) {
                 $query->where(function ($q) use ($search) {
                     $q->where('word', 'like', '%' . $search . '%')
-                      ->orWhere('furigana', 'like', '%' . $search . '%')
-                      ->orWhere('romaji', 'like', '%' . $search . '%')
-                      ->orWhere('meaning', 'like', '%' . $search . '%');
+                        ->orWhere('furigana', 'like', '%' . $search . '%')
+                        ->orWhere('romaji', 'like', '%' . $search . '%')
+                        ->orWhere('meaning', 'like', '%' . $search . '%');
                 });
             }
         }
@@ -54,7 +54,7 @@ class VocabularyController extends Controller
             $perPage = (int) $request->query('per_page', 20);
             if ($perPage < 1) $perPage = 20;
             if ($perPage > 100) $perPage = 100;
-            
+
             $vocabularies = $query->orderBy('word')->paginate($perPage);
         }
 
@@ -68,7 +68,7 @@ class VocabularyController extends Controller
     /**
      * Display the specified vocabulary item with related group and kanjis.
      */
-    public function show($id): JsonResponse
+    public function show(int $id): JsonResponse
     {
         $vocabulary = Vocabulary::with(['group', 'kanjis'])->find($id);
 

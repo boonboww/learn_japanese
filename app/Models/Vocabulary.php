@@ -30,4 +30,11 @@ class Vocabulary extends Model
     {
         return $this->belongsToMany(Kanji::class, 'vocabulary_kanji');
     }
+
+    public function users(): BelongsToMany
+    {
+        return $this->belongsToMany(User::class, 'user_vocabularies')
+            ->withPivot('is_bookmarked', 'status')
+            ->withTimestamps();
+    }
 }

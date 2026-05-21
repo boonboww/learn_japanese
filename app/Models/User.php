@@ -69,4 +69,14 @@ class User extends Authenticatable implements JWTSubject
     {
         return $this->hasMany(UserProgress::class);
     }
+
+    /**
+     * Get the vocabularies associated with the user (N:M relation).
+     */
+    public function vocabularies(): \Illuminate\Database\Eloquent\Relations\BelongsToMany
+    {
+        return $this->belongsToMany(Vocabulary::class, 'user_vocabularies')
+            ->withPivot('is_bookmarked', 'status')
+            ->withTimestamps();
+    }
 }

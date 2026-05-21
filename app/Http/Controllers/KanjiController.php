@@ -47,7 +47,7 @@ class KanjiController extends Controller
     /**
      * Display the specified Kanji character details with related vocabulary words.
      */
-    public function show($id): JsonResponse
+    public function show(int $id): JsonResponse
     {
         $kanji = Kanji::with(['vocabularies'])->find($id);
 

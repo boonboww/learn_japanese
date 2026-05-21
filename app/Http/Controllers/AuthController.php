@@ -52,7 +52,9 @@ class AuthController extends Controller implements HasMiddleware
         ]);
 
         // Generate token for the newly registered user
-        $token = auth()->login($user);
+        $auth = auth();
+        assert($auth instanceof \PHPOpenSourceSaver\JWTAuth\JWTGuard);
+        $token = $auth->login($user);
 
         return response()->json([
             'success' => true,
@@ -61,7 +63,7 @@ class AuthController extends Controller implements HasMiddleware
             'authorisation' => [
                 'token' => $token,
                 'type' => 'bearer',
-                'expires_in' => auth()->factory()->getTTL() * 60
+                'expires_in' => $auth->factory()->getTTL() * 60
             ]
         ], 201);
     }
@@ -88,14 +90,16 @@ class AuthController extends Controller implements HasMiddleware
 
         $credentials = $request->only('email', 'password');
 
-        if (!$token = auth()->attempt($credentials)) {
+        $auth = auth();
+        assert($auth instanceof \PHPOpenSourceSaver\JWTAuth\JWTGuard);
+        if (!$token = $auth->attempt($credentials)) {
             return response()->json([
                 'success' => false,
                 'message' => 'Thông tin đăng nhập không chính xác.'
             ], 401);
         }
 
-        $user = auth()->user();
+        $user = $auth->user();
 
         return response()->json([
             'success' => true,
@@ -104,7 +108,7 @@ class AuthController extends Controller implements HasMiddleware
             'authorisation' => [
                 'token' => $token,
                 'type' => 'bearer',
-                'expires_in' => auth()->factory()->getTTL() * 60
+                'expires_in' => $auth->factory()->getTTL() * 60
             ]
         ]);
     }
@@ -116,7 +120,9 @@ class AuthController extends Controller implements HasMiddleware
      */
     public function logout()
     {
-        auth()->logout();
+        $auth = auth();
+        assert($auth instanceof \PHPOpenSourceSaver\JWTAuth\JWTGuard);
+        $auth->logout();
 
         return response()->json([
             'success' => true,
@@ -131,13 +137,15 @@ class AuthController extends Controller implements HasMiddleware
      */
     public function refresh()
     {
+        $auth = auth();
+        assert($auth instanceof \PHPOpenSourceSaver\JWTAuth\JWTGuard);
         return response()->json([
             'success' => true,
-            'user' => auth()->user(),
+            'user' => $auth->user(),
             'authorisation' => [
-                'token' => auth()->refresh(),
+                'token' => $auth->refresh(),
                 'type' => 'bearer',
-                'expires_in' => auth()->factory()->getTTL() * 60
+                'expires_in' => $auth->factory()->getTTL() * 60
             ]
         ]);
     }
@@ -149,9 +157,11 @@ class AuthController extends Controller implements HasMiddleware
      */
     public function me()
     {
+        $auth = auth();
+        assert($auth instanceof \PHPOpenSourceSaver\JWTAuth\JWTGuard);
         return response()->json([
             'success' => true,
-            'user' => auth()->user()
+            'user' => $auth->user()
         ]);
     }
 }
