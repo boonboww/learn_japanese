@@ -86,4 +86,37 @@ class VocabularyController extends Controller
             'data' => $vocabulary
         ]);
     }
+
+    /**
+     Get a list ramdom vocabularies of flashcards
+     */
+    public function random(Request $request): JsonResponse
+    {
+        $request->validate([
+            'type' => 'nullable|string',
+            'group_id' => 'nullable|integer|exists:alphabet_groups,id',
+            'limit' => 'nullable|integer|min:1|max:50',
+        ]);
+
+        $query = Vocabulary::query();
+
+        //loc theo chu de
+        if($request->filled('type')){
+            $query->where('type',$request->query('type'));
+        }
+        //loc theo nhom chu cai
+        if($request->filled('group_id')){
+            $query->where('group_id',$request->query('group_id'));
+        }
+        //limit 
+        $limit =(int) $request->query('limit',10);
+
+        $vocabularies = $query->inRandomOrder()->limit($limit)->get();
+
+        return response()->json([
+            'success' => true,
+            'message' => 'Random vocabularies retrieved successfully',
+            'data' => $vocabularies
+        ]);
+    }
 }
