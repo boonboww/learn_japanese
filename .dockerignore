@@ -19,6 +19,10 @@ docker/
 
 # Storage and cache
 /storage/*.key
+/bootstrap/cache/*.php
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/views/*.php
 /public/hot
 /public/storage
 .phpunit.result.cache
