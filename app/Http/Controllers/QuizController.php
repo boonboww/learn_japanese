@@ -5,12 +5,24 @@ namespace App\Http\Controllers;
 use App\Models\Vocabulary;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
+use OpenApi\Attributes as OA;
 
 class QuizController extends Controller
 {
     /**
      * Generate a dynamic multiple-choice quiz based on vocabulary.
      */
+    #[OA\Get(path: "/quizzes/dynamic", summary: "Generate Dynamic Quiz", tags: ["Quizzes"],
+        parameters: [
+            new OA\Parameter(name: "limit", in: "query", schema: new OA\Schema(type: "integer", default: 10)),
+            new OA\Parameter(name: "type", in: "query", schema: new OA\Schema(type: "string")),
+            new OA\Parameter(name: "group_id", in: "query", schema: new OA\Schema(type: "integer"))
+        ],
+        responses: [
+            new OA\Response(response: 200, description: "Success"),
+            new OA\Response(response: 404, description: "Not Found")
+        ]
+    )]
     public function generateDynamicQuiz(Request $request): JsonResponse
     {
         $request->validate([

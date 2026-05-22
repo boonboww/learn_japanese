@@ -6,10 +6,16 @@ use App\Models\Vocabulary;
 use Illuminate\Http\Request;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Support\Facades\Auth;
+use OpenApi\Attributes as OA;
 
 class UserVocabularyController extends Controller
 {
     // API 1: Thả tim / Bỏ thả tim từ vựng (Toggle Bookmark)
+    #[OA\Post(path: "/auth/vocabularies/{id}/bookmark", summary: "Toggle Bookmark", security: [["bearerAuth" => []]], tags: ["User Progress"],
+        parameters: [new OA\Parameter(name: "id", in: "path", required: true, schema: new OA\Schema(type: "integer"))],
+        responses: [new OA\Response(response: 200, description: "Success")]
+    )]
+
     public function toggleBookmark(int $id): JsonResponse
     {
         $user = Auth::user(); // Lấy user hiện tại đang đăng nhập
@@ -33,6 +39,16 @@ class UserVocabularyController extends Controller
     }
 
     // API 2: Cập nhật trạng thái học (Learning Status)
+    #[OA\Post(path: "/auth/vocabularies/{id}/status", summary: "Update Learn Status", security: [["bearerAuth" => []]], tags: ["User Progress"],
+        parameters: [new OA\Parameter(name: "id", in: "path", required: true, schema: new OA\Schema(type: "integer"))],
+        requestBody: new OA\RequestBody(required: true, content: new OA\JsonContent(properties: [
+            new OA\Property(property: "status", type: "string", enum: ["learning", "mastered", "not_learned"], example: "mastered")
+        ])),
+        responses: [
+            new OA\Response(response: 200, description: "Success"),
+            new OA\Response(response: 422, description: "Validation Error")
+        ]
+    )]
     public function updateStatus(Request $request, int $id): JsonResponse
     {
         $request->validate([

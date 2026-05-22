@@ -5,12 +5,25 @@ namespace App\Http\Controllers;
 use App\Models\Vocabulary;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
+use OpenApi\Attributes as OA;
+
 
 class VocabularyController extends Controller
 {
     /**
      * Display a listing of vocabularies, with optional search, filtering, and pagination.
      */
+    #[OA\Get(path: "/vocabularies", summary: "List Vocabularies", tags: ["Vocabularies"],
+        parameters: [
+            new OA\Parameter(name: "search", in: "query", schema: new OA\Schema(type: "string")),
+            new OA\Parameter(name: "type", in: "query", schema: new OA\Schema(type: "string")),
+            new OA\Parameter(name: "group_id", in: "query", schema: new OA\Schema(type: "integer")),
+            new OA\Parameter(name: "paginate", in: "query", schema: new OA\Schema(type: "string", default: "true")),
+            new OA\Parameter(name: "per_page", in: "query", schema: new OA\Schema(type: "integer", default: 20))
+        ],
+        responses: [new OA\Response(response: 200, description: "Success")]
+    )]
+
     public function index(Request $request): JsonResponse
     {
         $query = Vocabulary::query();
@@ -68,6 +81,14 @@ class VocabularyController extends Controller
     /**
      * Display the specified vocabulary item with related group and kanjis.
      */
+     #[OA\Get(path: "/vocabularies/{id}", summary: "Vocabulary Details", tags: ["Vocabularies"],
+        parameters: [new OA\Parameter(name: "id", in: "path", required: true, schema: new OA\Schema(type: "integer"))],
+        responses: [
+            new OA\Response(response: 200, description: "Success"),
+            new OA\Response(response: 404, description: "Not Found")
+        ]
+    )]
+    
     public function show(int $id): JsonResponse
     {
         $vocabulary = Vocabulary::with(['group', 'kanjis'])->find($id);
@@ -90,6 +111,19 @@ class VocabularyController extends Controller
     /**
      Get a list ramdom vocabularies of flashcards
      */
+     #[OA\Get(path: "/vocabularies/random", summary: "Random Flashcards", tags: ["Vocabularies"],
+        parameters: [
+            new OA\Parameter(name: "limit", in: "query", schema: new OA\Schema(type: "integer", default: 10)),
+            new OA\Parameter(name: "type", in: "query", schema: new OA\Schema(type: "string")),
+            new OA\Parameter(name: "group_id", in: "query", schema: new OA\Schema(type: "integer"))
+        ],
+        responses: [
+            new OA\Response(response: 200, description: "Success", content: new OA\JsonContent(properties: [
+                new OA\Property(property: "success", type: "boolean", example: true),
+                new OA\Property(property: "data", type: "array", items: new OA\Items(ref: "#/components/schemas/Vocabulary"))
+            ]))
+        ]
+    )]
     public function random(Request $request): JsonResponse
     {
         $request->validate([
@@ -119,4 +153,4 @@ class VocabularyController extends Controller
             'data' => $vocabularies
         ]);
     }
-}
+} 

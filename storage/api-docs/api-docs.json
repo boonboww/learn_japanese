@@ -1,0 +1,773 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Learn Japanese API Documentation",
+        "description": "API endpoints for Learn Japanese application",
+        "version": "1.0.0"
+    },
+    "servers": [
+        {
+            "url": "http://127.0.0.1:8081/api",
+            "description": "Local Development Server"
+        }
+    ],
+    "paths": {
+        "/alphabets": {
+            "get": {
+                "tags": [
+                    "Alphabets"
+                ],
+                "summary": "Get Alphabets",
+                "description": "Display a listing of the alphabet groups and their characters.",
+                "operationId": "38385e723d10f9aebc408efc26711a8c",
+                "parameters": [
+                    {
+                        "name": "type",
+                        "in": "query",
+                        "schema": {
+                            "type": "string",
+                            "enum": [
+                                "hiragana",
+                                "katakana"
+                            ]
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Success",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "success": {
+                                            "type": "boolean",
+                                            "example": true
+                                        },
+                                        "data": {
+                                            "type": "array",
+                                            "items": {
+                                                "$ref": "#/components/schemas/AlphabetGroup"
+                                            }
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/auth/register": {
+            "post": {
+                "tags": [
+                    "Auth"
+                ],
+                "summary": "Register a new user",
+                "description": "Register a new user.",
+                "operationId": "ed42f392010c301892e640067141676e",
+                "requestBody": {
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "properties": {
+                                    "username": {
+                                        "type": "string",
+                                        "example": "Dong"
+                                    },
+                                    "email": {
+                                        "type": "string",
+                                        "example": "[EMAIL_ADDRESS]"
+                                    },
+                                    "password": {
+                                        "type": "string",
+                                        "format": "password",
+                                        "example": "12345678"
+                                    },
+                                    "password_confirmation": {
+                                        "type": "string",
+                                        "format": "password",
+                                        "example": "12345678"
+                                    },
+                                    "avatar": {
+                                        "type": "string",
+                                        "example": "https://example.com/avatar.png",
+                                        "nullable": true
+                                    }
+                                },
+                                "type": "object"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "201": {
+                        "description": "Registered successfully"
+                    },
+                    "422": {
+                        "description": "Validation error"
+                    }
+                }
+            }
+        },
+        "/auth/login": {
+            "post": {
+                "tags": [
+                    "Auth"
+                ],
+                "summary": "Login",
+                "description": "Get a JWT via given credentials.",
+                "operationId": "8cb7742ae98d0990acb2907c4e00bf24",
+                "requestBody": {
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "properties": {
+                                    "email": {
+                                        "type": "string",
+                                        "example": "[EMAIL_ADDRESS]"
+                                    },
+                                    "password": {
+                                        "type": "string",
+                                        "example": "12345678"
+                                    }
+                                },
+                                "type": "object"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Success",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "success": {
+                                            "type": "boolean",
+                                            "example": true
+                                        },
+                                        "user": {
+                                            "$ref": "#/components/schemas/User"
+                                        },
+                                        "authorisation": {
+                                            "type": "object"
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    },
+                    "401": {
+                        "description": "Unauthorized"
+                    }
+                }
+            }
+        },
+        "/auth/logout": {
+            "post": {
+                "tags": [
+                    "Auth"
+                ],
+                "summary": "Logout",
+                "description": "Log the user out (Invalidate the token).",
+                "operationId": "0d29c740dc06d77602af8095bf4654cc",
+                "responses": {
+                    "200": {
+                        "description": "Success"
+                    }
+                },
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ]
+            }
+        },
+        "/auth/refresh": {
+            "post": {
+                "tags": [
+                    "Auth"
+                ],
+                "summary": "Refresh Token",
+                "description": "Refresh a token.",
+                "operationId": "f6c9683ed975ace7d035a09e6e2a9332",
+                "responses": {
+                    "200": {
+                        "description": "Success"
+                    }
+                },
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ]
+            }
+        },
+        "/auth/me": {
+            "get": {
+                "tags": [
+                    "Auth"
+                ],
+                "summary": "Get Profile",
+                "description": "Get the authenticated User.",
+                "operationId": "a9c495788506b114956e3f509e5d90a2",
+                "responses": {
+                    "200": {
+                        "description": "Success",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "success": {
+                                            "type": "boolean",
+                                            "example": true
+                                        },
+                                        "user": {
+                                            "$ref": "#/components/schemas/User"
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    }
+                },
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ]
+            }
+        },
+        "/kanjis": {
+            "get": {
+                "tags": [
+                    "Kanjis"
+                ],
+                "summary": "List Kanjis",
+                "description": "Display a listing of Kanji characters, with optional search and pagination.",
+                "operationId": "d7e5b1191a52f6323689c125550f78db",
+                "parameters": [
+                    {
+                        "name": "search",
+                        "in": "query",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "paginate",
+                        "in": "query",
+                        "schema": {
+                            "type": "string",
+                            "default": "true"
+                        }
+                    },
+                    {
+                        "name": "per_page",
+                        "in": "query",
+                        "schema": {
+                            "type": "integer",
+                            "default": 20
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Success"
+                    }
+                }
+            }
+        },
+        "/kanjis/{id}": {
+            "get": {
+                "tags": [
+                    "Kanjis"
+                ],
+                "summary": "Kanji Details",
+                "description": "Display the specified Kanji character details with related vocabulary words.",
+                "operationId": "1abd0f447192e11619b27513526191e2",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Success"
+                    },
+                    "404": {
+                        "description": "Not Found"
+                    }
+                }
+            }
+        },
+        "/quizzes/dynamic": {
+            "get": {
+                "tags": [
+                    "Quizzes"
+                ],
+                "summary": "Generate Dynamic Quiz",
+                "description": "Generate a dynamic multiple-choice quiz based on vocabulary.",
+                "operationId": "b3de7fa2180791d2d20b5d2b45737036",
+                "parameters": [
+                    {
+                        "name": "limit",
+                        "in": "query",
+                        "schema": {
+                            "type": "integer",
+                            "default": 10
+                        }
+                    },
+                    {
+                        "name": "type",
+                        "in": "query",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "group_id",
+                        "in": "query",
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Success"
+                    },
+                    "404": {
+                        "description": "Not Found"
+                    }
+                }
+            }
+        },
+        "/auth/vocabularies/{id}/bookmark": {
+            "post": {
+                "tags": [
+                    "User Progress"
+                ],
+                "summary": "Toggle Bookmark",
+                "operationId": "0058e713a4dac7366e100fcfc97e19e9",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Success"
+                    }
+                },
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ]
+            }
+        },
+        "/auth/vocabularies/{id}/status": {
+            "post": {
+                "tags": [
+                    "User Progress"
+                ],
+                "summary": "Update Learn Status",
+                "operationId": "c71df78c5c5cc18975d2c51efef7e1c9",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "requestBody": {
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "properties": {
+                                    "status": {
+                                        "type": "string",
+                                        "example": "mastered",
+                                        "enum": [
+                                            "learning",
+                                            "mastered",
+                                            "not_learned"
+                                        ]
+                                    }
+                                },
+                                "type": "object"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Success"
+                    },
+                    "422": {
+                        "description": "Validation Error"
+                    }
+                },
+                "security": [
+                    {
+                        "bearerAuth": []
+                    }
+                ]
+            }
+        },
+        "/vocabularies": {
+            "get": {
+                "tags": [
+                    "Vocabularies"
+                ],
+                "summary": "List Vocabularies",
+                "description": "Display a listing of vocabularies, with optional search, filtering, and pagination.",
+                "operationId": "5900ce3deeaae2bf9ce6fcfa85d72f89",
+                "parameters": [
+                    {
+                        "name": "search",
+                        "in": "query",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "type",
+                        "in": "query",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "group_id",
+                        "in": "query",
+                        "schema": {
+                            "type": "integer"
+                        }
+                    },
+                    {
+                        "name": "paginate",
+                        "in": "query",
+                        "schema": {
+                            "type": "string",
+                            "default": "true"
+                        }
+                    },
+                    {
+                        "name": "per_page",
+                        "in": "query",
+                        "schema": {
+                            "type": "integer",
+                            "default": 20
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Success"
+                    }
+                }
+            }
+        },
+        "/vocabularies/{id}": {
+            "get": {
+                "tags": [
+                    "Vocabularies"
+                ],
+                "summary": "Vocabulary Details",
+                "description": "Display the specified vocabulary item with related group and kanjis.",
+                "operationId": "50c7733471db90e14118073cd504ac44",
+                "parameters": [
+                    {
+                        "name": "id",
+                        "in": "path",
+                        "required": true,
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Success"
+                    },
+                    "404": {
+                        "description": "Not Found"
+                    }
+                }
+            }
+        },
+        "/vocabularies/random": {
+            "get": {
+                "tags": [
+                    "Vocabularies"
+                ],
+                "summary": "Random Flashcards",
+                "description": "Get a list ramdom vocabularies of flashcards",
+                "operationId": "18425105f42fb392f9ad97d503893824",
+                "parameters": [
+                    {
+                        "name": "limit",
+                        "in": "query",
+                        "schema": {
+                            "type": "integer",
+                            "default": 10
+                        }
+                    },
+                    {
+                        "name": "type",
+                        "in": "query",
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "group_id",
+                        "in": "query",
+                        "schema": {
+                            "type": "integer"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Success",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "success": {
+                                            "type": "boolean",
+                                            "example": true
+                                        },
+                                        "data": {
+                                            "type": "array",
+                                            "items": {
+                                                "$ref": "#/components/schemas/Vocabulary"
+                                            }
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "User": {
+                "properties": {
+                    "id": {
+                        "type": "integer",
+                        "example": 1
+                    },
+                    "username": {
+                        "type": "string",
+                        "example": "Test User"
+                    },
+                    "email": {
+                        "type": "string",
+                        "example": "test@example.com"
+                    },
+                    "avatar": {
+                        "type": "string",
+                        "example": "https://example.com/avatar.png",
+                        "nullable": true
+                    },
+                    "created_at": {
+                        "type": "string",
+                        "format": "date-time"
+                    },
+                    "updated_at": {
+                        "type": "string",
+                        "format": "date-time"
+                    }
+                },
+                "type": "object"
+            },
+            "Alphabet": {
+                "properties": {
+                    "id": {
+                        "type": "integer",
+                        "example": 1
+                    },
+                    "group_id": {
+                        "type": "integer",
+                        "example": 1
+                    },
+                    "character": {
+                        "type": "string",
+                        "example": "あ"
+                    },
+                    "romaji": {
+                        "type": "string",
+                        "example": "a"
+                    },
+                    "type": {
+                        "type": "string",
+                        "example": "hiragana"
+                    },
+                    "order_index": {
+                        "type": "integer",
+                        "example": 1
+                    }
+                },
+                "type": "object"
+            },
+            "AlphabetGroup": {
+                "properties": {
+                    "id": {
+                        "type": "integer",
+                        "example": 1
+                    },
+                    "name": {
+                        "type": "string",
+                        "example": "A-Row (あいうえお)"
+                    },
+                    "type": {
+                        "type": "string",
+                        "example": "hiragana"
+                    },
+                    "order_index": {
+                        "type": "integer",
+                        "example": 1
+                    },
+                    "alphabets": {
+                        "type": "array",
+                        "items": {
+                            "$ref": "#/components/schemas/Alphabet"
+                        }
+                    }
+                },
+                "type": "object"
+            },
+            "Vocabulary": {
+                "properties": {
+                    "id": {
+                        "type": "integer",
+                        "example": 1
+                    },
+                    "group_id": {
+                        "type": "integer",
+                        "example": 1
+                    },
+                    "word": {
+                        "type": "string",
+                        "example": "一つ"
+                    },
+                    "furigana": {
+                        "type": "string",
+                        "example": "ひとつ",
+                        "nullable": true
+                    },
+                    "romaji": {
+                        "type": "string",
+                        "example": "hitotsu"
+                    },
+                    "meaning": {
+                        "type": "string",
+                        "example": "Một cái"
+                    },
+                    "type": {
+                        "type": "string",
+                        "example": "numbers_counters",
+                        "nullable": true
+                    }
+                },
+                "type": "object"
+            },
+            "Kanji": {
+                "properties": {
+                    "id": {
+                        "type": "integer",
+                        "example": 1
+                    },
+                    "character": {
+                        "type": "string",
+                        "example": "一"
+                    },
+                    "meaning": {
+                        "type": "string",
+                        "example": "Một"
+                    },
+                    "onyomi": {
+                        "type": "string",
+                        "example": "イチ",
+                        "nullable": true
+                    },
+                    "kunyomi": {
+                        "type": "string",
+                        "example": "ひと",
+                        "nullable": true
+                    },
+                    "stroke_path": {
+                        "type": "string",
+                        "example": "kanji/1.svg",
+                        "nullable": true
+                    }
+                },
+                "type": "object"
+            }
+        },
+        "securitySchemes": {
+            "bearerAuth": {
+                "type": "http",
+                "name": "Authorization",
+                "in": "header",
+                "bearerFormat": "JWT",
+                "scheme": "bearer"
+            }
+        }
+    },
+    "tags": [
+        {
+            "name": "Alphabets",
+            "description": "Alphabets"
+        },
+        {
+            "name": "Auth",
+            "description": "Auth"
+        },
+        {
+            "name": "Kanjis",
+            "description": "Kanjis"
+        },
+        {
+            "name": "Quizzes",
+            "description": "Quizzes"
+        },
+        {
+            "name": "User Progress",
+            "description": "User Progress"
+        },
+        {
+            "name": "Vocabularies",
+            "description": "Vocabularies"
+        }
+    ]
+}

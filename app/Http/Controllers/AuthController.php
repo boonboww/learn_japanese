@@ -8,6 +8,8 @@ use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Routing\Controllers\HasMiddleware;
 use Illuminate\Routing\Controllers\Middleware;
+use OpenApi\Attributes as OA;
+
 
 class AuthController extends Controller implements HasMiddleware
 {
@@ -28,6 +30,30 @@ class AuthController extends Controller implements HasMiddleware
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\JsonResponse
      */
+
+
+    #[OA\Post(
+        path: "/auth/register",
+        summary: "Register a new user",
+        tags: ["Auth"],
+        requestBody: new OA\RequestBody(
+            required: true,
+            content: new OA\JsonContent(
+                properties: [
+                    new OA\Property(property: "username", type: "string", example: "Dong"),
+                    new OA\Property(property: "email", type: "string", example: "[EMAIL_ADDRESS]"),
+                    new OA\Property(property: "password", type: "string", format: "password", example: "12345678"),
+                    new OA\Property(property: "password_confirmation", type: "string", format: "password", example: "12345678"),
+                    new OA\Property(property: "avatar", type: "string", nullable: true, example: "https://example.com/avatar.png")
+                ]
+            )
+        ),
+        responses: [
+            new OA\Response(response: 201, description: "Registered successfully"),
+            new OA\Response(response: 422, description: "Validation error")
+        ]
+    )]
+
     public function register(Request $request)
     {
         $validator = Validator::make($request->all(), [
@@ -52,7 +78,7 @@ class AuthController extends Controller implements HasMiddleware
         ]);
 
         // Generate token for the newly registered user
-        $auth = auth();
+        $auth = auth('api');
         assert($auth instanceof \PHPOpenSourceSaver\JWTAuth\JWTGuard);
         $token = $auth->login($user);
 
@@ -74,6 +100,20 @@ class AuthController extends Controller implements HasMiddleware
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\JsonResponse
      */
+    #[OA\Post(path: "/auth/login", summary: "Login", tags: ["Auth"],
+        requestBody: new OA\RequestBody(required: true, content: new OA\JsonContent(properties: [
+            new OA\Property(property: "email", type: "string", example: "[EMAIL_ADDRESS]"),
+            new OA\Property(property: "password", type: "string", example: "12345678")
+        ])),
+        responses: [
+            new OA\Response(response: 200, description: "Success", content: new OA\JsonContent(properties: [
+                new OA\Property(property: "success", type: "boolean", example: true),
+                new OA\Property(property: "user", ref: "#/components/schemas/User"),
+                new OA\Property(property: "authorisation", type: "object")
+            ])),
+            new OA\Response(response: 401, description: "Unauthorized")
+        ]
+    )]
     public function login(Request $request)
     {
         $validator = Validator::make($request->all(), [
@@ -115,9 +155,13 @@ class AuthController extends Controller implements HasMiddleware
 
     /**
      * Log the user out (Invalidate the token).
-     *
+     * 
      * @return \Illuminate\Http\JsonResponse
      */
+
+    #[OA\Post(path: "/auth/logout", summary: "Logout", security: [["bearerAuth" => []]], tags: ["Auth"],
+        responses: [new OA\Response(response: 200, description: "Success")]
+    )]
     public function logout()
     {
         $auth = auth();
@@ -135,6 +179,11 @@ class AuthController extends Controller implements HasMiddleware
      *
      * @return \Illuminate\Http\JsonResponse
      */
+
+    #[OA\Post(path: "/auth/refresh", summary: "Refresh Token", security: [["bearerAuth" => []]], tags: ["Auth"],
+        responses: [new OA\Response(response: 200, description: "Success")]
+    )]
+
     public function refresh()
     {
         $auth = auth();
@@ -155,6 +204,15 @@ class AuthController extends Controller implements HasMiddleware
      *
      * @return \Illuminate\Http\JsonResponse
      */
+    #[OA\Get(path: "/auth/me", summary: "Get Profile", security: [["bearerAuth" => []]], tags: ["Auth"],
+        responses: [
+            new OA\Response(response: 200, description: "Success", content: new OA\JsonContent(properties: [
+                new OA\Property(property: "success", type: "boolean", example: true),
+                new OA\Property(property: "user", ref: "#/components/schemas/User")
+            ]))
+        ]
+    )]
+
     public function me()
     {
         $auth = auth();
