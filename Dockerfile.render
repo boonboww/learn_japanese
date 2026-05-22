@@ -34,6 +34,10 @@ COPY . /var/www/html
 # Cài đặt các thư viện composer tối ưu cho production (bỏ qua dev dependencies)
 RUN composer install --no-dev --optimize-autoloader
 
+# Generate Swagger documentation and clear route/config caches
+RUN php artisan l5-swagger:generate
+RUN php artisan optimize:clear
+
 # Phân quyền ghi cho các thư mục lưu trữ và cache của Laravel
 RUN chown -R www-data:www-data /var/www/html/storage /var/www/html/bootstrap/cache
 

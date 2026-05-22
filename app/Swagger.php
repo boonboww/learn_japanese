@@ -10,6 +10,10 @@ use OpenApi\Attributes as OA;
     description: "API endpoints for Learn Japanese application"
 )]
 #[OA\Server(
+    url: "https://learn-japanese-0464.onrender.com/api",
+    description: "Production Server"
+)]
+#[OA\Server(
     url: "http://127.0.0.1:8081/api",
     description: "Local Development Server"
 )]
